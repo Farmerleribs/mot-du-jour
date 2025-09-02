@@ -3,16 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mot du jour</title>
+    <title>Jeu – Mot du jour</title>
     <!-- Google Fonts -->
     <link
       href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@700&display=swap"
       rel="stylesheet"
     />
-    <!-- Stylesheet -->
+    <!-- Stylesheet commun -->
     <link rel="stylesheet" href="style.css" />
 
-    <!-- Google Analytics (remplacez G-XXXXXXXXXX par votre identifiant de mesure) -->
+    <!-- Google Analytics (remplacez G-XXXXXXXXXX par votre identifiant) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -20,7 +20,7 @@
         dataLayer.push(arguments);
       }
       gtag('js', new Date());
-      // Remplacez 'G-XXXXXXXXXX' par l'identifiant fourni par Google Analytics
+      // Remplacez 'G-XXXXXXXXXX' par votre identifiant Analytics
       gtag('config', 'G-XXXXXXXXXX');
     </script>
 
@@ -33,19 +33,17 @@
   </head>
   <body>
     <header>
-      <h1>Mot&nbsp;du&nbsp;jour</h1>
-      <p id="date"></p>
+      <h1>Jeu&nbsp;–&nbsp;Devinez&nbsp;le&nbsp;mot</h1>
       <!-- Navigation entre les pages -->
       <nav class="main-nav">
-        <a href="index.html" class="nav-link active">Mot du jour</a>
-        <a href="jeu.html" class="nav-link">Jeu</a>
+        <a href="index.html" class="nav-link">Mot du jour</a>
+        <a href="jeu.html" class="nav-link active">Jeu</a>
       </nav>
     </header>
 
     <main>
       <!-- Conteneur pour la publicité (AdSense) -->
       <div class="ad-container">
-        <!-- Remplacez les valeurs "ca-pub-XXXXXXXXXXXXXX" et "1234567890" par vos identifiants AdSense -->
         <ins
           class="adsbygoogle"
           style="display:block; text-align:center; margin-bottom:1.5rem;"
@@ -57,23 +55,27 @@
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
       </div>
-      <div class="word-card">
-        <h2 id="word">mot</h2>
-        <p id="definition">Définition du mot.</p>
-        <ul id="examples"></ul>
-      </div>
-      <div class="controls">
-        <button id="prev-btn" aria-label="Jour précédent">← Jour précédent</button>
-        <button id="next-btn" aria-label="Jour suivant">Jour suivant →</button>
+      <div class="game-card">
+        <p id="game-definition">Chargement de la définition…</p>
+        <input
+          type="text"
+          id="game-guess"
+          placeholder="Votre réponse (entrez le mot)"
+          aria-label="Entrez votre proposition"
+        />
+        <button id="guess-btn">Valider</button>
+        <p id="game-feedback" role="status"></p>
+        <button id="reveal-btn" style="display:none; margin-top:1rem;">Révéler le mot</button>
+        <p id="revealed-word" style="display:none; margin-top:0.5rem; font-weight:bold;"></p>
       </div>
     </main>
 
     <footer>
-      <p>&copy; 2025 – Apprenez un nouveau mot chaque jour.</p>
+      <p>&copy; 2025 – Apprenez en vous amusant.</p>
     </footer>
 
-    <!-- Data and Logic -->
+    <!-- Scripts communs et de jeu -->
     <script src="words.js"></script>
-    <script src="script.js"></script>
+    <script src="game.js"></script>
   </body>
 </html>

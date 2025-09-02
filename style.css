@@ -9,12 +9,15 @@
 
 /* Variables CSS pour centraliser les couleurs et les espacements. */
 :root {
-  --bg-color: #f5f5fa;
+  /* Couleurs principales pour une esthétique neumorphique */
+  --bg-color: #e0e0e0;
   --primary-color: #1a237e;
   --primary-dark: #303f9f;
   --accent-color: #ffca28;
   --text-color: #212121;
-  --card-bg: #ffffff;
+  --card-bg: #e6e6e6;
+  --shadow-light: #ffffff;
+  --shadow-dark: #bebebe;
 }
 
 /* Réinitialisation de base et typographie globale */
@@ -32,6 +35,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 header {
@@ -39,6 +43,7 @@ header {
   color: white;
   padding: 2rem 1rem;
   text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 header h1 {
@@ -53,6 +58,38 @@ header p#date {
   font-weight: 400;
 }
 
+/* Navigation principale */
+.main-nav {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  font-weight: 600;
+  padding-bottom: 0.2rem;
+  position: relative;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 2px;
+  background-color: transparent;
+  transition: background-color 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  background-color: var(--accent-color);
+}
+
 main {
   flex: 1;
   display: flex;
@@ -65,12 +102,19 @@ main {
 .word-card {
   background-color: var(--card-bg);
   padding: 2rem 2.5rem;
-  border-radius: 0.5rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 1rem;
+  box-shadow: 9px 9px 16px var(--shadow-dark), -9px -9px 16px var(--shadow-light);
   max-width: 600px;
   width: 100%;
   text-align: center;
-  animation: fadeIn 0.6s ease both;
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  opacity: 1;
+}
+
+/* Animation de fondu pour le changement de mot */
+.word-card.fade {
+  opacity: 0;
+  transform: translateY(10px);
 }
 
 .word-card h2 {
@@ -109,12 +153,23 @@ main {
 .controls button {
   padding: 0.8rem 1.5rem;
   border: none;
-  border-radius: 0.4rem;
-  background-color: var(--primary-color);
-  color: white;
+  border-radius: 0.8rem;
+  background-color: var(--card-bg);
+  color: var(--primary-color);
   font-size: 1rem;
   cursor: pointer;
-  transition: background-color 0.2s ease, transform 0.1s ease;
+  box-shadow: 6px 6px 12px var(--shadow-dark), -6px -6px 12px var(--shadow-light);
+  transition: all 0.2s ease;
+}
+
+.controls button:hover {
+  box-shadow: inset 4px 4px 8px var(--shadow-dark), inset -4px -4px 8px var(--shadow-light);
+}
+
+.controls button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  box-shadow: none;
 }
 
 .controls button:hover {
@@ -131,6 +186,60 @@ footer {
   background-color: var(--primary-color);
   color: white;
   font-size: 0.9rem;
+}
+
+/* Conteneur pour les publicités AdSense */
+.ad-container {
+  width: 100%;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style pour la page de jeu */
+.game-card {
+  background-color: var(--card-bg);
+  padding: 2rem 2.5rem;
+  border-radius: 1rem;
+  box-shadow: 9px 9px 16px var(--shadow-dark), -9px -9px 16px var(--shadow-light);
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+}
+
+.game-card input {
+  width: 80%;
+  padding: 0.6rem 1rem;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 0.8rem;
+  background-color: var(--card-bg);
+  box-shadow: inset 4px 4px 8px var(--shadow-dark), inset -4px -4px 8px var(--shadow-light);
+  font-size: 1rem;
+}
+
+.game-card button {
+  margin-top: 1rem;
+  padding: 0.7rem 1.4rem;
+  border: none;
+  border-radius: 0.8rem;
+  background-color: var(--card-bg);
+  color: var(--primary-color);
+  font-size: 1rem;
+  box-shadow: 6px 6px 12px var(--shadow-dark), -6px -6px 12px var(--shadow-light);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.game-card button:hover {
+  box-shadow: inset 4px 4px 8px var(--shadow-dark), inset -4px -4px 8px var(--shadow-light);
+}
+
+.game-card button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  box-shadow: none;
 }
 
 /* Animation pour l'apparition du contenu. */

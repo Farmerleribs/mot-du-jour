@@ -299,6 +299,312 @@ const words = [
       "Elle affrontait les critiques avec une équanimité remarquable.",
       "La méditation aide à développer l'équanimité dans la vie quotidienne."
     ]
+  },
+  {
+    mot: 'Obstination',
+    definition:
+      "Tendance à s'entêter, persévérance excessive qui peut devenir entêtement.",
+    exemples: [
+      "Son obstination l'a conduit à terminer la course malgré la fatigue.",
+      "Il a montré une obstination admirable face aux difficultés administratives."
+    ]
+  },
+  {
+    mot: 'Lugubre',
+    definition: "Qui évoque une profonde tristesse ou un caractère funèbre.",
+    exemples: [
+      "Le paysage lugubre accentuait la mélancolie du moment.",
+      "Elle n'aimait pas l'ambiance lugubre des vieilles demeures abandonnées."
+    ]
+  },
+  {
+    mot: 'Pernicieux',
+    definition: "Qui est nuisible, dangereux et qui peut provoquer des dégâts durables.",
+    exemples: [
+      "Cette rumeur pernicieuse s'est répandue rapidement dans le village.",
+      "Il dénonçait les effets pernicieux de certaines habitudes alimentaires."
+    ]
+  },
+  {
+    mot: 'Surréaliste',
+    definition:
+      "Qui évoque un univers étrange, décalé ou irrationnel, comme dans le mouvement artistique du surréalisme.",
+    exemples: [
+      "Le décor du film est totalement surréaliste et envoûtant.",
+      "Ils ont vécu une expérience surréaliste en se perdant dans la ville déserte."
+    ]
+  },
+  {
+    mot: 'Stoïque',
+    definition:
+      "Qui fait preuve de stoïcisme, d'un courage imperturbable et accepte la douleur sans se plaindre.",
+    exemples: [
+      "Malgré les critiques, elle est restée stoïque et déterminée.",
+      "Il supportait stoïquement l'attente interminable."
+    ]
+  },
+  {
+    mot: 'Pugnacité',
+    definition: "Ténacité et combativité dans l'effort pour atteindre un objectif.",
+    exemples: [
+      "Sa pugnacité a fini par payer : il a obtenu le contrat.",
+      "On admire la pugnacité des athlètes lors des compétitions."
+    ]
+  },
+  {
+    mot: 'Fluctuation',
+    definition: "Variation irrégulière d'une valeur ou d'un phénomène dans le temps.",
+    exemples: [
+      "Les fluctuations de la température au printemps rendent le jardinage délicat.",
+      "La fluctuation des marchés nécessite une vigilance constante."
+    ]
+  },
+  {
+    mot: 'Dichotomie',
+    definition:
+      "Division de quelque chose en deux parties que l'on oppose nettement ; opposition nette entre deux éléments.",
+    exemples: [
+      "Il existe une dichotomie entre théorie et pratique dans ce domaine.",
+      "La dichotomie entre vie privée et vie publique est parfois difficile à gérer."
+    ]
+  },
+  {
+    mot: 'Complaisance',
+    definition:
+      "Attitude de bienveillance excessive, souvent intéressée, envers quelqu'un ou quelque chose.",
+    exemples: [
+      "Il est difficile de progresser si l'on ne dépasse pas la complaisance envers soi-même.",
+      "Sa complaisance à l'égard de certains comportements était mal perçue."
+    ]
+  },
+  {
+    mot: 'Vitupérer',
+    definition: "Blâmer ou critiquer vivement quelqu'un ou quelque chose.",
+    exemples: [
+      "Il ne cessait de vitupérer contre les lenteurs de l'administration.",
+      "Elle a vitupéré son équipe après la défaite."
+    ]
+  },
+  {
+    mot: 'Fulgurance',
+    definition:
+      "Brillance soudaine et intense, caractère de ce qui frappe l'esprit rapidement et fortement.",
+    exemples: [
+      "Un éclair de fulgurance a éclairé son esprit et la solution est apparue.",
+      "Ses fulgurances littéraires ont marqué toute une génération."
+    ]
+  },
+  {
+    mot: 'Procrastination',
+    definition: "Tendance à remettre au lendemain ce qui pourrait être fait le jour même.",
+    exemples: [
+      "Sa procrastination chronique l'empêchait de mener à bien ses projets.",
+      "Pour vaincre la procrastination, il a commencé à planifier ses tâches."
+    ]
+  },
+  {
+    mot: 'Hérésie',
+    definition: "Idée ou opinion qui s'oppose aux croyances ou aux doctrines établies, surtout en matière religieuse.",
+    exemples: [
+      "Il a été accusé d'hérésie pour avoir remis en question les dogmes.",
+      "Au Moyen Âge, l'hérésie était sévèrement punie."
+    ]
+  },
+  {
+    mot: 'Oxymore',
+    definition:
+      "Figure de style qui réunit deux termes apparemment contradictoires dans une même expression.",
+    exemples: [
+      "L'expression 'silence assourdissant' est un oxymore bien connu.",
+      "Les auteurs utilisent souvent des oxymores pour surprendre le lecteur."
+    ]
+  },
+  {
+    mot: 'Parcimonie',
+    definition: "Économie extrême dans la dépense ou la distribution de quelque chose.",
+    exemples: [
+      "Elle distribue ses compliments avec parcimonie, ce qui les rend précieux.",
+      "La parcimonie de ses explications laissait ses étudiants perplexes."
+    ]
+  },
+  {
+    mot: 'Ostensible',
+    definition: "Qui est fait pour être vu, que l'on ne cherche pas à cacher.",
+    exemples: [
+      "Il affichait une ostensible indifférence face aux critiques.",
+      "Sa richesse ostensible attirait l'attention de tous."
+    ]
+  },
+  {
+    mot: 'Sagouin',
+    definition: "Personne malpropre ou négligée ; terme familier parfois péjoratif.",
+    exemples: [
+      "Arrête de te comporter comme un sagouin et range ta chambre !",
+      "Il est revenu couvert de boue, un vrai sagouin."
+    ]
+  },
+  {
+    mot: 'Irascible',
+    definition: "Qui se met facilement en colère, prompt à s'irriter.",
+    exemples: [
+      "Son caractère irascible rend parfois les discussions difficiles.",
+      "Ne le provoque pas, il est réputé irascible."
+    ]
+  },
+  {
+    mot: 'Misanthrope',
+    definition: "Personne qui éprouve de l'aversion pour le genre humain et préfère éviter la société.",
+    exemples: [
+      "Il vit reclus depuis des années, presque misanthrope.",
+      "La pièce de Molière intitulée 'Le Misanthrope' explore ce trait de caractère."
+    ]
+  },
+  {
+    mot: 'Chimère',
+    definition: "Projet ou idée sans fondement, rêve irréaliste ou illusoire.",
+    exemples: [
+      "Vouloir vivre éternellement est une chimère.",
+      "Il poursuivait la chimère d'un monde parfait."
+    ]
+  },
+  {
+    mot: 'Verve',
+    definition:
+      "Faculté d'expression vive et imagée, enthousiasme et fougue dans le discours ou l'écriture.",
+    exemples: [
+      "Sa verve au micro captivait le public.",
+      "L'écrivain est apprécié pour la verve de ses récits."
+    ]
+  },
+  {
+    mot: 'Nébuleux',
+    definition: "Qui manque de clarté, obscur, confus.",
+    exemples: [
+      "Son explication était tellement nébuleuse que personne n'a compris.",
+      "Les souvenirs de cette époque restent nébuleux dans son esprit."
+    ]
+  },
+  {
+    mot: 'Anachronique',
+    definition:
+      "Qui est placé à une époque qui n'est pas la sienne ; déplacé dans le temps.",
+    exemples: [
+      "Utiliser un téléphone à cadran aujourd'hui semble anachronique.",
+      "Son style vestimentaire anachronique suscitait des regards amusés."
+    ]
+  },
+  {
+    mot: 'Inébranlable',
+    definition: "Qui ne peut être ébranlé, que rien ne perturbe ou ne fait changer.",
+    exemples: [
+      "Sa confiance en ses amis est inébranlable.",
+      "Ils ont manifesté une volonté inébranlable face à l'adversité."
+    ]
+  }
+  ,
+  {
+    mot: 'Altruisme',
+    definition: "Tendance à se soucier du bien-être des autres et à agir de manière désintéressée.",
+    exemples: [
+      "Son altruisme l'a poussé à consacrer du temps aux personnes démunies.",
+      "L'altruisme est une qualité que l'on apprécie chez ceux qui donnent sans attendre en retour."
+    ]
+  },
+  {
+    mot: 'Rectitude',
+    definition: "Qualité de ce qui est droit et moralement irréprochable ; droiture.",
+    exemples: [
+      "Sa rectitude morale en faisait un juge respecté.",
+      "Il agissait avec rectitude, même dans les situations difficiles."
+    ]
+  },
+  {
+    mot: 'Cacophonie',
+    definition: "Mélange discordant de sons désagréables à l'oreille.",
+    exemples: [
+      "La cacophonie des klaxons dans la rue l'empêchait de se concentrer.",
+      "Au début du concert, l'accord des instruments créait une brève cacophonie."
+    ]
+  },
+  {
+    mot: 'Polysémique',
+    definition: "Se dit d'un mot qui possède plusieurs sens selon le contexte.",
+    exemples: [
+      "Le terme 'clé' est polysémique : il désigne un objet pour ouvrir, mais aussi une solution.",
+      "Les mots polysémiques enrichissent la langue grâce à leurs sens multiples."
+    ]
+  },
+  {
+    mot: 'Sérendipité',
+    definition: "Fait de faire par hasard une découverte heureuse et inattendue alors que l'on cherchait autre chose.",
+    exemples: [
+      "La découverte de la pénicilline est souvent citée comme un exemple de sérendipité.",
+      "Ils ont trouvé un nouveau chemin grâce à la sérendipité alors qu'ils étaient perdus."
+    ]
+  },
+  {
+    mot: 'Circumspection',
+    definition: "Attitude prudente et réservée qui consiste à réfléchir avant d'agir ou de parler.",
+    exemples: [
+      "Par circumspection, il n'a pas révélé toutes les informations immédiatement.",
+      "Elle avançait avec circumspection dans ses démarches administratives."
+    ]
+  },
+  {
+    mot: 'Laconique',
+    definition: "Qui s'exprime en peu de mots, de façon concise.",
+    exemples: [
+      "Il a donné une réponse laconique, sans plus de détails.",
+      "Les messages laconiques de son ami l'inquiétaient légèrement."
+    ]
+  },
+  {
+    mot: 'Ineffable',
+    definition: "Qui ne peut être exprimé par des mots en raison de son intensité ou de sa nature indescriptible.",
+    exemples: [
+      "Ils ont vécu un bonheur ineffable lors de la naissance de leur enfant.",
+      "La beauté ineffable du ciel étoilé la laissait sans voix."
+    ]
+  },
+  {
+    mot: 'Syllogisme',
+    definition: "Raisonnement logique composé de deux prémisses aboutissant à une conclusion.",
+    exemples: [
+      "Le professeur expliqua aux élèves le principe du syllogisme en logique.",
+      "Comprendre un syllogisme aide à structurer sa pensée de manière cohérente."
+    ]
+  },
+  {
+    mot: 'Ubuesque',
+    definition: "Qui rappelle l'absurdité ou le grotesque de l'œuvre 'Ubu roi' d'Alfred Jarry ; extravagant et ridicule.",
+    exemples: [
+      "La situation ubuesque déclencha des éclats de rire dans l'assistance.",
+      "Cette bureaucratie ubuesque décourageait les demandeurs."
+    ]
+  },
+  {
+    mot: 'Velléité',
+    definition: "Intention faible ou passagère qui ne se traduit pas en acte ou en décision ferme.",
+    exemples: [
+      "Il avait la velléité de se remettre au sport sans réellement s'engager.",
+      "Les velléités de réforme du gouvernement restaient floues."
+    ]
+  },
+  {
+    mot: 'Xénophile',
+    definition: "Qui éprouve de l'attirance ou de la sympathie pour les cultures et les peuples étrangers.",
+    exemples: [
+      "Sa nature xénophile la poussait à voyager et à découvrir de nouvelles traditions.",
+      "Un esprit xénophile enrichit ses connaissances grâce à l'ouverture aux autres."
+    ]
+  },
+  {
+    mot: 'Onirique',
+    definition: "Relatif aux rêves, qui évoque un univers imaginaire ou féerique.",
+    exemples: [
+      "Le film avait une atmosphère onirique qui transportait le spectateur.",
+      "Ses créations artistiques reflètent un monde onirique et poétique."
+    ]
   }
 ];
 
