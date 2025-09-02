@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mot du jour</title>
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Mot&nbsp;du&nbsp;jour</h1>
+      <p id="date"></p>
+    </header>
+
+    <main>
+      <div class="word-card">
+        <h2 id="word">mot</h2>
+        <p id="definition">Définition du mot.</p>
+        <ul id="examples"></ul>
+      </div>
+      <div class="controls">
+        <button id="prev-btn" aria-label="Jour précédent">← Jour précédent</button>
+        <button id="next-btn" aria-label="Jour suivant">Jour suivant →</button>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 – Apprenez un nouveau mot chaque jour.</p>
+    </footer>
+
+    <!-- Data and Logic -->
+    <script src="words.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
