@@ -38,13 +38,19 @@ body {
   overflow-x: hidden;
 }
 
+/*
+ * En-tête en style neumorphique. Le fond et les ombres se
+ * confondent avec le reste de la page pour donner un effet
+ * en relief. Les coins inférieurs sont légèrement arrondis.
+ */
 header {
-  background-color: var(--primary-color);
-  color: white;
-  padding: 2rem 1rem;
-  text-align: center;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
+      background-color: var(--card-bg);
+      color: var(--primary-color);
+      padding: 2rem 1rem;
+      text-align: center;
+      border-radius: 0 0 1rem 1rem;
+      box-shadow: 9px 9px 16px var(--shadow-dark), -9px -9px 16px var(--shadow-light);
+    }
 
 header h1 {
   font-family: 'Playfair Display', serif;
@@ -58,37 +64,43 @@ header p#date {
   font-weight: 400;
 }
 
-/* Navigation principale */
-.main-nav {
-  margin-top: 1rem;
-  display: flex;
-  justify-content: center;
-  gap: 1.5rem;
-}
+    /* Navigation principale */
+    .main-nav {
+      margin-top: 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+    }
 
-.nav-link {
-  color: rgba(255, 255, 255, 0.9);
-  text-decoration: none;
-  font-weight: 600;
-  padding-bottom: 0.2rem;
-  position: relative;
-}
+    .nav-link {
+      color: var(--primary-color);
+      text-decoration: none;
+      font-weight: 600;
+      padding-bottom: 0.2rem;
+      position: relative;
+      transition: color 0.3s ease;
+    }
 
-.nav-link::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: -4px;
-  width: 100%;
-  height: 2px;
-  background-color: transparent;
-  transition: background-color 0.3s ease;
-}
+    .nav-link::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: -4px;
+      width: 100%;
+      height: 2px;
+      background-color: transparent;
+      transition: background-color 0.3s ease;
+    }
 
-.nav-link:hover::after,
-.nav-link.active::after {
-  background-color: var(--accent-color);
-}
+    .nav-link:hover,
+    .nav-link.active {
+      color: var(--primary-dark);
+    }
+
+    .nav-link:hover::after,
+    .nav-link.active::after {
+      background-color: var(--accent-color);
+    }
 
 main {
   flex: 1;
@@ -150,35 +162,31 @@ main {
   justify-content: center;
 }
 
-.controls button {
-  padding: 0.8rem 1.5rem;
-  border: none;
-  border-radius: 0.8rem;
-  background-color: var(--card-bg);
-  color: var(--primary-color);
-  font-size: 1rem;
-  cursor: pointer;
-  box-shadow: 6px 6px 12px var(--shadow-dark), -6px -6px 12px var(--shadow-light);
-  transition: all 0.2s ease;
-}
+    .controls button {
+      padding: 0.8rem 1.5rem;
+      border: none;
+      border-radius: 0.8rem;
+      background-color: var(--card-bg);
+      color: var(--primary-color);
+      font-size: 1rem;
+      cursor: pointer;
+      box-shadow: 6px 6px 12px var(--shadow-dark), -6px -6px 12px var(--shadow-light);
+      transition: all 0.2s ease;
+    }
 
-.controls button:hover {
-  box-shadow: inset 4px 4px 8px var(--shadow-dark), inset -4px -4px 8px var(--shadow-light);
-}
+    .controls button:hover {
+      box-shadow: inset 4px 4px 8px var(--shadow-dark), inset -4px -4px 8px var(--shadow-light);
+    }
 
-.controls button:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-  box-shadow: none;
-}
+    .controls button:active {
+      transform: translateY(2px);
+    }
 
-.controls button:hover {
-  background-color: var(--primary-dark);
-}
-
-.controls button:active {
-  transform: translateY(2px);
-}
+    .controls button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      box-shadow: none;
+    }
 
 footer {
   text-align: center;

@@ -12,6 +12,9 @@
   let attempts = 0;
   const maxAttempts = 3;
 
+  // Tableau d'indices générés pour le mot courant.
+  let hints = [];
+
   /**
    * Sélectionne un mot aléatoirement dans la liste des mots et
    * initialise l'affichage.
@@ -21,6 +24,17 @@
     const index = Math.floor(Math.random() * words.length);
     targetWord = words[index];
     attempts = 0;
+    // Générer des indices si le mot est défini
+    hints = [];
+    if (targetWord && targetWord.mot) {
+      const mot = targetWord.mot;
+      // Indice 1 : la première lettre
+      hints.push(`Le mot commence par : ${mot.charAt(0).toUpperCase()}`);
+      // Indice 2 : le nombre de lettres
+      hints.push(`Le mot contient ${mot.length} lettres`);
+      // Indice 3 : la dernière lettre
+      hints.push(`Le mot se termine par : ${mot.charAt(mot.length - 1).toUpperCase()}`);
+    }
     // Mettre à jour la définition
     const definitionElem = document.getElementById('game-definition');
     if (definitionElem) {
@@ -29,10 +43,16 @@
     // Réinitialiser les champs
     const input = document.getElementById('game-guess');
     const feedback = document.getElementById('game-feedback');
+    const hintElem = document.getElementById('game-hint');
     const revealBtn = document.getElementById('reveal-btn');
     const revealedWord = document.getElementById('revealed-word');
     if (input) input.value = '';
     if (feedback) feedback.textContent = '';
+    // Réinitialiser l'indice
+    if (hintElem) {
+      hintElem.textContent = '';
+      hintElem.style.display = 'none';
+    }
     // Cacher et réinitialiser le bouton Révéler et le mot
     if (revealBtn) revealBtn.style.display = 'none';
     if (revealBtn) revealBtn.disabled = false;
@@ -52,6 +72,7 @@
   function handleGuess() {
     const input = document.getElementById('game-guess');
     const feedback = document.getElementById('game-feedback');
+    const hintElem = document.getElementById('game-hint');
     if (!input || !feedback || !targetWord) return;
     const userGuess = input.value.trim().toLowerCase();
     // Si l'entrée est vide, ne rien faire
@@ -66,6 +87,8 @@
       input.disabled = true;
       const guessBtn = document.getElementById('guess-btn');
       if (guessBtn) guessBtn.disabled = true;
+      // Masquer l'indice puisque le mot est trouvé
+      if (hintElem) hintElem.style.display = 'none';
       return;
     }
     if (attempts >= maxAttempts) {
@@ -74,6 +97,11 @@
       if (guessBtn) guessBtn.disabled = true;
       input.disabled = true;
       feedback.textContent = `Dommage ! Vous avez épuisé vos essais.`;
+      // Afficher le dernier indice si disponible
+      if (hintElem && hints[attempts - 1]) {
+        hintElem.textContent = `Indice : ${hints[attempts - 1]}`;
+        hintElem.style.display = 'block';
+      }
       const revealBtn = document.getElementById('reveal-btn');
       if (revealBtn) revealBtn.style.display = 'inline-block';
       return;
@@ -81,6 +109,11 @@
     // Donner un retour temporaire et indiquer le nombre d'essais restants
     const remaining = maxAttempts - attempts;
     feedback.textContent = `Ce n'est pas le mot recherché. Tentatives restantes : ${remaining}.`;
+    // Afficher un indice correspondant au nombre d'essais effectués
+    if (hintElem && hints[attempts - 1]) {
+      hintElem.textContent = `Indice : ${hints[attempts - 1]}`;
+      hintElem.style.display = 'block';
+    }
   }
 
   /**
