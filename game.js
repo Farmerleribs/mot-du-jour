@@ -120,6 +120,8 @@
           card.classList.remove('success-animation');
         }, 1000);
       }
+      // Déclencher des particules de succès
+      createFallingParticles('success');
       return;
     }
     if (attempts >= maxAttempts) {
@@ -135,6 +137,8 @@
       }
       const revealBtn = document.getElementById('reveal-btn');
       if (revealBtn) revealBtn.style.display = 'inline-block';
+      // Déclencher des particules d'erreur après avoir épuisé les essais
+      createFallingParticles('error');
       return;
     }
     // Donner un retour temporaire et indiquer le nombre d'essais restants
@@ -157,6 +161,9 @@
         card.classList.remove('shake-animation');
       }, 600);
     }
+
+    // Déclencher des particules d'erreur pour chaque mauvaise réponse
+    createFallingParticles('error');
   }
 
   /**
@@ -169,6 +176,40 @@
     revealedWordElem.textContent = `Le mot était : ${targetWord.mot}`;
     revealedWordElem.style.display = 'block';
     revealBtn.disabled = true;
+  }
+
+  /**
+   * Génère des particules qui tombent du haut vers le bas de l'écran.
+   * Le paramètre `type` détermine la couleur: 'success' pour succès
+   * (accent color) et 'error' pour une mauvaise réponse (rouge).
+   * Chaque particule est supprimée après la fin de son animation.
+   * @param {'success'|'error'} type
+   */
+  function createFallingParticles(type) {
+    const count = 20;
+    for (let i = 0; i < count; i++) {
+      const particle = document.createElement('span');
+      particle.classList.add('falling');
+      if (type === 'success') {
+        particle.classList.add('success');
+      } else {
+        particle.classList.add('error');
+      }
+      // Position horizontale aléatoire (0 à 100%)
+      particle.style.left = Math.random() * 100 + '%';
+      // Durée d'animation aléatoire (entre 2 et 4 secondes)
+      const duration = 2 + Math.random() * 2;
+      particle.style.animationDuration = duration + 's';
+      // Taille aléatoire pour varier les particules
+      const size = 0.4 + Math.random() * 0.6; // 0.4 à 1.0 rem
+      particle.style.width = size + 'rem';
+      particle.style.height = size + 'rem';
+      document.body.appendChild(particle);
+      // Supprimer l'élément après la fin de l'animation
+      setTimeout(() => {
+        particle.remove();
+      }, duration * 1000);
+    }
   }
 
   document.addEventListener('DOMContentLoaded', () => {

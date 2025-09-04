@@ -277,6 +277,48 @@ footer {
   animation: successPulse 1s ease-out;
 }
 
+/*
+ * Confetti/particle animation falling from the top of the screen.
+ * These elements are created dynamically in the game script when the
+ * user submits an answer. Each particle uses the `fall` keyframes
+ * defined below. Two variants exist: `.falling.success` (primary color)
+ * and `.falling.error` (red) to visually differentiate correct and
+ * incorrect guesses.
+ */
+
+@keyframes fall {
+  0% {
+    transform: translateY(-10px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh);
+    opacity: 0;
+  }
+}
+
+/* Base style for falling confetti/particles */
+.falling {
+  position: fixed;
+  top: -10px;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 1000;
+  animation-name: fall;
+  animation-timing-function: linear;
+}
+
+/* Primary color for success particles */
+.falling.success {
+  background-color: var(--accent-color);
+}
+/* Red color for error particles */
+.falling.error {
+  background-color: #e74c3c;
+}
+
 /* Media queries pour les petits écrans */
 @media (max-width: 600px) {
   header h1 {
