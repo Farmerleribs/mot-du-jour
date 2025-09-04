@@ -651,6 +651,7 @@ function renderWord(date) {
   const defElem = document.getElementById('definition');
   const examplesElem = document.getElementById('examples');
   const dateElem = document.getElementById('date');
+  const grammarElem = document.getElementById('grammar');
 
   if (!wordElem || !defElem || !examplesElem || !dateElem) return;
 
@@ -663,5 +664,64 @@ function renderWord(date) {
     li.textContent = ex;
     examplesElem.appendChild(li);
   });
+  // Afficher la catégorie grammaticale (genre/type) si disponible ou tenter de la deviner
+  if (grammarElem) {
+    let categorie;
+    // Utiliser la propriété definie dans l'objet s'il y en a une
+    if (item.categorie) {
+      categorie = item.categorie;
+    } else {
+      // Sinon essayer de deviner à partir du mot
+      categorie = determineCategory(item.mot);
+    }
+    grammarElem.textContent = categorie || '';
+  }
   dateElem.textContent = formatFrenchDate(date);
+}
+
+/**
+ * Tente de deviner la catégorie grammaticale (nom masculin/féminin, adjectif, verbe)
+ * à partir de la terminaison du mot.
+ * Cette méthode est approximative et vise simplement à fournir une indication.
+ *
+ * @param {string} mot Le mot dont on veut deviner le genre ou la catégorie
+ * @returns {string} Une chaîne décrivant la catégorie (Nom masculin/féminin, adjectif ou verbe).
+ */
+function determineCategory(mot) {
+  if (!mot) return '';
+  const w = mot.toLowerCase();
+  // Terminaisons courantes des noms féminins en français
+  const femEndings = ['tion', 'sion', 'té', 'ie', 'ure', 'ence', 'ance', 'ude', 'ade', 'ode', 'ise', 'esse', 'eur'];
+  // Terminaisons courantes des noms masculins
+  const mascEndings = ['isme', 'ment', 'teur', 'age', 'oir', 'on', 'eau'];
+  // Terminaisons courantes des adjectifs
+  const adjEndings = ['eux', 'euse', 'able', 'ible', 'ique', 'iste', 'ile', 'if', 'ive', 'aire', 'ant', 'ent', 'in', 'ien', 'ienne'];
+  // Verbes à l'infinitif
+  const verbEndings = ['er', 'ir', 're', 'oir'];
+  // Vérifier les suffixes des verbes en premier
+  for (const suffix of verbEndings) {
+    if (w.endsWith(suffix)) {
+      return 'Verbe';
+    }
+  }
+  // Puis les adjectifs
+  for (const suffix of adjEndings) {
+    if (w.endsWith(suffix)) {
+      return 'Adjectif';
+    }
+  }
+  // Puis les noms féminins
+  for (const suffix of femEndings) {
+    if (w.endsWith(suffix)) {
+      return 'Nom féminin';
+    }
+  }
+  // Puis les noms masculins
+  for (const suffix of mascEndings) {
+    if (w.endsWith(suffix)) {
+      return 'Nom masculin';
+    }
+  }
+  // Par défaut, retourner 'Nom'
+  return 'Nom';
 }

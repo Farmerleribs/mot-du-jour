@@ -10,7 +10,7 @@
 (() => {
   let targetWord = null;
   let attempts = 0;
-  const maxAttempts = 3;
+  const maxAttempts = 4;
 
   // Tableau d'indices générés pour le mot courant.
   let hints = [];
@@ -28,12 +28,34 @@
     hints = [];
     if (targetWord && targetWord.mot) {
       const mot = targetWord.mot;
-      // Indice 1 : la première lettre
-      hints.push(`Le mot commence par : ${mot.charAt(0).toUpperCase()}`);
-      // Indice 2 : le nombre de lettres
-      hints.push(`Le mot contient ${mot.length} lettres`);
-      // Indice 3 : la dernière lettre
-      hints.push(`Le mot se termine par : ${mot.charAt(mot.length - 1).toUpperCase()}`);
+      // Préparer une liste d'indices variés sur le mot lui-même
+      const candidateHints = [];
+      // Catégorie grammaticale si disponible
+      if (targetWord.categorie) {
+        candidateHints.push(`Il s’agit d’un ${targetWord.categorie.toLowerCase()}`);
+      } else {
+        if (typeof determineCategory === 'function') {
+          const cat = determineCategory(mot);
+          candidateHints.push(`Il s’agit d’un ${cat.toLowerCase()}`);
+        }
+      }
+      // Première lettre
+      candidateHints.push(`La première lettre est : ${mot.charAt(0).toUpperCase()}`);
+      // Dernière lettre
+      candidateHints.push(`La dernière lettre est : ${mot.charAt(mot.length - 1).toUpperCase()}`);
+      // Nombre de lettres
+      candidateHints.push(`Il contient ${mot.length} lettres`);
+      // Indice extrait de la définition : première phrase sans le mot lui-même
+      if (targetWord.definition) {
+        const phrase = targetWord.definition.split('. ')[0];
+        const cleaned = phrase.replace(new RegExp(mot, 'gi'), '').trim();
+        if (cleaned && cleaned.length > 10) {
+          candidateHints.push(cleaned.charAt(0).toUpperCase() + cleaned.slice(1));
+        }
+      }
+      // Mélanger les indices et en prendre un nombre égal à maxAttempts
+      candidateHints.sort(() => Math.random() - 0.5);
+      hints = candidateHints.slice(0, maxAttempts);
     }
     // Mettre à jour la définition
     const definitionElem = document.getElementById('game-definition');
@@ -89,10 +111,19 @@
       if (guessBtn) guessBtn.disabled = true;
       // Masquer l'indice puisque le mot est trouvé
       if (hintElem) hintElem.style.display = 'none';
+      // Animation de succès
+      const card = document.querySelector('.game-card');
+      if (card) {
+        card.classList.remove('shake-animation');
+        card.classList.add('success-animation');
+        setTimeout(() => {
+          card.classList.remove('success-animation');
+        }, 1000);
+      }
       return;
     }
     if (attempts >= maxAttempts) {
-      // Masquer le bouton Valider et afficher Révéler
+      // Masquer le bouton Valider et désactiver l'input
       const guessBtn = document.getElementById('guess-btn');
       if (guessBtn) guessBtn.disabled = true;
       input.disabled = true;
@@ -113,6 +144,18 @@
     if (hintElem && hints[attempts - 1]) {
       hintElem.textContent = `Indice : ${hints[attempts - 1]}`;
       hintElem.style.display = 'block';
+    }
+    // Animation de vibration en cas d'erreur
+    const card = document.querySelector('.game-card');
+    if (card) {
+      card.classList.remove('success-animation');
+      card.classList.remove('shake-animation');
+      // Forcer le reflow pour redémarrer l'animation
+      void card.offsetWidth;
+      card.classList.add('shake-animation');
+      setTimeout(() => {
+        card.classList.remove('shake-animation');
+      }, 600);
     }
   }
 
