@@ -186,7 +186,8 @@
    * @param {'success'|'error'} type
    */
   function createFallingParticles(type) {
-    const count = 20;
+    // Augmenter le nombre et la taille des particules pour un effet plus spectaculaire
+    const count = 50;
     for (let i = 0; i < count; i++) {
       const particle = document.createElement('span');
       particle.classList.add('falling');
@@ -197,11 +198,11 @@
       }
       // Position horizontale aléatoire (0 à 100%)
       particle.style.left = Math.random() * 100 + '%';
-      // Durée d'animation aléatoire (entre 2 et 4 secondes)
-      const duration = 2 + Math.random() * 2;
+      // Durée d'animation aléatoire (entre 2 et 4,5 secondes) pour varier la chute
+      const duration = 1.5 + Math.random() * 3;
       particle.style.animationDuration = duration + 's';
-      // Taille aléatoire pour varier les particules
-      const size = 0.4 + Math.random() * 0.6; // 0.4 à 1.0 rem
+      // Taille aléatoire plus grande pour un effet « explosif »
+      const size = 0.6 + Math.random() * 1.0; // 0.6 à 1.6 rem
       particle.style.width = size + 'rem';
       particle.style.height = size + 'rem';
       document.body.appendChild(particle);

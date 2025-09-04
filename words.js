@@ -606,6 +606,140 @@ const words = [
       "Ses créations artistiques reflètent un monde onirique et poétique."
     ]
   }
+  ,
+  /*
+   * Mots ajoutés pour enrichir davantage la banque de jeu. Les définitions
+   * et exemples sont formulés spécifiquement pour cette application afin
+   * d'éviter toute violation de droits d'auteur. Chaque entrée indique
+   * également sa catégorie grammaticale lorsque celle‑ci est évidente.
+   */
+  {
+    mot: 'Euphémisme',
+    definition:
+      "Formulation atténuée d'une idée dont l'expression directe serait jugée trop brutale ou déplaisante.",
+    exemples: [
+      "Dire qu'il s'est éteint est un euphémisme pour annoncer son décès.",
+      "Les politiciens utilisent parfois des euphémismes pour adoucir la réalité."
+    ],
+    categorie: 'Nom masculin'
+  },
+  {
+    mot: 'Imbroglio',
+    definition: "Situation confuse et embrouillée, souvent due à un enchevêtrement d'évènements ou de malentendus.",
+    exemples: [
+      "L'imbroglio administratif a retardé la délivrance des documents.",
+      "Ils ont tenté de démêler l'imbroglio familial avant le dîner."
+    ],
+    categorie: 'Nom masculin'
+  },
+  {
+    mot: 'Hubris',
+    definition: "Désigne l'orgueil démesuré et la confiance excessive en soi qui précèdent souvent une chute.",
+    exemples: [
+      "Son hubris l'a conduit à sous‑estimer ses adversaires.",
+      "Dans la tragédie grecque, l'hubris est souvent puni par les dieux."
+    ],
+    categorie: 'Nom féminin'
+  },
+  {
+    mot: 'Bucolique',
+    definition: "Qui évoque la vie pastorale et champêtre, simple et paisible.",
+    exemples: [
+      "Ils ont passé leurs vacances dans un cadre bucolique à la campagne.",
+      "Son roman dépeint une existence bucolique loin de l'agitation urbaine."
+    ],
+    categorie: 'Adjectif'
+  },
+  {
+    mot: 'Apathique',
+    definition: "Dépourvu de réaction ou d'énergie, montrant une absence d'intérêt ou d'émotion.",
+    exemples: [
+      "Après tant d'efforts, il se sentait apathique et sans motivation.",
+      "Le public est resté apathique face au discours monotone."
+    ],
+    categorie: 'Adjectif'
+  },
+  {
+    mot: 'Pérégrination',
+    definition: "Voyage ou déplacement prolongé et souvent sinueux ; itinérance.",
+    exemples: [
+      "Ses pérégrinations à travers l'Europe ont duré plusieurs mois.",
+      "Au fil de ses pérégrinations, il a rencontré des personnes fascinantes."
+    ],
+    categorie: 'Nom féminin'
+  },
+  {
+    mot: 'Lénifiant',
+    definition: "Qui apaise mais peut être perçu comme artificiel ou plat ; qui veut rassurer sans profondeur.",
+    exemples: [
+      "Son discours lénifiant n'a pas convaincu l'auditoire exigeant.",
+      "La musique lénifiante de la salle d'attente l'endormait presque."
+    ],
+    categorie: 'Adjectif'
+  },
+  {
+    mot: 'Empathie',
+    definition: "Capacité de comprendre et de partager les sentiments d'autrui.",
+    exemples: [
+      "Faire preuve d'empathie améliore la communication au sein d'une équipe.",
+      "Son empathie naturelle la rendait attentive aux besoins des autres."
+    ],
+    categorie: 'Nom féminin'
+  },
+  {
+    mot: 'Ludique',
+    definition: "Qui relève du jeu, qui est amusant et divertissant.",
+    exemples: [
+      "L'activité ludique a permis aux enfants d'apprendre en s'amusant.",
+      "Ils ont adopté une approche ludique pour enseigner les mathématiques."
+    ],
+    categorie: 'Adjectif'
+  },
+  {
+    mot: 'Melliflu',
+    definition: "Qui a la douceur et la suavité du miel ; souvent utilisé pour qualifier une voix ou un style trop suave.",
+    exemples: [
+      "Sa voix melliflue envoûtait l'auditoire.",
+      "Les paroles melliflues du vendeur n'étaient pas très convaincantes."
+    ],
+    categorie: 'Adjectif'
+  },
+  {
+    mot: 'Nadir',
+    definition: "Point opposé au zénith ; par extension, point le plus bas d'une situation ou d'un sentiment.",
+    exemples: [
+      "Après cette défaite, il atteignit le nadir de sa carrière.",
+      "Le moral de l'équipe était au nadir après plusieurs échecs successifs."
+    ],
+    categorie: 'Nom masculin'
+  },
+  {
+    mot: 'Quidam',
+    definition: "Personne quelconque dont on ignore l'identité ; individu lambda.",
+    exemples: [
+      "Un quidam s'est présenté pour apporter son témoignage.",
+      "Dans la foule, il se sentait comme un simple quidam."
+    ],
+    categorie: 'Nom masculin'
+  },
+  {
+    mot: 'Sagacité',
+    definition: "Perspicacité, finesse d'esprit permettant de bien juger et de comprendre rapidement.",
+    exemples: [
+      "Grâce à sa sagacité, elle devina les intentions de ses interlocuteurs.",
+      "La sagacité de ce détective lui permettait de résoudre les enquêtes les plus complexes."
+    ],
+    categorie: 'Nom féminin'
+  },
+  {
+    mot: 'Ubiquité',
+    definition: "Fait d'être présent en plusieurs lieux à la fois, ou impression d'une omniprésence.",
+    exemples: [
+      "Avec les outils numériques, il cultive l'illusion d'ubiquité.",
+      "Dans les légendes, les dieux se caractérisent par leur ubiquité."
+    ],
+    categorie: 'Nom féminin'
+  }
 ];
 
 /**
