@@ -63,8 +63,8 @@
       <p id="date"></p>
       <!-- Navigation entre les pages -->
       <nav class="main-nav">
-        <a href="index.html" class="nav-link active">Mot du jour</a>
-        <a href="jeu.html" class="nav-link">Jeu</a>
+        <a href="index.html" class="nav-link active"><span class="nav-icon">📖</span><span>Mot du jour</span></a>
+        <a href="jeu.html" class="nav-link"><span class="nav-icon">🧩</span><span>Jeu</span></a>
       </nav>
     </header>
 
@@ -93,14 +93,27 @@
       </div>
       <div class="word-card">
         <h2 id="word">mot</h2>
+        <!-- Prononciation phonétique du mot -->
+        <p id="phonetic" class="phonetic"></p>
         <!-- Affichage du genre et de la catégorie (ex. nom masculin/féminin, adjectif) -->
         <p id="grammar" class="grammar"></p>
+        <h3>Définition</h3>
         <p id="definition">Définition du mot.</p>
+        <h3>Exemples</h3>
         <ul id="examples"></ul>
+        <!-- Section des synonymes -->
+        <h3>Synonymes</h3>
+        <div id="synonyms" class="synonyms"></div>
       </div>
       <div class="controls">
         <button id="prev-btn" aria-label="Jour précédent">← Jour précédent</button>
         <button id="next-btn" aria-label="Jour suivant">Jour suivant →</button>
+      </div>
+
+      <!-- Carte pour le conseil du jour -->
+      <div class="tip-card">
+        <h3><span class="tip-icon">💡</span> Conseil du jour</h3>
+        <p id="tip-text"></p>
       </div>
     </main>
 
@@ -110,6 +123,7 @@
 
     <!-- Data and Logic -->
     <script src="words.js"></script>
+    <script src="tips.js"></script>
     <script src="script.js"></script>
   </body>
 </html>

@@ -16,6 +16,10 @@
    */
   function refresh() {
     renderWord(currentDate);
+    // Afficher le conseil du jour associé à la date actuelle
+    if (typeof renderTip === 'function') {
+      renderTip(currentDate);
+    }
     // Gestion du fondu en appliquant une classe temporaire
     const card = document.querySelector('.word-card');
     if (card) {

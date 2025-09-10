@@ -19,7 +19,9 @@ const words = [
     exemples: [
       "Après la tempête, les habitants ont fait preuve de résilience et ont rebâti leurs maisons.",
       "Sa résilience lui a permis de poursuivre ses études malgré les obstacles."
-    ]
+    ],
+    prononciation: '[re-zi-li-ɑ̃s]',
+    synonymes: ['adaptation', 'endurance']
   },
   {
     mot: 'Éphémère',
@@ -27,7 +29,9 @@ const words = [
     exemples: [
       "La beauté d'un coucher de soleil est éphémère mais toujours saisissante.",
       "Ils savent que le succès est éphémère si l'on cesse de travailler."
-    ]
+    ],
+    prononciation: '[e-fe-mɛʁ]',
+    synonymes: ['passager', 'transitoire', 'fugace']
   },
   {
     mot: 'Perspicace',
@@ -36,7 +40,9 @@ const words = [
     exemples: [
       "Grâce à son esprit perspicace, elle a rapidement décelé la faille dans l'argument.",
       "Un professeur perspicace repère les talents cachés de ses élèves."
-    ]
+    ],
+    prononciation: '[pɛʁs-pi-kas]',
+    synonymes: ['lucide', 'clairvoyant']
   },
   {
     mot: 'Aménité',
@@ -786,6 +792,8 @@ function renderWord(date) {
   const examplesElem = document.getElementById('examples');
   const dateElem = document.getElementById('date');
   const grammarElem = document.getElementById('grammar');
+  const phoneticElem = document.getElementById('phonetic');
+  const synonymsElem = document.getElementById('synonyms');
 
   if (!wordElem || !defElem || !examplesElem || !dateElem) return;
 
@@ -811,6 +819,31 @@ function renderWord(date) {
     grammarElem.textContent = categorie || '';
   }
   dateElem.textContent = formatFrenchDate(date);
+
+  // Afficher la prononciation phonétique si disponible
+  if (phoneticElem) {
+    if (item.prononciation) {
+      phoneticElem.style.display = 'block';
+      phoneticElem.textContent = item.prononciation;
+    } else {
+      phoneticElem.style.display = 'none';
+    }
+  }
+
+  // Afficher les synonymes s'ils existent
+  if (synonymsElem) {
+    synonymsElem.innerHTML = '';
+    if (Array.isArray(item.synonymes) && item.synonymes.length > 0) {
+      item.synonymes.forEach((syn) => {
+        const span = document.createElement('span');
+        span.className = 'syn-tag';
+        span.textContent = syn;
+        synonymsElem.appendChild(span);
+      });
+    } else {
+      // Aucun synonyme défini : ne rien afficher
+    }
+  }
 }
 
 /**
