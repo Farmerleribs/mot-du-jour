@@ -70,9 +70,12 @@
 
     <!-- Séparateur en forme de vague entre l'en‑tête et le contenu principal -->
     <div class="wave-separator" aria-hidden="true">
-      <!-- SVG avec une vague douce pour marquer la transition. La couleur est calquée sur la carte pour un effet neumorphique. -->
+      <!-- SVG avec une vague douce et centrée pour marquer la transition. Cette forme utilise une courbe quadratique
+           afin de créer une "vague" symétrique en son milieu. Le point bas de la courbe se trouve au centre
+           de l'écran (x=720) pour un résultat plus équilibré et élégant. La couleur est calquée sur la carte pour
+           un effet neumorphique. -->
       <svg viewBox="0 0 1440 150" preserveAspectRatio="none">
-        <path d="M0,30 C360,120 720,-60 1080,30 L1440,90 L1440,150 L0,150 Z" />
+        <path d="M0,80 Q720,0 1440,80 L1440,150 L0,150 Z" />
       </svg>
     </div>
 
