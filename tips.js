@@ -7,16 +7,19 @@
  */
 
 const tips = [
-  { tip: "Pour retenir un mot, utilisez‑le dans une phrase personnelle." },
-  { tip: "Associez un mot à une image mentale pour le mémoriser plus facilement." },
-  { tip: "Répétez le mot plusieurs fois à haute voix pour en ancrer la prononciation." },
-  { tip: "Regroupez les mots par thèmes ou familles pour mieux les retenir." },
-  { tip: "Créez des cartes mémoire et révisez‑les régulièrement." },
-  { tip: "Expliquez la signification d'un mot à quelqu'un d'autre pour vérifier votre compréhension." },
-  { tip: "Utilisez des jeux de mots ou des rimes pour vous rappeler l'orthographe et le sens." },
-  { tip: "Écrivez le mot à la main : l'écriture favorise la mémorisation." },
-  { tip: "Associez chaque nouveau mot à un synonyme déjà connu pour en renforcer l'apprentissage." },
-  { tip: "Lisez le mot dans différents contextes pour en saisir toutes les nuances." }
+  // Conseils axés sur l'orthographe et les règles de la langue française
+  { tip: "Relisez toujours vos écrits à voix haute pour repérer les fautes d'orthographe et les homophones." },
+  { tip: "Vérifiez l'orthographe des mots dans un dictionnaire ou un outil en ligne lorsque vous avez un doute." },
+  { tip: "Apprenez progressivement les règles d'accord du participe passé (avec avoir et être) et appliquez-les." },
+  { tip: "Décomposez les mots difficiles en syllabes ou en racines pour mémoriser leur orthographe." },
+  { tip: "Soyez attentif aux homophones : utilisez des astuces pour distinguer \"a\" et \"à\", \"ver\" et \"vers\", \"son\" et \"sont\", etc." },
+  { tip: "Tenez un carnet des mots que vous écrivez mal et notez la règle ou l'astuce qui aide à les corriger." },
+  { tip: "Pratiquez régulièrement des dictées ou des exercices d'orthographe pour améliorer votre précision." },
+  { tip: "Utilisez des applications ou des jeux de lettres pour renforcer votre maîtrise de l'orthographe au quotidien." },
+  { tip: "Familiarisez-vous avec les exceptions courantes aux règles d'orthographe et de grammaire." },
+  { tip: "Apprenez les familles de mots : connaître un mot racine vous aide à orthographier ses dérivés." },
+  { tip: "Écrivez lentement et attentivement pour laisser le temps à votre cerveau d'appliquer les règles d'orthographe." },
+  { tip: "Étudiez l'étymologie des mots : comprendre leur origine facilite souvent la mémorisation de l'orthographe." }
 ];
 
 /**
