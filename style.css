@@ -279,6 +279,36 @@ main {
       box-shadow: none;
     }
 
+/* Conteneur pour le sélecteur de niveau de difficulté dans le jeu */
+.difficulty-container {
+  margin: 1rem 0 1.5rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+}
+
+.difficulty-container label {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.difficulty-container select {
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 0.8rem;
+  background-color: var(--card-bg);
+  color: var(--primary-color);
+  font-size: 1rem;
+  box-shadow: 6px 6px 12px var(--shadow-dark), -6px -6px 12px var(--shadow-light);
+  appearance: none;
+  cursor: pointer;
+}
+.difficulty-container select:focus {
+  outline: none;
+  box-shadow: inset 4px 4px 8px var(--shadow-dark), inset -4px -4px 8px var(--shadow-light);
+}
+
 footer {
   text-align: center;
   padding: 1rem;

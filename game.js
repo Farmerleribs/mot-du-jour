@@ -10,7 +10,35 @@
 (() => {
   let targetWord = null;
   let attempts = 0;
-  const maxAttempts = 4;
+  // Le nombre maximum de tentatives est désormais ajustable selon le niveau de difficulté
+  let maxAttempts = 4;
+
+  // Niveau de difficulté actuel ('facile', 'moyen' ou 'difficile')
+  let currentDifficulty = 'moyen';
+
+  /**
+   * Filtre les mots en fonction de la difficulté choisie. La difficulté est déterminée
+   * par la longueur du mot :
+   *  - Facile : mots courts (7 lettres ou moins)
+   *  - Moyen : mots de longueur moyenne (entre 8 et 11 lettres)
+   *  - Difficile : mots longs (12 lettres ou plus)
+   * Si aucun mot ne correspond, renvoie l'ensemble complet.
+   *
+   * @param {string} difficulty Niveau de difficulté ('facile', 'moyen', 'difficile')
+   * @returns {Array} Tableau de mots filtré selon la difficulté
+   */
+  function filterWordsByDifficulty(difficulty) {
+    if (!Array.isArray(words) || words.length === 0) return [];
+    let pool = [];
+    if (difficulty === 'facile') {
+      pool = words.filter((item) => item.mot && item.mot.length <= 7);
+    } else if (difficulty === 'moyen') {
+      pool = words.filter((item) => item.mot && item.mot.length > 7 && item.mot.length <= 11);
+    } else if (difficulty === 'difficile') {
+      pool = words.filter((item) => item.mot && item.mot.length > 11);
+    }
+    return pool.length > 0 ? pool : words;
+  }
 
   // Tableau d'indices générés pour le mot courant.
   let hints = [];
@@ -20,10 +48,20 @@
    * initialise l'affichage.
    */
   function initGame() {
-    // Tirage aléatoire d'un mot
-    const index = Math.floor(Math.random() * words.length);
-    targetWord = words[index];
+    // Sélectionner la liste de mots selon le niveau de difficulté actuel
+    const wordPool = filterWordsByDifficulty(currentDifficulty);
+    // Tirage aléatoire d'un mot dans ce sous-ensemble
+    const index = Math.floor(Math.random() * wordPool.length);
+    targetWord = wordPool[index];
     attempts = 0;
+    // Définir le nombre maximum de tentatives en fonction du niveau
+    if (currentDifficulty === 'facile') {
+      maxAttempts = 6;
+    } else if (currentDifficulty === 'moyen') {
+      maxAttempts = 4;
+    } else {
+      maxAttempts = 3;
+    }
     // Générer des indices si le mot est défini
     hints = [];
     if (targetWord && targetWord.mot) {
@@ -53,7 +91,7 @@
           candidateHints.push(cleaned.charAt(0).toUpperCase() + cleaned.slice(1));
         }
       }
-      // Mélanger les indices et en prendre un nombre égal à maxAttempts
+      // Mélanger les indices et en prendre un nombre égal au nombre de tentatives autorisées
       candidateHints.sort(() => Math.random() - 0.5);
       hints = candidateHints.slice(0, maxAttempts);
     }
@@ -216,6 +254,16 @@
   document.addEventListener('DOMContentLoaded', () => {
     // Initialiser le jeu
     initGame();
+    // Sélecteur de difficulté : mettre à jour la difficulté et relancer la partie
+    const difficultySelect = document.getElementById('difficulty-select');
+    if (difficultySelect) {
+      // Initialiser la difficulté à la valeur sélectionnée par défaut
+      currentDifficulty = difficultySelect.value;
+      difficultySelect.addEventListener('change', () => {
+        currentDifficulty = difficultySelect.value;
+        initGame();
+      });
+    }
     // Soumettre un essai
     const guessBtn = document.getElementById('guess-btn');
     if (guessBtn) {
