@@ -66,33 +66,38 @@
     hints = [];
     if (targetWord && targetWord.mot) {
       const mot = targetWord.mot;
-      // Préparer une liste d'indices variés sur le mot lui-même
+      // Construire une liste d'indices qui aident l'utilisateur à deviner le mot.
+      // On privilégie la définition, le type grammatical, les synonymes et des exemples de contexte.
       const candidateHints = [];
-      // Catégorie grammaticale si disponible
-      if (targetWord.categorie) {
-        candidateHints.push(`Il s’agit d’un ${targetWord.categorie.toLowerCase()}`);
-      } else {
-        if (typeof determineCategory === 'function') {
-          const cat = determineCategory(mot);
-          candidateHints.push(`Il s’agit d’un ${cat.toLowerCase()}`);
-        }
-      }
-      // Première lettre
-      candidateHints.push(`La première lettre est : ${mot.charAt(0).toUpperCase()}`);
-      // Dernière lettre
-      candidateHints.push(`La dernière lettre est : ${mot.charAt(mot.length - 1).toUpperCase()}`);
-      // Nombre de lettres
-      candidateHints.push(`Il contient ${mot.length} lettres`);
-      // Indice extrait de la définition : première phrase sans le mot lui-même
+      // Définition complète
       if (targetWord.definition) {
-        const phrase = targetWord.definition.split('. ')[0];
-        const cleaned = phrase.replace(new RegExp(mot, 'gi'), '').trim();
-        if (cleaned && cleaned.length > 10) {
-          candidateHints.push(cleaned.charAt(0).toUpperCase() + cleaned.slice(1));
+        candidateHints.push(`Définition : ${targetWord.definition}`);
+      }
+      // Catégorie grammaticale (ou déterminée dynamiquement) pour situer le mot
+      if (targetWord.categorie) {
+        candidateHints.push(`C'est un ${targetWord.categorie.toLowerCase()}`);
+      } else if (typeof determineCategory === 'function') {
+        const cat = determineCategory(mot);
+        candidateHints.push(`C'est un ${cat.toLowerCase()}`);
+      }
+      // Synonymes pour orienter l'utilisateur
+      if (Array.isArray(targetWord.synonymes) && targetWord.synonymes.length > 0) {
+        candidateHints.push(`Synonymes : ${targetWord.synonymes.join(', ')}`);
+      }
+      // Exemples d'utilisation pour mettre le mot en contexte
+      if (Array.isArray(targetWord.exemples) && targetWord.exemples.length > 0) {
+        candidateHints.push(`Exemple : ${targetWord.exemples[0]}`);
+        if (targetWord.exemples[1]) {
+          candidateHints.push(`Autre exemple : ${targetWord.exemples[1]}`);
         }
       }
-      // Mélanger les indices et en prendre un nombre égal au nombre de tentatives autorisées
-      candidateHints.sort(() => Math.random() - 0.5);
+      // Ajout d'indices morphologiques si nécessaire pour atteindre le nombre d'indices requis
+      if (candidateHints.length < maxAttempts) {
+        candidateHints.push(`Première lettre : ${mot.charAt(0).toUpperCase()}`);
+        candidateHints.push(`Dernière lettre : ${mot.charAt(mot.length - 1).toUpperCase()}`);
+        candidateHints.push(`Nombre de lettres : ${mot.length}`);
+      }
+      // Prendre uniquement le nombre d'indices nécessaire
       hints = candidateHints.slice(0, maxAttempts);
     }
     // Mettre à jour la définition
@@ -252,24 +257,37 @@
   }
 
   document.addEventListener('DOMContentLoaded', () => {
-    // Initialiser le jeu
+    // Initialiser le jeu dès le chargement
     initGame();
-    // Sélecteur de difficulté : mettre à jour la difficulté et relancer la partie
-    const difficultySelect = document.getElementById('difficulty-select');
-    if (difficultySelect) {
-      // Initialiser la difficulté à la valeur sélectionnée par défaut
-      currentDifficulty = difficultySelect.value;
-      difficultySelect.addEventListener('change', () => {
-        currentDifficulty = difficultySelect.value;
-        initGame();
+    // Gestion des boutons de difficulté au lieu du sélecteur déroulant.
+    const difficultyButtons = document.querySelectorAll('.difficulty-btn');
+    if (difficultyButtons && difficultyButtons.length > 0) {
+      // Définir la difficulté selon le bouton actif initial
+      difficultyButtons.forEach((btn) => {
+        if (btn.classList.contains('active')) {
+          currentDifficulty = btn.dataset.level;
+        }
+      });
+      // Ajouter un écouteur de clic sur chaque bouton pour changer de niveau
+      difficultyButtons.forEach((btn) => {
+        btn.addEventListener('click', () => {
+          // Retirer l'état actif de tous les boutons
+          difficultyButtons.forEach((b) => b.classList.remove('active'));
+          // Appliquer l'état actif sur le bouton cliqué
+          btn.classList.add('active');
+          // Mettre à jour la difficulté courante
+          currentDifficulty = btn.dataset.level;
+          // Réinitialiser la partie avec les nouveaux paramètres
+          initGame();
+        });
       });
     }
-    // Soumettre un essai
+    // Soumettre un essai lorsque l'utilisateur clique sur le bouton Valider
     const guessBtn = document.getElementById('guess-btn');
     if (guessBtn) {
       guessBtn.addEventListener('click', handleGuess);
     }
-    // Permettre d'appuyer sur Entrée depuis le champ texte
+    // Permettre d'appuyer sur Entrée depuis le champ texte pour valider
     const input = document.getElementById('game-guess');
     if (input) {
       input.addEventListener('keypress', (e) => {
@@ -279,7 +297,7 @@
         }
       });
     }
-    // Bouton pour révéler le mot
+    // Bouton pour révéler le mot après avoir épuisé les essais
     const revealBtn = document.getElementById('reveal-btn');
     if (revealBtn) {
       revealBtn.addEventListener('click', revealWord);
