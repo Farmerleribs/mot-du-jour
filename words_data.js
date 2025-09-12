@@ -7,9 +7,9 @@ const words = [
       "Utiliser abscons dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Abscons",
-      "équivalent de Abscons",
-      "terme similaire à Abscons"
+      "obscur",
+      "abstrus",
+      "hermétique"
     ],
     "prononciation": "[a-b-s-c-o-n-s]"
   },
@@ -21,9 +21,9 @@ const words = [
       "Utiliser acrimonie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Acrimonie",
-      "équivalent de Acrimonie",
-      "terme similaire à Acrimonie"
+      "amertume",
+      "aigreur",
+      "rancœur"
     ],
     "prononciation": "[a-c-r-i-m-o-n-i-e]"
   },
@@ -35,9 +35,9 @@ const words = [
       "Utiliser ataraxie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ataraxie",
-      "équivalent de Ataraxie",
-      "terme similaire à Ataraxie"
+      "sérénité",
+      "imperturbabilité",
+      "calme"
     ],
     "prononciation": "[a-t-a-r-a-x-i-e]"
   },
@@ -49,9 +49,9 @@ const words = [
       "Utiliser béotien dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Béotien",
-      "équivalent de Béotien",
-      "terme similaire à Béotien"
+      "ignorant",
+      "profane",
+      "inexpérimenté"
     ],
     "prononciation": "[b-é-o-t-i-e-n]"
   },
@@ -63,9 +63,9 @@ const words = [
       "Utiliser caustique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Caustique",
-      "équivalent de Caustique",
-      "terme similaire à Caustique"
+      "acerbe",
+      "sarcastique",
+      "mordant"
     ],
     "prononciation": "[c-a-u-s-t-i-q-u-e]"
   },
@@ -77,9 +77,9 @@ const words = [
       "Utiliser concupiscence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Concupiscence",
-      "équivalent de Concupiscence",
-      "terme similaire à Concupiscence"
+      "luxure",
+      "désir",
+      "sensualité"
     ],
     "prononciation": "[c-o-n-c-u-p-i-s-c-e-n-c-e]"
   },
@@ -91,9 +91,9 @@ const words = [
       "Utiliser dichotomie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dichotomie",
-      "équivalent de Dichotomie",
-      "terme similaire à Dichotomie"
+      "division",
+      "clivage",
+      "bipartition"
     ],
     "prononciation": "[d-i-c-h-o-t-o-m-i-e]"
   },
@@ -105,9 +105,9 @@ const words = [
       "Utiliser effluve dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Effluve",
-      "équivalent de Effluve",
-      "terme similaire à Effluve"
+      "arôme",
+      "émanation",
+      "odeur"
     ],
     "prononciation": "[e-f-f-l-u-v-e]"
   },
@@ -119,9 +119,9 @@ const words = [
       "Utiliser emphatique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Emphatique",
-      "équivalent de Emphatique",
-      "terme similaire à Emphatique"
+      "grandiloquent",
+      "ampoulé",
+      "pompeux"
     ],
     "prononciation": "[e-m-p-h-a-t-i-q-u-e]"
   },
@@ -133,9 +133,9 @@ const words = [
       "Utiliser endémique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Endémique",
-      "équivalent de Endémique",
-      "terme similaire à Endémique"
+      "permanent",
+      "persistant",
+      "habituel"
     ],
     "prononciation": "[e-n-d-é-m-i-q-u-e]"
   },
@@ -147,9 +147,9 @@ const words = [
       "Utiliser éphémère dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Éphémère",
-      "équivalent de Éphémère",
-      "terme similaire à Éphémère"
+      "passager",
+      "transitoire",
+      "fugace"
     ],
     "prononciation": "[é-p-h-é-m-è-r-e]"
   },
@@ -161,9 +161,9 @@ const words = [
       "Utiliser épicurien dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Épicurien",
-      "équivalent de Épicurien",
-      "terme similaire à Épicurien"
+      "hédoniste",
+      "jouisseur",
+      "sensuel"
     ],
     "prononciation": "[é-p-i-c-u-r-i-e-n]"
   },
@@ -175,9 +175,9 @@ const words = [
       "Utiliser éponyme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Éponyme",
-      "équivalent de Éponyme",
-      "terme similaire à Éponyme"
+      "qui donne son nom",
+      "titulaire",
+      "parrain"
     ],
     "prononciation": "[é-p-o-n-y-m-e]"
   },
@@ -189,9 +189,9 @@ const words = [
       "Utiliser ésotérique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ésotérique",
-      "équivalent de Ésotérique",
-      "terme similaire à Ésotérique"
+      "mystique",
+      "hermétique",
+      "occultiste"
     ],
     "prononciation": "[é-s-o-t-é-r-i-q-u-e]"
   },
@@ -203,9 +203,9 @@ const words = [
       "Utiliser exutoire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exutoire",
-      "équivalent de Exutoire",
-      "terme similaire à Exutoire"
+      "échappatoire",
+      "soupape",
+      "déversoir"
     ],
     "prononciation": "[e-x-u-t-o-i-r-e]"
   },
@@ -217,9 +217,9 @@ const words = [
       "Utiliser factieux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Factieux",
-      "équivalent de Factieux",
-      "terme similaire à Factieux"
+      "séditieux",
+      "rebelle",
+      "agité"
     ],
     "prononciation": "[f-a-c-t-i-e-u-x]"
   },
@@ -231,9 +231,9 @@ const words = [
       "Utiliser fulgurance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fulgurance",
-      "équivalent de Fulgurance",
-      "terme similaire à Fulgurance"
+      "éclair",
+      "brillance",
+      "intensité"
     ],
     "prononciation": "[f-u-l-g-u-r-a-n-c-e]"
   },
@@ -245,9 +245,9 @@ const words = [
       "Utiliser hégémonie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hégémonie",
-      "équivalent de Hégémonie",
-      "terme similaire à Hégémonie"
+      "domination",
+      "suprématie",
+      "ascendant"
     ],
     "prononciation": "[h-é-g-é-m-o-n-i-e]"
   },
@@ -259,9 +259,9 @@ const words = [
       "Utiliser heuristique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Heuristique",
-      "équivalent de Heuristique",
-      "terme similaire à Heuristique"
+      "méthodique",
+      "expérimental",
+      "exploratoire"
     ],
     "prononciation": "[h-e-u-r-i-s-t-i-q-u-e]"
   },
@@ -273,9 +273,9 @@ const words = [
       "Utiliser iconoclaste dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Iconoclaste",
-      "équivalent de Iconoclaste",
-      "terme similaire à Iconoclaste"
+      "anticonformiste",
+      "révolutionnaire",
+      "subversif"
     ],
     "prononciation": "[i-c-o-n-o-c-l-a-s-t-e]"
   },
@@ -287,9 +287,9 @@ const words = [
       "Utiliser idiosyncrasie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Idiosyncrasie",
-      "équivalent de Idiosyncrasie",
-      "terme similaire à Idiosyncrasie"
+      "particularité",
+      "singularité",
+      "spécificité"
     ],
     "prononciation": "[i-d-i-o-s-y-n-c-r-a-s-i-e]"
   },
@@ -301,9 +301,9 @@ const words = [
       "Utiliser immarcescible dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Immarcescible",
-      "équivalent de Immarcescible",
-      "terme similaire à Immarcescible"
+      "impérissable",
+      "inaltérable",
+      "immortel"
     ],
     "prononciation": "[i-m-m-a-r-c-e-s-c-i-b-l-e]"
   },
@@ -315,9 +315,9 @@ const words = [
       "Utiliser inchoatif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Inchoatif",
-      "équivalent de Inchoatif",
-      "terme similaire à Inchoatif"
+      "initial",
+      "commençant",
+      "naissant"
     ],
     "prononciation": "[i-n-c-h-o-a-t-i-f]"
   },
@@ -329,9 +329,9 @@ const words = [
       "Utiliser ineffable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ineffable",
-      "équivalent de Ineffable",
-      "terme similaire à Ineffable"
+      "indescriptible",
+      "inexprimable",
+      "inénarrable"
     ],
     "prononciation": "[i-n-e-f-f-a-b-l-e]"
   },
@@ -343,9 +343,9 @@ const words = [
       "Utiliser ingénu dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ingénu",
-      "équivalent de Ingénu",
-      "terme similaire à Ingénu"
+      "candide",
+      "naïf",
+      "innocent"
     ],
     "prononciation": "[i-n-g-é-n-u]"
   },
@@ -357,9 +357,9 @@ const words = [
       "Utiliser insidieux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insidieux",
-      "équivalent de Insidieux",
-      "terme similaire à Insidieux"
+      "sournois",
+      "pernicieux",
+      "dangereux"
     ],
     "prononciation": "[i-n-s-i-d-i-e-u-x]"
   },
@@ -371,9 +371,9 @@ const words = [
       "Utiliser invective dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Invective",
-      "équivalent de Invective",
-      "terme similaire à Invective"
+      "insulte",
+      "injure",
+      "outrage"
     ],
     "prononciation": "[i-n-v-e-c-t-i-v-e]"
   },
@@ -385,9 +385,9 @@ const words = [
       "Utiliser itératif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Itératif",
-      "équivalent de Itératif",
-      "terme similaire à Itératif"
+      "répétitif",
+      "réitéré",
+      "récurrent"
     ],
     "prononciation": "[i-t-é-r-a-t-i-f]"
   },
@@ -399,9 +399,9 @@ const words = [
       "Utiliser laudatif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Laudatif",
-      "équivalent de Laudatif",
-      "terme similaire à Laudatif"
+      "élogieux",
+      "flatteur",
+      "complimenteur"
     ],
     "prononciation": "[l-a-u-d-a-t-i-f]"
   },
@@ -413,9 +413,9 @@ const words = [
       "Utiliser lénifiant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Lénifiant",
-      "équivalent de Lénifiant",
-      "terme similaire à Lénifiant"
+      "apaisant",
+      "calmant",
+      "adoucissant"
     ],
     "prononciation": "[l-é-n-i-f-i-a-n-t]"
   },
@@ -427,9 +427,9 @@ const words = [
       "Utiliser magnanimité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Magnanimité",
-      "équivalent de Magnanimité",
-      "terme similaire à Magnanimité"
+      "générosité",
+      "clémence",
+      "bienveillance"
     ],
     "prononciation": "[m-a-g-n-a-n-i-m-i-t-é]"
   },
@@ -441,9 +441,9 @@ const words = [
       "Utiliser manichéen dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Manichéen",
-      "équivalent de Manichéen",
-      "terme similaire à Manichéen"
+      "dualiste",
+      "simpliste",
+      "binaire"
     ],
     "prononciation": "[m-a-n-i-c-h-é-e-n]"
   },
@@ -455,9 +455,9 @@ const words = [
       "Utiliser misanthrope dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Misanthrope",
-      "équivalent de Misanthrope",
-      "terme similaire à Misanthrope"
+      "asocial",
+      "ermite",
+      "insociable"
     ],
     "prononciation": "[m-i-s-a-n-t-h-r-o-p-e]"
   },
@@ -469,9 +469,9 @@ const words = [
       "Utiliser nébuleux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Nébuleux",
-      "équivalent de Nébuleux",
-      "terme similaire à Nébuleux"
+      "vague",
+      "obscur",
+      "confus"
     ],
     "prononciation": "[n-é-b-u-l-e-u-x]"
   },
@@ -483,9 +483,9 @@ const words = [
       "Utiliser néologisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Néologisme",
-      "équivalent de Néologisme",
-      "terme similaire à Néologisme"
+      "mot nouveau",
+      "terme inventé",
+      "nouvelle expression"
     ],
     "prononciation": "[n-é-o-l-o-g-i-s-m-e]"
   },
@@ -497,9 +497,9 @@ const words = [
       "Utiliser obstination dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Obstination",
-      "équivalent de Obstination",
-      "terme similaire à Obstination"
+      "entêtement",
+      "acharnement",
+      "persévérance"
     ],
     "prononciation": "[o-b-s-t-i-n-a-t-i-o-n]"
   },
@@ -511,9 +511,9 @@ const words = [
       "Utiliser obsolescence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Obsolescence",
-      "équivalent de Obsolescence",
-      "terme similaire à Obsolescence"
+      "désuétude",
+      "périmé",
+      "vieillissement"
     ],
     "prononciation": "[o-b-s-o-l-e-s-c-e-n-c-e]"
   },
@@ -525,9 +525,9 @@ const words = [
       "Utiliser oxymore dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Oxymore",
-      "équivalent de Oxymore",
-      "terme similaire à Oxymore"
+      "paradoxe",
+      "contradiction",
+      "figure paradoxale"
     ],
     "prononciation": "[o-x-y-m-o-r-e]"
   },
@@ -539,9 +539,9 @@ const words = [
       "Utiliser palliatif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Palliatif",
-      "équivalent de Palliatif",
-      "terme similaire à Palliatif"
+      "atténuant",
+      "calmant",
+      "temporaire"
     ],
     "prononciation": "[p-a-l-l-i-a-t-i-f]"
   },
@@ -553,9 +553,9 @@ const words = [
       "Utiliser paradigme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Paradigme",
-      "équivalent de Paradigme",
-      "terme similaire à Paradigme"
+      "modèle",
+      "schéma",
+      "référence"
     ],
     "prononciation": "[p-a-r-a-d-i-g-m-e]"
   },
@@ -567,9 +567,9 @@ const words = [
       "Utiliser perspicace dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Perspicace",
-      "équivalent de Perspicace",
-      "terme similaire à Perspicace"
+      "clairvoyant",
+      "lucide",
+      "sagace"
     ],
     "prononciation": "[p-e-r-s-p-i-c-a-c-e]"
   },
@@ -581,9 +581,9 @@ const words = [
       "Utiliser pléthore dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Pléthore",
-      "équivalent de Pléthore",
-      "terme similaire à Pléthore"
+      "abondance",
+      "profusion",
+      "excès"
     ],
     "prononciation": "[p-l-é-t-h-o-r-e]"
   },
@@ -595,9 +595,9 @@ const words = [
       "Utiliser polyglotte dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Polyglotte",
-      "équivalent de Polyglotte",
-      "terme similaire à Polyglotte"
+      "multilingue",
+      "plurilingue",
+      "linguiste"
     ],
     "prononciation": "[p-o-l-y-g-l-o-t-t-e]"
   },
@@ -609,9 +609,9 @@ const words = [
       "Utiliser polysémique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Polysémique",
-      "équivalent de Polysémique",
-      "terme similaire à Polysémique"
+      "ambigu",
+      "à plusieurs sens",
+      "polyvalent"
     ],
     "prononciation": "[p-o-l-y-s-é-m-i-q-u-e]"
   },
@@ -623,9 +623,9 @@ const words = [
       "Utiliser postulat dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Postulat",
-      "équivalent de Postulat",
-      "terme similaire à Postulat"
+      "axiome",
+      "hypothèse",
+      "principe"
     ],
     "prononciation": "[p-o-s-t-u-l-a-t]"
   },
@@ -637,9 +637,9 @@ const words = [
       "Utiliser procrastination dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Procrastination",
-      "équivalent de Procrastination",
-      "terme similaire à Procrastination"
+      "ajournement",
+      "report",
+      "temporisation"
     ],
     "prononciation": "[p-r-o-c-r-a-s-t-i-n-a-t-i-o-n]"
   },
@@ -651,9 +651,9 @@ const words = [
       "Utiliser prolégomènes dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Prolégomènes",
-      "équivalent de Prolégomènes",
-      "terme similaire à Prolégomènes"
+      "préliminaires",
+      "introduction",
+      "préface"
     ],
     "prononciation": "[p-r-o-l-é-g-o-m-è-n-e-s]"
   },
@@ -665,9 +665,9 @@ const words = [
       "Utiliser prolixe dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Prolixe",
-      "équivalent de Prolixe",
-      "terme similaire à Prolixe"
+      "bavard",
+      "loquace",
+      "verbeux"
     ],
     "prononciation": "[p-r-o-l-i-x-e]"
   },
@@ -679,9 +679,9 @@ const words = [
       "Utiliser prosélyte dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Prosélyte",
-      "équivalent de Prosélyte",
-      "terme similaire à Prosélyte"
+      "converti",
+      "nouveau croyant",
+      "adepte"
     ],
     "prononciation": "[p-r-o-s-é-l-y-t-e]"
   },
@@ -693,9 +693,9 @@ const words = [
       "Utiliser pusillanime dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Pusillanime",
-      "équivalent de Pusillanime",
-      "terme similaire à Pusillanime"
+      "craintif",
+      "timoré",
+      "lâche"
     ],
     "prononciation": "[p-u-s-i-l-l-a-n-i-m-e]"
   },
@@ -707,9 +707,9 @@ const words = [
       "Utiliser quintessence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Quintessence",
-      "équivalent de Quintessence",
-      "terme similaire à Quintessence"
+      "essence",
+      "fondement",
+      "cœur"
     ],
     "prononciation": "[q-u-i-n-t-e-s-s-e-n-c-e]"
   },
@@ -721,9 +721,9 @@ const words = [
       "Utiliser sagacité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sagacité",
-      "équivalent de Sagacité",
-      "terme similaire à Sagacité"
+      "perspicacité",
+      "clairvoyance",
+      "judicieuse"
     ],
     "prononciation": "[s-a-g-a-c-i-t-é]"
   },
@@ -735,9 +735,9 @@ const words = [
       "Utiliser sagouin dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sagouin",
-      "équivalent de Sagouin",
-      "terme similaire à Sagouin"
+      "sale",
+      "négligé",
+      "souillon"
     ],
     "prononciation": "[s-a-g-o-u-i-n]"
   },
@@ -749,9 +749,9 @@ const words = [
       "Utiliser salutaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Salutaire",
-      "équivalent de Salutaire",
-      "terme similaire à Salutaire"
+      "bénéfique",
+      "profitable",
+      "utile"
     ],
     "prononciation": "[s-a-l-u-t-a-i-r-e]"
   },
@@ -763,9 +763,9 @@ const words = [
       "Utiliser sardonique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sardonique",
-      "équivalent de Sardonique",
-      "terme similaire à Sardonique"
+      "moqueur",
+      "sarcastique",
+      "ironique"
     ],
     "prononciation": "[s-a-r-d-o-n-i-q-u-e]"
   },
@@ -777,9 +777,9 @@ const words = [
       "Utiliser scabreux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Scabreux",
-      "équivalent de Scabreux",
-      "terme similaire à Scabreux"
+      "délicat",
+      "graveleux",
+      "risqué"
     ],
     "prononciation": "[s-c-a-b-r-e-u-x]"
   },
@@ -791,9 +791,9 @@ const words = [
       "Utiliser séditieux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Séditieux",
-      "équivalent de Séditieux",
-      "terme similaire à Séditieux"
+      "rebelle",
+      "factieux",
+      "subversif"
     ],
     "prononciation": "[s-é-d-i-t-i-e-u-x]"
   },
@@ -805,9 +805,9 @@ const words = [
       "Utiliser séculaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Séculaire",
-      "équivalent de Séculaire",
-      "terme similaire à Séculaire"
+      "centenaire",
+      "ancestral",
+      "ancien"
     ],
     "prononciation": "[s-é-c-u-l-a-i-r-e]"
   },
@@ -819,9 +819,9 @@ const words = [
       "Utiliser sinécure dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sinécure",
-      "équivalent de Sinécure",
-      "terme similaire à Sinécure"
+      "emploi tranquille",
+      "poste facile",
+      "fonction honorifique"
     ],
     "prononciation": "[s-i-n-é-c-u-r-e]"
   },
@@ -833,9 +833,9 @@ const words = [
       "Utiliser spoliation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Spoliation",
-      "équivalent de Spoliation",
-      "terme similaire à Spoliation"
+      "usurpation",
+      "dépouillement",
+      "appropriation"
     ],
     "prononciation": "[s-p-o-l-i-a-t-i-o-n]"
   },
@@ -847,9 +847,9 @@ const words = [
       "Utiliser sporadique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sporadique",
-      "équivalent de Sporadique",
-      "terme similaire à Sporadique"
+      "occasionnel",
+      "irrégulier",
+      "épisodique"
     ],
     "prononciation": "[s-p-o-r-a-d-i-q-u-e]"
   },
@@ -861,9 +861,9 @@ const words = [
       "Utiliser subversif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Subversif",
-      "équivalent de Subversif",
-      "terme similaire à Subversif"
+      "révolutionnaire",
+      "déstabilisateur",
+      "iconoclaste"
     ],
     "prononciation": "[s-u-b-v-e-r-s-i-f]"
   },
@@ -875,9 +875,9 @@ const words = [
       "Utiliser suranné dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Suranné",
-      "équivalent de Suranné",
-      "terme similaire à Suranné"
+      "démodé",
+      "obsolète",
+      "vieillot"
     ],
     "prononciation": "[s-u-r-a-n-n-é]"
   },
@@ -889,9 +889,9 @@ const words = [
       "Utiliser sycophante dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sycophante",
-      "équivalent de Sycophante",
-      "terme similaire à Sycophante"
+      "dénonciateur",
+      "calomniateur",
+      "mouchard"
     ],
     "prononciation": "[s-y-c-o-p-h-a-n-t-e]"
   },
@@ -903,9 +903,9 @@ const words = [
       "Utiliser synergie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Synergie",
-      "équivalent de Synergie",
-      "terme similaire à Synergie"
+      "coopération",
+      "interaction",
+      "collaboration"
     ],
     "prononciation": "[s-y-n-e-r-g-i-e]"
   },
@@ -917,9 +917,9 @@ const words = [
       "Utiliser syzygie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Syzygie",
-      "équivalent de Syzygie",
-      "terme similaire à Syzygie"
+      "alignement",
+      "conjonction",
+      "configuration"
     ],
     "prononciation": "[s-y-z-y-g-i-e]"
   },
@@ -931,9 +931,9 @@ const words = [
       "Utiliser tacite dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tacite",
-      "équivalent de Tacite",
-      "terme similaire à Tacite"
+      "implicite",
+      "sous‑entendu",
+      "non‑dit"
     ],
     "prononciation": "[t-a-c-i-t-e]"
   },
@@ -945,9 +945,9 @@ const words = [
       "Utiliser tangible dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tangible",
-      "équivalent de Tangible",
-      "terme similaire à Tangible"
+      "concret",
+      "palpable",
+      "matériel"
     ],
     "prononciation": "[t-a-n-g-i-b-l-e]"
   },
@@ -959,9 +959,9 @@ const words = [
       "Utiliser tautologie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tautologie",
-      "équivalent de Tautologie",
-      "terme similaire à Tautologie"
+      "pléonasme",
+      "répétition",
+      "redondance"
     ],
     "prononciation": "[t-a-u-t-o-l-o-g-i-e]"
   },
@@ -973,9 +973,9 @@ const words = [
       "Utiliser thaumaturge dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Thaumaturge",
-      "équivalent de Thaumaturge",
-      "terme similaire à Thaumaturge"
+      "faiseur de miracles",
+      "guérisseur",
+      "magicien"
     ],
     "prononciation": "[t-h-a-u-m-a-t-u-r-g-e]"
   },
@@ -987,9 +987,9 @@ const words = [
       "Utiliser thuriféraire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Thuriféraire",
-      "équivalent de Thuriféraire",
-      "terme similaire à Thuriféraire"
+      "flatteur",
+      "adulateur",
+      "flagorneur"
     ],
     "prononciation": "[t-h-u-r-i-f-é-r-a-i-r-e]"
   },
@@ -1001,9 +1001,9 @@ const words = [
       "Utiliser torpeur dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Torpeur",
-      "équivalent de Torpeur",
-      "terme similaire à Torpeur"
+      "léthargie",
+      "engourdissement",
+      "apathie"
     ],
     "prononciation": "[t-o-r-p-e-u-r]"
   },
@@ -1015,9 +1015,9 @@ const words = [
       "Utiliser transcendant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Transcendant",
-      "équivalent de Transcendant",
-      "terme similaire à Transcendant"
+      "supérieur",
+      "éminent",
+      "extraordinaire"
     ],
     "prononciation": "[t-r-a-n-s-c-e-n-d-a-n-t]"
   },
@@ -1029,9 +1029,9 @@ const words = [
       "Utiliser trépidant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Trépidant",
-      "équivalent de Trépidant",
-      "terme similaire à Trépidant"
+      "palpitant",
+      "agité",
+      "dynamique"
     ],
     "prononciation": "[t-r-é-p-i-d-a-n-t]"
   },
@@ -1043,9 +1043,9 @@ const words = [
       "Utiliser truculent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Truculent",
-      "équivalent de Truculent",
-      "terme similaire à Truculent"
+      "pittoresque",
+      "coloré",
+      "croquignolesque"
     ],
     "prononciation": "[t-r-u-c-u-l-e-n-t]"
   },
@@ -1057,9 +1057,9 @@ const words = [
       "Utiliser turpitude dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Turpitude",
-      "équivalent de Turpitude",
-      "terme similaire à Turpitude"
+      "infamie",
+      "ignominie",
+      "bassesse"
     ],
     "prononciation": "[t-u-r-p-i-t-u-d-e]"
   },
@@ -1071,9 +1071,9 @@ const words = [
       "Utiliser ubuesque dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ubuesque",
-      "équivalent de Ubuesque",
-      "terme similaire à Ubuesque"
+      "grotesque",
+      "absurde",
+      "ridicule"
     ],
     "prononciation": "[u-b-u-e-s-q-u-e]"
   },
@@ -1085,9 +1085,9 @@ const words = [
       "Utiliser uchronie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Uchronie",
-      "équivalent de Uchronie",
-      "terme similaire à Uchronie"
+      "réalité alternative",
+      "fiction historique",
+      "histoire revisitée"
     ],
     "prononciation": "[u-c-h-r-o-n-i-e]"
   },
@@ -1099,9 +1099,9 @@ const words = [
       "Utiliser univoque dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Univoque",
-      "équivalent de Univoque",
-      "terme similaire à Univoque"
+      "sans ambiguïté",
+      "unique",
+      "clair"
     ],
     "prononciation": "[u-n-i-v-o-q-u-e]"
   },
@@ -1113,9 +1113,9 @@ const words = [
       "Utiliser usurpation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Usurpation",
-      "équivalent de Usurpation",
-      "terme similaire à Usurpation"
+      "appropriation",
+      "illégitimité",
+      "captation"
     ],
     "prononciation": "[u-s-u-r-p-a-t-i-o-n]"
   },
@@ -1127,9 +1127,9 @@ const words = [
       "Utiliser vacuité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vacuité",
-      "équivalent de Vacuité",
-      "terme similaire à Vacuité"
+      "vide",
+      "futilité",
+      "inanité"
     ],
     "prononciation": "[v-a-c-u-i-t-é]"
   },
@@ -1141,9 +1141,9 @@ const words = [
       "Utiliser velléité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Velléité",
-      "équivalent de Velléité",
-      "terme similaire à Velléité"
+      "intention",
+      "tentative",
+      "timidité"
     ],
     "prononciation": "[v-e-l-l-é-i-t-é]"
   },
@@ -1155,9 +1155,9 @@ const words = [
       "Utiliser velléitaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Velléitaire",
-      "équivalent de Velléitaire",
-      "terme similaire à Velléitaire"
+      "indécis",
+      "hésitant",
+      "faible"
     ],
     "prononciation": "[v-e-l-l-é-i-t-a-i-r-e]"
   },
@@ -1169,9 +1169,9 @@ const words = [
       "Utiliser venimeux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Venimeux",
-      "équivalent de Venimeux",
-      "terme similaire à Venimeux"
+      "toxique",
+      "pernicieux",
+      "mordant"
     ],
     "prononciation": "[v-e-n-i-m-e-u-x]"
   },
@@ -1183,9 +1183,9 @@ const words = [
       "Utiliser vétille dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vétille",
-      "équivalent de Vétille",
-      "terme similaire à Vétille"
+      "broutille",
+      "bagatelle",
+      "futilité"
     ],
     "prononciation": "[v-é-t-i-l-l-e]"
   },
@@ -1197,9 +1197,9 @@ const words = [
       "Utiliser vicissitude dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vicissitude",
-      "équivalent de Vicissitude",
-      "terme similaire à Vicissitude"
+      "aléa",
+      "péripétie",
+      "mutation"
     ],
     "prononciation": "[v-i-c-i-s-s-i-t-u-d-e]"
   },
@@ -1211,9 +1211,9 @@ const words = [
       "Utiliser vindicatif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vindicatif",
-      "équivalent de Vindicatif",
-      "terme similaire à Vindicatif"
+      "rancunier",
+      "revanchard",
+      "vengeur"
     ],
     "prononciation": "[v-i-n-d-i-c-a-t-i-f]"
   },
@@ -1225,9 +1225,9 @@ const words = [
       "Utiliser virulence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Virulence",
-      "équivalent de Virulence",
-      "terme similaire à Virulence"
+      "violence",
+      "âpreté",
+      "acuité"
     ],
     "prononciation": "[v-i-r-u-l-e-n-c-e]"
   },
@@ -1239,9 +1239,9 @@ const words = [
       "Utiliser vitupérer dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vitupérer",
-      "équivalent de Vitupérer",
-      "terme similaire à Vitupérer"
+      "blâmer",
+      "fulminer",
+      "invectiver"
     ],
     "prononciation": "[v-i-t-u-p-é-r-e-r]"
   },
@@ -1253,9 +1253,9 @@ const words = [
       "Utiliser xénophobie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Xénophobie",
-      "équivalent de Xénophobie",
-      "terme similaire à Xénophobie"
+      "intolérance",
+      "peur de l'autre",
+      "repli identitaire"
     ],
     "prononciation": "[x-é-n-o-p-h-o-b-i-e]"
   },
@@ -1267,9 +1267,9 @@ const words = [
       "Utiliser zélateur dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zélateur",
-      "équivalent de Zélateur",
-      "terme similaire à Zélateur"
+      "partisan",
+      "défenseur",
+      "adhérent"
     ],
     "prononciation": "[z-é-l-a-t-e-u-r]"
   },
@@ -1281,9 +1281,9 @@ const words = [
       "Utiliser zélatrice dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zélatrice",
-      "équivalent de Zélatrice",
-      "terme similaire à Zélatrice"
+      "partisane",
+      "défenseure",
+      "militante"
     ],
     "prononciation": "[z-é-l-a-t-r-i-c-e]"
   },
@@ -1295,9 +1295,9 @@ const words = [
       "Utiliser ziggourat dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ziggourat",
-      "équivalent de Ziggourat",
-      "terme similaire à Ziggourat"
+      "temple à étages",
+      "pyramide à gradins",
+      "monument mésopotamien"
     ],
     "prononciation": "[z-i-g-g-o-u-r-a-t]"
   },
@@ -1309,9 +1309,9 @@ const words = [
       "Utiliser zythum dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zythum",
-      "équivalent de Zythum",
-      "terme similaire à Zythum"
+      "bière de l'Égypte ancienne",
+      "breuvage ancien",
+      "bière antique"
     ],
     "prononciation": "[z-y-t-h-u-m]"
   },
@@ -1323,9 +1323,9 @@ const words = [
       "Utiliser abstrus dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Abstrus",
-      "équivalent de Abstrus",
-      "terme similaire à Abstrus"
+      "complexe",
+      "difficile",
+      "obscur"
     ],
     "prononciation": "[a-b-s-t-r-u-s]"
   },
@@ -1337,9 +1337,9 @@ const words = [
       "Utiliser acéré dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Acéré",
-      "équivalent de Acéré",
-      "terme similaire à Acéré"
+      "tranchant",
+      "affûté",
+      "perçant"
     ],
     "prononciation": "[a-c-é-r-é]"
   },
@@ -1351,9 +1351,9 @@ const words = [
       "Utiliser acolyte dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Acolyte",
-      "équivalent de Acolyte",
-      "terme similaire à Acolyte"
+      "assistant",
+      "compagnon",
+      "adjoint"
     ],
     "prononciation": "[a-c-o-l-y-t-e]"
   },
@@ -1365,9 +1365,9 @@ const words = [
       "Utiliser ad hoc dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ad hoc",
-      "équivalent de Ad hoc",
-      "terme similaire à Ad hoc"
+      "spécifique",
+      "approprié",
+      "sur mesure"
     ],
     "prononciation": "[a-d- -h-o-c]"
   },
@@ -1379,9 +1379,9 @@ const words = [
       "Utiliser addenda dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Addenda",
-      "équivalent de Addenda",
-      "terme similaire à Addenda"
+      "appendice",
+      "supplément",
+      "annexe"
     ],
     "prononciation": "[a-d-d-e-n-d-a]"
   },
@@ -1393,9 +1393,9 @@ const words = [
       "Utiliser affable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Affable",
-      "équivalent de Affable",
-      "terme similaire à Affable"
+      "aimable",
+      "courtois",
+      "accueillant"
     ],
     "prononciation": "[a-f-f-a-b-l-e]"
   },
@@ -1407,9 +1407,9 @@ const words = [
       "Utiliser affliction dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Affliction",
-      "équivalent de Affliction",
-      "terme similaire à Affliction"
+      "peine",
+      "douleur",
+      "chagrin"
     ],
     "prononciation": "[a-f-f-l-i-c-t-i-o-n]"
   },
@@ -1421,9 +1421,9 @@ const words = [
       "Utiliser agnostique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Agnostique",
-      "équivalent de Agnostique",
-      "terme similaire à Agnostique"
+      "incroyant",
+      "sceptique",
+      "dubitatif"
     ],
     "prononciation": "[a-g-n-o-s-t-i-q-u-e]"
   },
@@ -1435,9 +1435,9 @@ const words = [
       "Utiliser alambiqué dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Alambiqué",
-      "équivalent de Alambiqué",
-      "terme similaire à Alambiqué"
+      "tortueux",
+      "compliqué",
+      "embrouillé"
     ],
     "prononciation": "[a-l-a-m-b-i-q-u-é]"
   },
@@ -1449,9 +1449,9 @@ const words = [
       "Utiliser altruisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Altruisme",
-      "équivalent de Altruisme",
-      "terme similaire à Altruisme"
+      "désintéressement",
+      "générosité",
+      "humanisme"
     ],
     "prononciation": "[a-l-t-r-u-i-s-m-e]"
   },
@@ -1463,9 +1463,9 @@ const words = [
       "Utiliser amalgamer dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Amalgamer",
-      "équivalent de Amalgamer",
-      "terme similaire à Amalgamer"
+      "mélanger",
+      "fusionner",
+      "confondre"
     ],
     "prononciation": "[a-m-a-l-g-a-m-e-r]"
   },
@@ -1477,9 +1477,9 @@ const words = [
       "Utiliser ambivalent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ambivalent",
-      "équivalent de Ambivalent",
-      "terme similaire à Ambivalent"
+      "équivoque",
+      "mitigé",
+      "partagé"
     ],
     "prononciation": "[a-m-b-i-v-a-l-e-n-t]"
   },
@@ -1491,9 +1491,9 @@ const words = [
       "Utiliser amphigouri dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Amphigouri",
-      "équivalent de Amphigouri",
-      "terme similaire à Amphigouri"
+      "galimatias",
+      "charabia",
+      "non‑sens"
     ],
     "prononciation": "[a-m-p-h-i-g-o-u-r-i]"
   },
@@ -1505,9 +1505,9 @@ const words = [
       "Utiliser anachronique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Anachronique",
-      "équivalent de Anachronique",
-      "terme similaire à Anachronique"
+      "dépassé",
+      "démodé",
+      "obsolète"
     ],
     "prononciation": "[a-n-a-c-h-r-o-n-i-q-u-e]"
   },
@@ -1519,9 +1519,9 @@ const words = [
       "Utiliser analogie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Analogie",
-      "équivalent de Analogie",
-      "terme similaire à Analogie"
+      "similitude",
+      "comparaison",
+      "correspondance"
     ],
     "prononciation": "[a-n-a-l-o-g-i-e]"
   },
@@ -1533,9 +1533,9 @@ const words = [
       "Utiliser animosité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Animosité",
-      "équivalent de Animosité",
-      "terme similaire à Animosité"
+      "hostilité",
+      "rancœur",
+      "aversion"
     ],
     "prononciation": "[a-n-i-m-o-s-i-t-é]"
   },
@@ -1547,9 +1547,9 @@ const words = [
       "Utiliser anomalie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Anomalie",
-      "équivalent de Anomalie",
-      "terme similaire à Anomalie"
+      "irrégularité",
+      "exception",
+      "bizarrerie"
     ],
     "prononciation": "[a-n-o-m-a-l-i-e]"
   },
@@ -1561,9 +1561,9 @@ const words = [
       "Utiliser antagonisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Antagonisme",
-      "équivalent de Antagonisme",
-      "terme similaire à Antagonisme"
+      "opposition",
+      "rivalité",
+      "conflit"
     ],
     "prononciation": "[a-n-t-a-g-o-n-i-s-m-e]"
   },
@@ -1575,9 +1575,9 @@ const words = [
       "Utiliser antinomie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Antinomie",
-      "équivalent de Antinomie",
-      "terme similaire à Antinomie"
+      "contradiction",
+      "paradoxe",
+      "incompatibilité"
     ],
     "prononciation": "[a-n-t-i-n-o-m-i-e]"
   },
@@ -1589,9 +1589,9 @@ const words = [
       "Utiliser antipode dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Antipode",
-      "équivalent de Antipode",
-      "terme similaire à Antipode"
+      "opposé",
+      "contraire",
+      "diamétralement opposé"
     ],
     "prononciation": "[a-n-t-i-p-o-d-e]"
   },
@@ -1603,9 +1603,9 @@ const words = [
       "Utiliser apathique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Apathique",
-      "équivalent de Apathique",
-      "terme similaire à Apathique"
+      "indolent",
+      "mollasson",
+      "léthargique"
     ],
     "prononciation": "[a-p-a-t-h-i-q-u-e]"
   },
@@ -1617,9 +1617,9 @@ const words = [
       "Utiliser aphorisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Aphorisme",
-      "équivalent de Aphorisme",
-      "terme similaire à Aphorisme"
+      "maxime",
+      "sentence",
+      "adage"
     ],
     "prononciation": "[a-p-h-o-r-i-s-m-e]"
   },
@@ -1631,9 +1631,9 @@ const words = [
       "Utiliser apocryphe dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Apocryphe",
-      "équivalent de Apocryphe",
-      "terme similaire à Apocryphe"
+      "douteux",
+      "faux",
+      "non authentique"
     ],
     "prononciation": "[a-p-o-c-r-y-p-h-e]"
   },
@@ -1645,9 +1645,9 @@ const words = [
       "Utiliser apologie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Apologie",
-      "équivalent de Apologie",
-      "terme similaire à Apologie"
+      "défense",
+      "éloge",
+      "plaidoirie"
     ],
     "prononciation": "[a-p-o-l-o-g-i-e]"
   },
@@ -1659,9 +1659,9 @@ const words = [
       "Utiliser apothéose dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Apothéose",
-      "équivalent de Apothéose",
-      "terme similaire à Apothéose"
+      "apogée",
+      "consécration",
+      "sommet"
     ],
     "prononciation": "[a-p-o-t-h-é-o-s-e]"
   },
@@ -1673,9 +1673,9 @@ const words = [
       "Utiliser apparatchik dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Apparatchik",
-      "équivalent de Apparatchik",
-      "terme similaire à Apparatchik"
+      "bureaucrate",
+      "fonctionnaire",
+      "responsable du parti"
     ],
     "prononciation": "[a-p-p-a-r-a-t-c-h-i-k]"
   },
@@ -1687,9 +1687,9 @@ const words = [
       "Utiliser arcane dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Arcane",
-      "équivalent de Arcane",
-      "terme similaire à Arcane"
+      "mystère",
+      "secret",
+      "énigme"
     ],
     "prononciation": "[a-r-c-a-n-e]"
   },
@@ -1701,9 +1701,9 @@ const words = [
       "Utiliser assujettissement dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Assujettissement",
-      "équivalent de Assujettissement",
-      "terme similaire à Assujettissement"
+      "soumission",
+      "servitude",
+      "asservissement"
     ],
     "prononciation": "[a-s-s-u-j-e-t-t-i-s-s-e-m-e-n-t]"
   },
@@ -1715,9 +1715,9 @@ const words = [
       "Utiliser asthénie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Asthénie",
-      "équivalent de Asthénie",
-      "terme similaire à Asthénie"
+      "fatigue",
+      "épuisement",
+      "affaiblissement"
     ],
     "prononciation": "[a-s-t-h-é-n-i-e]"
   },
@@ -1729,9 +1729,9 @@ const words = [
       "Utiliser auguste dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Auguste",
-      "équivalent de Auguste",
-      "terme similaire à Auguste"
+      "vénérable",
+      "majestueux",
+      "solennel"
     ],
     "prononciation": "[a-u-g-u-s-t-e]"
   },
@@ -1743,9 +1743,9 @@ const words = [
       "Utiliser autarcie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Autarcie",
-      "équivalent de Autarcie",
-      "terme similaire à Autarcie"
+      "autosuffisance",
+      "autonomie",
+      "indépendance"
     ],
     "prononciation": "[a-u-t-a-r-c-i-e]"
   },
@@ -1757,9 +1757,9 @@ const words = [
       "Utiliser autochtone dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Autochtone",
-      "équivalent de Autochtone",
-      "terme similaire à Autochtone"
+      "indigène",
+      "natif",
+      "aborigène"
     ],
     "prononciation": "[a-u-t-o-c-h-t-o-n-e]"
   },
@@ -1771,9 +1771,9 @@ const words = [
       "Utiliser avanie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Avanie",
-      "équivalent de Avanie",
-      "terme similaire à Avanie"
+      "humiliation",
+      "affront",
+      "vexation"
     ],
     "prononciation": "[a-v-a-n-i-e]"
   },
@@ -1785,9 +1785,9 @@ const words = [
       "Utiliser aversion dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Aversion",
-      "équivalent de Aversion",
-      "terme similaire à Aversion"
+      "répulsion",
+      "dégoût",
+      "antipathie"
     ],
     "prononciation": "[a-v-e-r-s-i-o-n]"
   },
@@ -1799,9 +1799,9 @@ const words = [
       "Utiliser axiome dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Axiome",
-      "équivalent de Axiome",
-      "terme similaire à Axiome"
+      "postulat",
+      "principe",
+      "évidence"
     ],
     "prononciation": "[a-x-i-o-m-e]"
   },
@@ -1813,9 +1813,9 @@ const words = [
       "Utiliser baliverne dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Baliverne",
-      "équivalent de Baliverne",
-      "terme similaire à Baliverne"
+      "sornette",
+      "bagatelle",
+      "fadaise"
     ],
     "prononciation": "[b-a-l-i-v-e-r-n-e]"
   },
@@ -1827,9 +1827,9 @@ const words = [
       "Utiliser boulimie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Boulimie",
-      "équivalent de Boulimie",
-      "terme similaire à Boulimie"
+      "gloutonnerie",
+      "voracité",
+      "frénésie alimentaire"
     ],
     "prononciation": "[b-o-u-l-i-m-i-e]"
   },
@@ -1841,9 +1841,9 @@ const words = [
       "Utiliser burlesque dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Burlesque",
-      "équivalent de Burlesque",
-      "terme similaire à Burlesque"
+      "cocasse",
+      "drôle",
+      "fantaisiste"
     ],
     "prononciation": "[b-u-r-l-e-s-q-u-e]"
   },
@@ -1855,9 +1855,9 @@ const words = [
       "Utiliser byzantin dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Byzantin",
-      "équivalent de Byzantin",
-      "terme similaire à Byzantin"
+      "tatillon",
+      "complexe",
+      "sophistiqué"
     ],
     "prononciation": "[b-y-z-a-n-t-i-n]"
   },
@@ -1869,9 +1869,9 @@ const words = [
       "Utiliser cacique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cacique",
-      "équivalent de Cacique",
-      "terme similaire à Cacique"
+      "chef",
+      "leader",
+      "dignitaire"
     ],
     "prononciation": "[c-a-c-i-q-u-e]"
   },
@@ -1883,9 +1883,9 @@ const words = [
       "Utiliser calamité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Calamité",
-      "équivalent de Calamité",
-      "terme similaire à Calamité"
+      "catastrophe",
+      "désastre",
+      "fléau"
     ],
     "prononciation": "[c-a-l-a-m-i-t-é]"
   },
@@ -1897,9 +1897,9 @@ const words = [
       "Utiliser catharsis dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Catharsis",
-      "équivalent de Catharsis",
-      "terme similaire à Catharsis"
+      "purification",
+      "libération",
+      "décharge émotionnelle"
     ],
     "prononciation": "[c-a-t-h-a-r-s-i-s]"
   },
@@ -1911,9 +1911,9 @@ const words = [
       "Utiliser cécité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cécité",
-      "équivalent de Cécité",
-      "terme similaire à Cécité"
+      "aveuglement",
+      "obscurité",
+      "perte de vue"
     ],
     "prononciation": "[c-é-c-i-t-é]"
   },
@@ -1925,9 +1925,9 @@ const words = [
       "Utiliser célérité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Célérité",
-      "équivalent de Célérité",
-      "terme similaire à Célérité"
+      "rapidité",
+      "promptitude",
+      "vitesse"
     ],
     "prononciation": "[c-é-l-é-r-i-t-é]"
   },
@@ -1939,9 +1939,9 @@ const words = [
       "Utiliser collusion dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Collusion",
-      "équivalent de Collusion",
-      "terme similaire à Collusion"
+      "connivence",
+      "complicité",
+      "entente secrète"
     ],
     "prononciation": "[c-o-l-l-u-s-i-o-n]"
   },
@@ -1953,9 +1953,9 @@ const words = [
       "Utiliser condescendance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Condescendance",
-      "équivalent de Condescendance",
-      "terme similaire à Condescendance"
+      "supériorité",
+      "arrogance",
+      "hauteur"
     ],
     "prononciation": "[c-o-n-d-e-s-c-e-n-d-a-n-c-e]"
   },
@@ -1967,9 +1967,9 @@ const words = [
       "Utiliser confabulation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Confabulation",
-      "équivalent de Confabulation",
-      "terme similaire à Confabulation"
+      "fabulation",
+      "affabulation",
+      "mensonge"
     ],
     "prononciation": "[c-o-n-f-a-b-u-l-a-t-i-o-n]"
   },
@@ -1981,9 +1981,9 @@ const words = [
       "Utiliser conjecture dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Conjecture",
-      "équivalent de Conjecture",
-      "terme similaire à Conjecture"
+      "supposition",
+      "hypothèse",
+      "supputation"
     ],
     "prononciation": "[c-o-n-j-e-c-t-u-r-e]"
   },
@@ -1995,9 +1995,9 @@ const words = [
       "Utiliser connivence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Connivence",
-      "équivalent de Connivence",
-      "terme similaire à Connivence"
+      "complicité",
+      "collusion",
+      "entente"
     ],
     "prononciation": "[c-o-n-n-i-v-e-n-c-e]"
   },
@@ -2009,9 +2009,9 @@ const words = [
       "Utiliser consensus dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Consensus",
-      "équivalent de Consensus",
-      "terme similaire à Consensus"
+      "accord",
+      "concorde",
+      "unanime"
     ],
     "prononciation": "[c-o-n-s-e-n-s-u-s]"
   },
@@ -2023,9 +2023,9 @@ const words = [
       "Utiliser consubstantiel dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Consubstantiel",
-      "équivalent de Consubstantiel",
-      "terme similaire à Consubstantiel"
+      "indissociable",
+      "intrinsèque",
+      "inséparable"
     ],
     "prononciation": "[c-o-n-s-u-b-s-t-a-n-t-i-e-l]"
   },
@@ -2037,9 +2037,9 @@ const words = [
       "Utiliser contingent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Contingent",
-      "équivalent de Contingent",
-      "terme similaire à Contingent"
+      "occasionnel",
+      "aléatoire",
+      "accessoire"
     ],
     "prononciation": "[c-o-n-t-i-n-g-e-n-t]"
   },
@@ -2051,9 +2051,9 @@ const words = [
       "Utiliser contradictoire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Contradictoire",
-      "équivalent de Contradictoire",
-      "terme similaire à Contradictoire"
+      "incompatible",
+      "opposé",
+      "paradoxal"
     ],
     "prononciation": "[c-o-n-t-r-a-d-i-c-t-o-i-r-e]"
   },
@@ -2065,9 +2065,9 @@ const words = [
       "Utiliser contumace dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Contumace",
-      "équivalent de Contumace",
-      "terme similaire à Contumace"
+      "condamnation par défaut",
+      "absence",
+      "défaut"
     ],
     "prononciation": "[c-o-n-t-u-m-a-c-e]"
   },
@@ -2079,9 +2079,9 @@ const words = [
       "Utiliser convergence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Convergence",
-      "équivalent de Convergence",
-      "terme similaire à Convergence"
+      "rencontre",
+      "rapprochement",
+      "fusion"
     ],
     "prononciation": "[c-o-n-v-e-r-g-e-n-c-e]"
   },
@@ -2093,9 +2093,9 @@ const words = [
       "Utiliser convivial dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Convivial",
-      "équivalent de Convivial",
-      "terme similaire à Convivial"
+      "agréable",
+      "chaleureux",
+      "amical"
     ],
     "prononciation": "[c-o-n-v-i-v-i-a-l]"
   },
@@ -2107,9 +2107,9 @@ const words = [
       "Utiliser coruscant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Coruscant",
-      "équivalent de Coruscant",
-      "terme similaire à Coruscant"
+      "brillant",
+      "étincelant",
+      "scintillant"
     ],
     "prononciation": "[c-o-r-u-s-c-a-n-t]"
   },
@@ -2121,9 +2121,9 @@ const words = [
       "Utiliser crépusculaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Crépusculaire",
-      "équivalent de Crépusculaire",
-      "terme similaire à Crépusculaire"
+      "sombre",
+      "vésperal",
+      "obscur"
     ],
     "prononciation": "[c-r-é-p-u-s-c-u-l-a-i-r-e]"
   },
@@ -2135,9 +2135,9 @@ const words = [
       "Utiliser cryptique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cryptique",
-      "équivalent de Cryptique",
-      "terme similaire à Cryptique"
+      "obscur",
+      "énigmatique",
+      "secret"
     ],
     "prononciation": "[c-r-y-p-t-i-q-u-e]"
   },
@@ -2149,9 +2149,9 @@ const words = [
       "Utiliser cynisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cynisme",
-      "équivalent de Cynisme",
-      "terme similaire à Cynisme"
+      "sarcasme",
+      "ironie",
+      "amertume"
     ],
     "prononciation": "[c-y-n-i-s-m-e]"
   },
@@ -2163,9 +2163,9 @@ const words = [
       "Utiliser déchéance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Déchéance",
-      "équivalent de Déchéance",
-      "terme similaire à Déchéance"
+      "dégradation",
+      "chute",
+      "dégénérescence"
     ],
     "prononciation": "[d-é-c-h-é-a-n-c-e]"
   },
@@ -2177,9 +2177,9 @@ const words = [
       "Utiliser déférence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Déférence",
-      "équivalent de Déférence",
-      "terme similaire à Déférence"
+      "respect",
+      "considération",
+      "égards"
     ],
     "prononciation": "[d-é-f-é-r-e-n-c-e]"
   },
@@ -2191,9 +2191,9 @@ const words = [
       "Utiliser diatribe dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Diatribe",
-      "équivalent de Diatribe",
-      "terme similaire à Diatribe"
+      "pamphlet",
+      "attaque",
+      "discours acerbe"
     ],
     "prononciation": "[d-i-a-t-r-i-b-e]"
   },
@@ -2205,9 +2205,9 @@ const words = [
       "Utiliser didactique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Didactique",
-      "équivalent de Didactique",
-      "terme similaire à Didactique"
+      "pédagogique",
+      "instructif",
+      "éducatif"
     ],
     "prononciation": "[d-i-d-a-c-t-i-q-u-e]"
   },
@@ -2219,9 +2219,9 @@ const words = [
       "Utiliser dilemme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dilemme",
-      "équivalent de Dilemme",
-      "terme similaire à Dilemme"
+      "alternative",
+      "choix difficile",
+      "impasse"
     ],
     "prononciation": "[d-i-l-e-m-m-e]"
   },
@@ -2233,9 +2233,9 @@ const words = [
       "Utiliser dissonance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dissonance",
-      "équivalent de Dissonance",
-      "terme similaire à Dissonance"
+      "discordance",
+      "disparité",
+      "cacophonie"
     ],
     "prononciation": "[d-i-s-s-o-n-a-n-c-e]"
   },
@@ -2247,9 +2247,9 @@ const words = [
       "Utiliser distorsion dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Distorsion",
-      "équivalent de Distorsion",
-      "terme similaire à Distorsion"
+      "déformation",
+      "torsion",
+      "altération"
     ],
     "prononciation": "[d-i-s-t-o-r-s-i-o-n]"
   },
@@ -2261,9 +2261,9 @@ const words = [
       "Utiliser dithyrambique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dithyrambique",
-      "équivalent de Dithyrambique",
-      "terme similaire à Dithyrambique"
+      "élogieux",
+      "enthousiaste",
+      "panégyrique"
     ],
     "prononciation": "[d-i-t-h-y-r-a-m-b-i-q-u-e]"
   },
@@ -2275,9 +2275,9 @@ const words = [
       "Utiliser égérie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Égérie",
-      "équivalent de Égérie",
-      "terme similaire à Égérie"
+      "muse",
+      "inspiratrice",
+      "icône"
     ],
     "prononciation": "[é-g-é-r-i-e]"
   },
@@ -2289,9 +2289,9 @@ const words = [
       "Utiliser elliptique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Elliptique",
-      "équivalent de Elliptique",
-      "terme similaire à Elliptique"
+      "succinct",
+      "concise",
+      "abrégé"
     ],
     "prononciation": "[e-l-l-i-p-t-i-q-u-e]"
   },
@@ -2303,9 +2303,9 @@ const words = [
       "Utiliser élocution dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Élocution",
-      "équivalent de Élocution",
-      "terme similaire à Élocution"
+      "diction",
+      "discours",
+      "parole"
     ],
     "prononciation": "[é-l-o-c-u-t-i-o-n]"
   },
@@ -2317,9 +2317,9 @@ const words = [
       "Utiliser élucubration dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Élucubration",
-      "équivalent de Élucubration",
-      "terme similaire à Élucubration"
+      "divagation",
+      "rêverie",
+      "spéculation"
     ],
     "prononciation": "[é-l-u-c-u-b-r-a-t-i-o-n]"
   },
@@ -2331,9 +2331,9 @@ const words = [
       "Utiliser émancipation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Émancipation",
-      "équivalent de Émancipation",
-      "terme similaire à Émancipation"
+      "libération",
+      "affranchissement",
+      "indépendance"
     ],
     "prononciation": "[é-m-a-n-c-i-p-a-t-i-o-n]"
   },
@@ -2345,9 +2345,9 @@ const words = [
       "Utiliser émollient dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Émollient",
-      "équivalent de Émollient",
-      "terme similaire à Émollient"
+      "adoucissant",
+      "apaisant",
+      "calmant"
     ],
     "prononciation": "[é-m-o-l-l-i-e-n-t]"
   },
@@ -2359,9 +2359,9 @@ const words = [
       "Utiliser engeance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Engeance",
-      "équivalent de Engeance",
-      "terme similaire à Engeance"
+      "espèce",
+      "catégorie",
+      "tribu"
     ],
     "prononciation": "[e-n-g-e-a-n-c-e]"
   },
@@ -2373,9 +2373,9 @@ const words = [
       "Utiliser entropie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Entropie",
-      "équivalent de Entropie",
-      "terme similaire à Entropie"
+      "désordre",
+      "chaos",
+      "incertitude"
     ],
     "prononciation": "[e-n-t-r-o-p-i-e]"
   },
@@ -2387,9 +2387,9 @@ const words = [
       "Utiliser épistolaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Épistolaire",
-      "équivalent de Épistolaire",
-      "terme similaire à Épistolaire"
+      "littéraire",
+      "de correspondance",
+      "épistolier"
     ],
     "prononciation": "[é-p-i-s-t-o-l-a-i-r-e]"
   },
@@ -2401,9 +2401,9 @@ const words = [
       "Utiliser eschatologie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Eschatologie",
-      "équivalent de Eschatologie",
-      "terme similaire à Eschatologie"
+      "doctrine des fins dernières",
+      "théologie de la fin",
+      "apocalyptique"
     ],
     "prononciation": "[e-s-c-h-a-t-o-l-o-g-i-e]"
   },
@@ -2415,9 +2415,9 @@ const words = [
       "Utiliser esthétique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Esthétique",
-      "équivalent de Esthétique",
-      "terme similaire à Esthétique"
+      "beauté",
+      "harmonie",
+      "élégance"
     ],
     "prononciation": "[e-s-t-h-é-t-i-q-u-e]"
   },
@@ -2429,9 +2429,9 @@ const words = [
       "Utiliser euphémisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Euphémisme",
-      "équivalent de Euphémisme",
-      "terme similaire à Euphémisme"
+      "atténuation",
+      "litote",
+      "douceur"
     ],
     "prononciation": "[e-u-p-h-é-m-i-s-m-e]"
   },
@@ -2443,9 +2443,9 @@ const words = [
       "Utiliser euphonie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Euphonie",
-      "équivalent de Euphonie",
-      "terme similaire à Euphonie"
+      "harmonie sonore",
+      "musicalité",
+      "mélodie"
     ],
     "prononciation": "[e-u-p-h-o-n-i-e]"
   },
@@ -2457,9 +2457,9 @@ const words = [
       "Utiliser exégèse dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exégèse",
-      "équivalent de Exégèse",
-      "terme similaire à Exégèse"
+      "interprétation",
+      "analyse",
+      "commentaire"
     ],
     "prononciation": "[e-x-é-g-è-s-e]"
   },
@@ -2471,9 +2471,9 @@ const words = [
       "Utiliser exhaustif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exhaustif",
-      "équivalent de Exhaustif",
-      "terme similaire à Exhaustif"
+      "complet",
+      "total",
+      "intégral"
     ],
     "prononciation": "[e-x-h-a-u-s-t-i-f]"
   },
@@ -2485,9 +2485,9 @@ const words = [
       "Utiliser exogène dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exogène",
-      "équivalent de Exogène",
-      "terme similaire à Exogène"
+      "extérieur",
+      "externe",
+      "allochtone"
     ],
     "prononciation": "[e-x-o-g-è-n-e]"
   },
@@ -2499,9 +2499,9 @@ const words = [
       "Utiliser exotique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exotique",
-      "équivalent de Exotique",
-      "terme similaire à Exotique"
+      "étrange",
+      "pittoresque",
+      "d'ailleurs"
     ],
     "prononciation": "[e-x-o-t-i-q-u-e]"
   },
@@ -2513,9 +2513,9 @@ const words = [
       "Utiliser exubérance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exubérance",
-      "équivalent de Exubérance",
-      "terme similaire à Exubérance"
+      "abondance",
+      "profusion",
+      "opulence"
     ],
     "prononciation": "[e-x-u-b-é-r-a-n-c-e]"
   },
@@ -2527,9 +2527,9 @@ const words = [
       "Utiliser fastidieux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fastidieux",
-      "équivalent de Fastidieux",
-      "terme similaire à Fastidieux"
+      "ennuyeux",
+      "laborieux",
+      "long"
     ],
     "prononciation": "[f-a-s-t-i-d-i-e-u-x]"
   },
@@ -2541,9 +2541,9 @@ const words = [
       "Utiliser féru dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Féru",
-      "équivalent de Féru",
-      "terme similaire à Féru"
+      "passionné",
+      "érudit",
+      "amateur"
     ],
     "prononciation": "[f-é-r-u]"
   },
@@ -2555,9 +2555,9 @@ const words = [
       "Utiliser fluxion dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fluxion",
-      "équivalent de Fluxion",
-      "terme similaire à Fluxion"
+      "inflammation",
+      "congestion",
+      "gonflement"
     ],
     "prononciation": "[f-l-u-x-i-o-n]"
   },
@@ -2569,9 +2569,9 @@ const words = [
       "Utiliser frugalité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Frugalité",
-      "équivalent de Frugalité",
-      "terme similaire à Frugalité"
+      "sobriété",
+      "simplicité",
+      "austérité"
     ],
     "prononciation": "[f-r-u-g-a-l-i-t-é]"
   },
@@ -2583,9 +2583,9 @@ const words = [
       "Utiliser fugace dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fugace",
-      "équivalent de Fugace",
-      "terme similaire à Fugace"
+      "éphémère",
+      "passager",
+      "transitoire"
     ],
     "prononciation": "[f-u-g-a-c-e]"
   },
@@ -2597,9 +2597,9 @@ const words = [
       "Utiliser fuligineux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fuligineux",
-      "équivalent de Fuligineux",
-      "terme similaire à Fuligineux"
+      "noirâtre",
+      "fumeux",
+      "opaque"
     ],
     "prononciation": "[f-u-l-i-g-i-n-e-u-x]"
   },
@@ -2611,9 +2611,9 @@ const words = [
       "Utiliser galvaniser dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Galvaniser",
-      "équivalent de Galvaniser",
-      "terme similaire à Galvaniser"
+      "stimuler",
+      "enflammer",
+      "enthousiasmer"
     ],
     "prononciation": "[g-a-l-v-a-n-i-s-e-r]"
   },
@@ -2625,9 +2625,9 @@ const words = [
       "Utiliser garrigue dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Garrigue",
-      "équivalent de Garrigue",
-      "terme similaire à Garrigue"
+      "maquis",
+      "brousse",
+      "lande"
     ],
     "prononciation": "[g-a-r-r-i-g-u-e]"
   },
@@ -2639,9 +2639,9 @@ const words = [
       "Utiliser grandiloquent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Grandiloquent",
-      "équivalent de Grandiloquent",
-      "terme similaire à Grandiloquent"
+      "pompeux",
+      "ampoulé",
+      "emphatique"
     ],
     "prononciation": "[g-r-a-n-d-i-l-o-q-u-e-n-t]"
   },
@@ -2653,9 +2653,9 @@ const words = [
       "Utiliser hagiographie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hagiographie",
-      "équivalent de Hagiographie",
-      "terme similaire à Hagiographie"
+      "biographie pieuse",
+      "éloge",
+      "vie de saint"
     ],
     "prononciation": "[h-a-g-i-o-g-r-a-p-h-i-e]"
   },
@@ -2667,9 +2667,9 @@ const words = [
       "Utiliser halo dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Halo",
-      "équivalent de Halo",
-      "terme similaire à Halo"
+      "auréole",
+      "couronne",
+      "rayonnement"
     ],
     "prononciation": "[h-a-l-o]"
   },
@@ -2681,9 +2681,9 @@ const words = [
       "Utiliser hasardeux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hasardeux",
-      "équivalent de Hasardeux",
-      "terme similaire à Hasardeux"
+      "aléatoire",
+      "risqué",
+      "incertain"
     ],
     "prononciation": "[h-a-s-a-r-d-e-u-x]"
   },
@@ -2695,9 +2695,9 @@ const words = [
       "Utiliser homérique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Homérique",
-      "équivalent de Homérique",
-      "terme similaire à Homérique"
+      "épique",
+      "légendaire",
+      "grandiose"
     ],
     "prononciation": "[h-o-m-é-r-i-q-u-e]"
   },
@@ -2709,9 +2709,9 @@ const words = [
       "Utiliser hubris dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hubris",
-      "équivalent de Hubris",
-      "terme similaire à Hubris"
+      "orgueil",
+      "démesure",
+      "arrogance"
     ],
     "prononciation": "[h-u-b-r-i-s]"
   },
@@ -2723,9 +2723,9 @@ const words = [
       "Utiliser hybridation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hybridation",
-      "équivalent de Hybridation",
-      "terme similaire à Hybridation"
+      "mélange",
+      "croisement",
+      "fusion"
     ],
     "prononciation": "[h-y-b-r-i-d-a-t-i-o-n]"
   },
@@ -2737,9 +2737,9 @@ const words = [
       "Utiliser idéologie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Idéologie",
-      "équivalent de Idéologie",
-      "terme similaire à Idéologie"
+      "doctrine",
+      "vision",
+      "système de pensée"
     ],
     "prononciation": "[i-d-é-o-l-o-g-i-e]"
   },
@@ -2751,9 +2751,9 @@ const words = [
       "Utiliser ignominie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ignominie",
-      "équivalent de Ignominie",
-      "terme similaire à Ignominie"
+      "honte",
+      "infamie",
+      "opprobre"
     ],
     "prononciation": "[i-g-n-o-m-i-n-i-e]"
   },
@@ -2765,9 +2765,9 @@ const words = [
       "Utiliser immuable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Immuable",
-      "équivalent de Immuable",
-      "terme similaire à Immuable"
+      "invariable",
+      "fixe",
+      "constant"
     ],
     "prononciation": "[i-m-m-u-a-b-l-e]"
   },
@@ -2779,9 +2779,9 @@ const words = [
       "Utiliser immanent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Immanent",
-      "équivalent de Immanent",
-      "terme similaire à Immanent"
+      "intrinsèque",
+      "interne",
+      "inhérent"
     ],
     "prononciation": "[i-m-m-a-n-e-n-t]"
   },
@@ -2793,9 +2793,9 @@ const words = [
       "Utiliser implacable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Implacable",
-      "équivalent de Implacable",
-      "terme similaire à Implacable"
+      "inflexible",
+      "inévitable",
+      "impitoyable"
     ],
     "prononciation": "[i-m-p-l-a-c-a-b-l-e]"
   },
@@ -2807,9 +2807,9 @@ const words = [
       "Utiliser impétueux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Impétueux",
-      "équivalent de Impétueux",
-      "terme similaire à Impétueux"
+      "fougueux",
+      "impulsif",
+      "véhément"
     ],
     "prononciation": "[i-m-p-é-t-u-e-u-x]"
   },
@@ -2821,9 +2821,9 @@ const words = [
       "Utiliser impudence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Impudence",
-      "équivalent de Impudence",
-      "terme similaire à Impudence"
+      "insolence",
+      "outrecuidance",
+      "effronterie"
     ],
     "prononciation": "[i-m-p-u-d-e-n-c-e]"
   },
@@ -2835,9 +2835,9 @@ const words = [
       "Utiliser imputation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Imputation",
-      "équivalent de Imputation",
-      "terme similaire à Imputation"
+      "accusation",
+      "attribution",
+      "reproche"
     ],
     "prononciation": "[i-m-p-u-t-a-t-i-o-n]"
   },
@@ -2849,9 +2849,9 @@ const words = [
       "Utiliser incipit dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Incipit",
-      "équivalent de Incipit",
-      "terme similaire à Incipit"
+      "début",
+      "commencement",
+      "ouverture"
     ],
     "prononciation": "[i-n-c-i-p-i-t]"
   },
@@ -2863,9 +2863,9 @@ const words = [
       "Utiliser incoercible dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Incoercible",
-      "équivalent de Incoercible",
-      "terme similaire à Incoercible"
+      "irrésistible",
+      "incontrôlable",
+      "impossible à contenir"
     ],
     "prononciation": "[i-n-c-o-e-r-c-i-b-l-e]"
   },
@@ -2877,9 +2877,9 @@ const words = [
       "Utiliser incongru dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Incongru",
-      "équivalent de Incongru",
-      "terme similaire à Incongru"
+      "déplacé",
+      "insolite",
+      "inadéquat"
     ],
     "prononciation": "[i-n-c-o-n-g-r-u]"
   },
@@ -2891,9 +2891,9 @@ const words = [
       "Utiliser indéfectible dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Indéfectible",
-      "équivalent de Indéfectible",
-      "terme similaire à Indéfectible"
+      "inlassable",
+      "permanent",
+      "inaliénable"
     ],
     "prononciation": "[i-n-d-é-f-e-c-t-i-b-l-e]"
   },
@@ -2905,9 +2905,9 @@ const words = [
       "Utiliser indolent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Indolent",
-      "équivalent de Indolent",
-      "terme similaire à Indolent"
+      "nonchalant",
+      "paresseux",
+      "languissant"
     ],
     "prononciation": "[i-n-d-o-l-e-n-t]"
   },
@@ -2919,9 +2919,9 @@ const words = [
       "Utiliser inexorable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Inexorable",
-      "équivalent de Inexorable",
-      "terme similaire à Inexorable"
+      "implacable",
+      "inévitable",
+      "inflexible"
     ],
     "prononciation": "[i-n-e-x-o-r-a-b-l-e]"
   },
@@ -2933,9 +2933,9 @@ const words = [
       "Utiliser infatuation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Infatuation",
-      "équivalent de Infatuation",
-      "terme similaire à Infatuation"
+      "vanité",
+      "orgueil",
+      "présomption"
     ],
     "prononciation": "[i-n-f-a-t-u-a-t-i-o-n]"
   },
@@ -2947,9 +2947,9 @@ const words = [
       "Utiliser infinitésimal dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Infinitésimal",
-      "équivalent de Infinitésimal",
-      "terme similaire à Infinitésimal"
+      "minuscule",
+      "microscopique",
+      "imperceptible"
     ],
     "prononciation": "[i-n-f-i-n-i-t-é-s-i-m-a-l]"
   },
@@ -2961,9 +2961,9 @@ const words = [
       "Utiliser ingénierie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ingénierie",
-      "équivalent de Ingénierie",
-      "terme similaire à Ingénierie"
+      "technicité",
+      "construction",
+      "conception"
     ],
     "prononciation": "[i-n-g-é-n-i-e-r-i-e]"
   },
@@ -2975,9 +2975,9 @@ const words = [
       "Utiliser inimitié dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Inimitié",
-      "équivalent de Inimitié",
-      "terme similaire à Inimitié"
+      "hostilité",
+      "rancune",
+      "animosité"
     ],
     "prononciation": "[i-n-i-m-i-t-i-é]"
   },
@@ -2989,9 +2989,9 @@ const words = [
       "Utiliser insondable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insondable",
-      "équivalent de Insondable",
-      "terme similaire à Insondable"
+      "impénétrable",
+      "mystérieux",
+      "abysmal"
     ],
     "prononciation": "[i-n-s-o-n-d-a-b-l-e]"
   },
@@ -3003,9 +3003,9 @@ const words = [
       "Utiliser insouciance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insouciance",
-      "équivalent de Insouciance",
-      "terme similaire à Insouciance"
+      "nonchalance",
+      "légèreté",
+      "détachement"
     ],
     "prononciation": "[i-n-s-o-u-c-i-a-n-c-e]"
   },
@@ -3017,9 +3017,9 @@ const words = [
       "Utiliser intangible dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Intangible",
-      "équivalent de Intangible",
-      "terme similaire à Intangible"
+      "immatériel",
+      "impalpable",
+      "invisible"
     ],
     "prononciation": "[i-n-t-a-n-g-i-b-l-e]"
   },
@@ -3031,9 +3031,9 @@ const words = [
       "Utiliser intempestif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Intempestif",
-      "équivalent de Intempestif",
-      "terme similaire à Intempestif"
+      "inopportun",
+      "malvenu",
+      "inattendu"
     ],
     "prononciation": "[i-n-t-e-m-p-e-s-t-i-f]"
   },
@@ -3045,9 +3045,9 @@ const words = [
       "Utiliser interlope dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Interlope",
-      "équivalent de Interlope",
-      "terme similaire à Interlope"
+      "douteux",
+      "louche",
+      "suspect"
     ],
     "prononciation": "[i-n-t-e-r-l-o-p-e]"
   },
@@ -3059,9 +3059,9 @@ const words = [
       "Utiliser interstice dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Interstice",
-      "équivalent de Interstice",
-      "terme similaire à Interstice"
+      "intervalle",
+      "espace",
+      "fissure"
     ],
     "prononciation": "[i-n-t-e-r-s-t-i-c-e]"
   },
@@ -3073,9 +3073,9 @@ const words = [
       "Utiliser introspection dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Introspection",
-      "équivalent de Introspection",
-      "terme similaire à Introspection"
+      "réflexion",
+      "examen intérieur",
+      "analyse de soi"
     ],
     "prononciation": "[i-n-t-r-o-s-p-e-c-t-i-o-n]"
   },
@@ -3087,9 +3087,9 @@ const words = [
       "Utiliser intrinsèque dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Intrinsèque",
-      "équivalent de Intrinsèque",
-      "terme similaire à Intrinsèque"
+      "inhérent",
+      "essentiel",
+      "naturel"
     ],
     "prononciation": "[i-n-t-r-i-n-s-è-q-u-e]"
   },
@@ -3101,9 +3101,9 @@ const words = [
       "Utiliser intuition dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Intuition",
-      "équivalent de Intuition",
-      "terme similaire à Intuition"
+      "pressentiment",
+      "instinct",
+      "flair"
     ],
     "prononciation": "[i-n-t-u-i-t-i-o-n]"
   },
@@ -3115,9 +3115,9 @@ const words = [
       "Utiliser irrémissible dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Irrémissible",
-      "équivalent de Irrémissible",
-      "terme similaire à Irrémissible"
+      "impardonnable",
+      "inévitable",
+      "irrévocable"
     ],
     "prononciation": "[i-r-r-é-m-i-s-s-i-b-l-e]"
   },
@@ -3129,9 +3129,9 @@ const words = [
       "Utiliser irrévérence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Irrévérence",
-      "équivalent de Irrévérence",
-      "terme similaire à Irrévérence"
+      "impertinence",
+      "iconoclasme",
+      "outrage"
     ],
     "prononciation": "[i-r-r-é-v-é-r-e-n-c-e]"
   },
@@ -3143,9 +3143,9 @@ const words = [
       "Utiliser isomorphisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Isomorphisme",
-      "équivalent de Isomorphisme",
-      "terme similaire à Isomorphisme"
+      "similarité",
+      "équivalence",
+      "analogie structurelle"
     ],
     "prononciation": "[i-s-o-m-o-r-p-h-i-s-m-e]"
   },
@@ -3157,9 +3157,9 @@ const words = [
       "Utiliser jargon dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Jargon",
-      "équivalent de Jargon",
-      "terme similaire à Jargon"
+      "langage spécialisé",
+      "argot",
+      "sabir"
     ],
     "prononciation": "[j-a-r-g-o-n]"
   },
@@ -3171,9 +3171,9 @@ const words = [
       "Utiliser jaillissement dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Jaillissement",
-      "équivalent de Jaillissement",
-      "terme similaire à Jaillissement"
+      "éruption",
+      "giclée",
+      "épanchement"
     ],
     "prononciation": "[j-a-i-l-l-i-s-s-e-m-e-n-t]"
   },
@@ -3185,9 +3185,9 @@ const words = [
       "Utiliser jubilatoire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Jubilatoire",
-      "équivalent de Jubilatoire",
-      "terme similaire à Jubilatoire"
+      "exaltant",
+      "festif",
+      "joyeux"
     ],
     "prononciation": "[j-u-b-i-l-a-t-o-i-r-e]"
   },
@@ -3199,9 +3199,9 @@ const words = [
       "Utiliser kabbalistique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Kabbalistique",
-      "équivalent de Kabbalistique",
-      "terme similaire à Kabbalistique"
+      "mystique",
+      "occultiste",
+      "ésotérique"
     ],
     "prononciation": "[k-a-b-b-a-l-i-s-t-i-q-u-e]"
   },
@@ -3213,9 +3213,9 @@ const words = [
       "Utiliser kakemphaton dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Kakemphaton",
-      "équivalent de Kakemphaton",
-      "terme similaire à Kakemphaton"
+      "cacophonie",
+      "discordance",
+      "dissonance"
     ],
     "prononciation": "[k-a-k-e-m-p-h-a-t-o-n]"
   },
@@ -3227,9 +3227,9 @@ const words = [
       "Utiliser kyrielle dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Kyrielle",
-      "équivalent de Kyrielle",
-      "terme similaire à Kyrielle"
+      "multitude",
+      "myriade",
+      "florilège"
     ],
     "prononciation": "[k-y-r-i-e-l-l-e]"
   },
@@ -3241,9 +3241,9 @@ const words = [
       "Utiliser lacustre dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Lacustre",
-      "équivalent de Lacustre",
-      "terme similaire à Lacustre"
+      "relatif aux lacs",
+      "aquatique",
+      "marin"
     ],
     "prononciation": "[l-a-c-u-s-t-r-e]"
   },
@@ -3255,9 +3255,9 @@ const words = [
       "Utiliser laïus dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Laïus",
-      "équivalent de Laïus",
-      "terme similaire à Laïus"
+      "discours",
+      "baratin",
+      "prêche"
     ],
     "prononciation": "[l-a-ï-u-s]"
   },
@@ -3269,9 +3269,9 @@ const words = [
       "Utiliser latitudinaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Latitudinaire",
-      "équivalent de Latitudinaire",
-      "terme similaire à Latitudinaire"
+      "tolérant",
+      "permissif",
+      "libéral"
     ],
     "prononciation": "[l-a-t-i-t-u-d-i-n-a-i-r-e]"
   },
@@ -3283,9 +3283,9 @@ const words = [
       "Utiliser libertin dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Libertin",
-      "équivalent de Libertin",
-      "terme similaire à Libertin"
+      "débauché",
+      "sensuel",
+      "licencieux"
     ],
     "prononciation": "[l-i-b-e-r-t-i-n]"
   },
@@ -3297,9 +3297,9 @@ const words = [
       "Utiliser lubricité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Lubricité",
-      "équivalent de Lubricité",
-      "terme similaire à Lubricité"
+      "luxure",
+      "dévoyement",
+      "lascivité"
     ],
     "prononciation": "[l-u-b-r-i-c-i-t-é]"
   },
@@ -3311,9 +3311,9 @@ const words = [
       "Utiliser luminescence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Luminescence",
-      "équivalent de Luminescence",
-      "terme similaire à Luminescence"
+      "lueur",
+      "phosphorescence",
+      "fluorescence"
     ],
     "prononciation": "[l-u-m-i-n-e-s-c-e-n-c-e]"
   },
@@ -3325,9 +3325,9 @@ const words = [
       "Utiliser luxuriant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Luxuriant",
-      "équivalent de Luxuriant",
-      "terme similaire à Luxuriant"
+      "abondant",
+      "foisonnant",
+      "opulent"
     ],
     "prononciation": "[l-u-x-u-r-i-a-n-t]"
   },
@@ -3339,9 +3339,9 @@ const words = [
       "Utiliser maelström dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Maelström",
-      "équivalent de Maelström",
-      "terme similaire à Maelström"
+      "tourbillon",
+      "tourmente",
+      "vortex"
     ],
     "prononciation": "[m-a-e-l-s-t-r-ö-m]"
   },
@@ -3353,9 +3353,9 @@ const words = [
       "Utiliser magnanime dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Magnanime",
-      "équivalent de Magnanime",
-      "terme similaire à Magnanime"
+      "généreux",
+      "clément",
+      "noble"
     ],
     "prononciation": "[m-a-g-n-a-n-i-m-e]"
   },
@@ -3367,9 +3367,9 @@ const words = [
       "Utiliser maïeutique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Maïeutique",
-      "équivalent de Maïeutique",
-      "terme similaire à Maïeutique"
+      "art d'accoucher les esprits",
+      "élucidation",
+      "socratisme"
     ],
     "prononciation": "[m-a-ï-e-u-t-i-q-u-e]"
   },
@@ -3381,9 +3381,9 @@ const words = [
       "Utiliser malversation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Malversation",
-      "équivalent de Malversation",
-      "terme similaire à Malversation"
+      "détournement",
+      "fraude",
+      "corruption"
     ],
     "prononciation": "[m-a-l-v-e-r-s-a-t-i-o-n]"
   },
@@ -3395,9 +3395,9 @@ const words = [
       "Utiliser manichéisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Manichéisme",
-      "équivalent de Manichéisme",
-      "terme similaire à Manichéisme"
+      "dualiste",
+      "simpliste",
+      "binaire"
     ],
     "prononciation": "[m-a-n-i-c-h-é-i-s-m-e]"
   },
@@ -3409,9 +3409,9 @@ const words = [
       "Utiliser mansuétude dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Mansuétude",
-      "équivalent de Mansuétude",
-      "terme similaire à Mansuétude"
+      "douceur",
+      "clémence",
+      "bienveillance"
     ],
     "prononciation": "[m-a-n-s-u-é-t-u-d-e]"
   },
@@ -3423,9 +3423,9 @@ const words = [
       "Utiliser méandres dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Méandres",
-      "équivalent de Méandres",
-      "terme similaire à Méandres"
+      "détours",
+      "sinuosités",
+      "circonvolutions"
     ],
     "prononciation": "[m-é-a-n-d-r-e-s]"
   },
@@ -3437,9 +3437,9 @@ const words = [
       "Utiliser melliflu dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Melliflu",
-      "équivalent de Melliflu",
-      "terme similaire à Melliflu"
+      "doux",
+      "suave",
+      "mielleux"
     ],
     "prononciation": "[m-e-l-l-i-f-l-u]"
   },
@@ -3451,9 +3451,9 @@ const words = [
       "Utiliser mélomane dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Mélomane",
-      "équivalent de Mélomane",
-      "terme similaire à Mélomane"
+      "amateur de musique",
+      "musicophile",
+      "musicien"
     ],
     "prononciation": "[m-é-l-o-m-a-n-e]"
   },
@@ -3465,9 +3465,9 @@ const words = [
       "Utiliser mercantile dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Mercantile",
-      "équivalent de Mercantile",
-      "terme similaire à Mercantile"
+      "cupide",
+      "vénal",
+      "matérialiste"
     ],
     "prononciation": "[m-e-r-c-a-n-t-i-l-e]"
   },
@@ -3479,9 +3479,9 @@ const words = [
       "Utiliser misandrie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Misandrie",
-      "équivalent de Misandrie",
-      "terme similaire à Misandrie"
+      "hostilité envers les hommes",
+      "antihomme",
+      "aversion masculine"
     ],
     "prononciation": "[m-i-s-a-n-d-r-i-e]"
   },
@@ -3493,9 +3493,9 @@ const words = [
       "Utiliser misanthropie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Misanthropie",
-      "équivalent de Misanthropie",
-      "terme similaire à Misanthropie"
+      "haine de l'humanité",
+      "antisociabilité",
+      "aversion pour les humains"
     ],
     "prononciation": "[m-i-s-a-n-t-h-r-o-p-i-e]"
   },
@@ -3507,9 +3507,9 @@ const words = [
       "Utiliser mondanité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Mondanité",
-      "équivalent de Mondanité",
-      "terme similaire à Mondanité"
+      "sociabilité",
+      "vie mondaine",
+      "salon"
     ],
     "prononciation": "[m-o-n-d-a-n-i-t-é]"
   },
@@ -3521,9 +3521,9 @@ const words = [
       "Utiliser monologique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Monologique",
-      "équivalent de Monologique",
-      "terme similaire à Monologique"
+      "monologue",
+      "discours unilatéral",
+      "univoque"
     ],
     "prononciation": "[m-o-n-o-l-o-g-i-q-u-e]"
   },
@@ -3535,9 +3535,9 @@ const words = [
       "Utiliser moribond dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Moribond",
-      "équivalent de Moribond",
-      "terme similaire à Moribond"
+      "agonisant",
+      "mourant",
+      "déclinant"
     ],
     "prononciation": "[m-o-r-i-b-o-n-d]"
   },
@@ -3549,9 +3549,9 @@ const words = [
       "Utiliser narcissisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Narcissisme",
-      "équivalent de Narcissisme",
-      "terme similaire à Narcissisme"
+      "égocentrisme",
+      "vanité",
+      "amour de soi"
     ],
     "prononciation": "[n-a-r-c-i-s-s-i-s-m-e]"
   },
@@ -3563,9 +3563,9 @@ const words = [
       "Utiliser népotisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Népotisme",
-      "équivalent de Népotisme",
-      "terme similaire à Népotisme"
+      "favoritisme",
+      "copinage",
+      "piston"
     ],
     "prononciation": "[n-é-p-o-t-i-s-m-e]"
   },
@@ -3577,9 +3577,9 @@ const words = [
       "Utiliser nonobstant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Nonobstant",
-      "équivalent de Nonobstant",
-      "terme similaire à Nonobstant"
+      "malgré",
+      "en dépit de",
+      "toutefois"
     ],
     "prononciation": "[n-o-n-o-b-s-t-a-n-t]"
   },
@@ -3591,9 +3591,9 @@ const words = [
       "Utiliser numismatique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Numismatique",
-      "équivalent de Numismatique",
-      "terme similaire à Numismatique"
+      "étude des monnaies",
+      "collection de pièces",
+      "science des monnaies"
     ],
     "prononciation": "[n-u-m-i-s-m-a-t-i-q-u-e]"
   },
@@ -3605,9 +3605,9 @@ const words = [
       "Utiliser obnubiler dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Obnubiler",
-      "équivalent de Obnubiler",
-      "terme similaire à Obnubiler"
+      "obséder",
+      "saturer l'esprit",
+      "aveugler"
     ],
     "prononciation": "[o-b-n-u-b-i-l-e-r]"
   },
@@ -3619,9 +3619,9 @@ const words = [
       "Utiliser obsolète dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Obsolète",
-      "équivalent de Obsolète",
-      "terme similaire à Obsolète"
+      "dépassé",
+      "désuet",
+      "périmé"
     ],
     "prononciation": "[o-b-s-o-l-è-t-e]"
   },
@@ -3633,9 +3633,9 @@ const words = [
       "Utiliser ochlocratie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ochlocratie",
-      "équivalent de Ochlocratie",
-      "terme similaire à Ochlocratie"
+      "pouvoir de la foule",
+      "mobocratie",
+      "démagogie"
     ],
     "prononciation": "[o-c-h-l-o-c-r-a-t-i-e]"
   },
@@ -3647,9 +3647,9 @@ const words = [
       "Utiliser occlusion dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Occlusion",
-      "équivalent de Occlusion",
-      "terme similaire à Occlusion"
+      "blocage",
+      "obstruction",
+      "fermeture"
     ],
     "prononciation": "[o-c-c-l-u-s-i-o-n]"
   },
@@ -3661,9 +3661,9 @@ const words = [
       "Utiliser oiseux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Oiseux",
-      "équivalent de Oiseux",
-      "terme similaire à Oiseux"
+      "inutile",
+      "vain",
+      "stérile"
     ],
     "prononciation": "[o-i-s-e-u-x]"
   },
@@ -3675,9 +3675,9 @@ const words = [
       "Utiliser onirique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Onirique",
-      "équivalent de Onirique",
-      "terme similaire à Onirique"
+      "rêveur",
+      "fantastique",
+      "imaginaire"
     ],
     "prononciation": "[o-n-i-r-i-q-u-e]"
   },
@@ -3689,9 +3689,9 @@ const words = [
       "Utiliser opprobre dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Opprobre",
-      "équivalent de Opprobre",
-      "terme similaire à Opprobre"
+      "honte",
+      "déshonneur",
+      "infamie"
     ],
     "prononciation": "[o-p-p-r-o-b-r-e]"
   },
@@ -3703,9 +3703,9 @@ const words = [
       "Utiliser oracle dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Oracle",
-      "équivalent de Oracle",
-      "terme similaire à Oracle"
+      "prophète",
+      "augure",
+      "prédiction"
     ],
     "prononciation": "[o-r-a-c-l-e]"
   },
@@ -3717,9 +3717,9 @@ const words = [
       "Utiliser ordalie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ordalie",
-      "équivalent de Ordalie",
-      "terme similaire à Ordalie"
+      "jugement divin",
+      "épreuve judiciaire",
+      "combat judiciaire"
     ],
     "prononciation": "[o-r-d-a-l-i-e]"
   },
@@ -3731,9 +3731,9 @@ const words = [
       "Utiliser orthodoxe dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Orthodoxe",
-      "équivalent de Orthodoxe",
-      "terme similaire à Orthodoxe"
+      "conformiste",
+      "traditionnel",
+      "dogmatique"
     ],
     "prononciation": "[o-r-t-h-o-d-o-x-e]"
   },
@@ -3745,9 +3745,9 @@ const words = [
       "Utiliser ostentatoire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ostentatoire",
-      "équivalent de Ostentatoire",
-      "terme similaire à Ostentatoire"
+      "tapageur",
+      "clinquant",
+      "voyant"
     ],
     "prononciation": "[o-s-t-e-n-t-a-t-o-i-r-e]"
   },
@@ -3759,9 +3759,9 @@ const words = [
       "Utiliser ostracisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ostracisme",
-      "équivalent de Ostracisme",
-      "terme similaire à Ostracisme"
+      "exclusion",
+      "bannissement",
+      "rejet"
     ],
     "prononciation": "[o-s-t-r-a-c-i-s-m-e]"
   },
@@ -3773,9 +3773,9 @@ const words = [
       "Utiliser outrancier dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Outrancier",
-      "équivalent de Outrancier",
-      "terme similaire à Outrancier"
+      "excessif",
+      "extrême",
+      "exagéré"
     ],
     "prononciation": "[o-u-t-r-a-n-c-i-e-r]"
   },
@@ -3787,9 +3787,9 @@ const words = [
       "Utiliser palindrome dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Palindrome",
-      "équivalent de Palindrome",
-      "terme similaire à Palindrome"
+      "mot palindromique",
+      "symétrique",
+      "lecture inversée"
     ],
     "prononciation": "[p-a-l-i-n-d-r-o-m-e]"
   },
@@ -3801,9 +3801,9 @@ const words = [
       "Utiliser panégyrique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Panégyrique",
-      "équivalent de Panégyrique",
-      "terme similaire à Panégyrique"
+      "éloge",
+      "discours laudatif",
+      "apologie"
     ],
     "prononciation": "[p-a-n-é-g-y-r-i-q-u-e]"
   },
@@ -3815,9 +3815,9 @@ const words = [
       "Utiliser panoptique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Panoptique",
-      "équivalent de Panoptique",
-      "terme similaire à Panoptique"
+      "observatoire",
+      "tour de surveillance",
+      "panorama"
     ],
     "prononciation": "[p-a-n-o-p-t-i-q-u-e]"
   },
@@ -3829,9 +3829,9 @@ const words = [
       "Utiliser paradigmatique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Paradigmatique",
-      "équivalent de Paradigmatique",
-      "terme similaire à Paradigmatique"
+      "exemplaire",
+      "modèle",
+      "archétypal"
     ],
     "prononciation": "[p-a-r-a-d-i-g-m-a-t-i-q-u-e]"
   },
@@ -3843,9 +3843,9 @@ const words = [
       "Utiliser paronyme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Paronyme",
-      "équivalent de Paronyme",
-      "terme similaire à Paronyme"
+      "mot ressemblant",
+      "quasi‑homonyme",
+      "faux ami"
     ],
     "prononciation": "[p-a-r-o-n-y-m-e]"
   },
@@ -3857,9 +3857,9 @@ const words = [
       "Utiliser parsimonie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Parsimonie",
-      "équivalent de Parsimonie",
-      "terme similaire à Parsimonie"
+      "économie",
+      "frugalité",
+      "mesquinerie"
     ],
     "prononciation": "[p-a-r-s-i-m-o-n-i-e]"
   },
@@ -3871,9 +3871,9 @@ const words = [
       "Utiliser patibulaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Patibulaire",
-      "équivalent de Patibulaire",
-      "terme similaire à Patibulaire"
+      "sinistre",
+      "louche",
+      "inquiétant"
     ],
     "prononciation": "[p-a-t-i-b-u-l-a-i-r-e]"
   },
@@ -3885,9 +3885,9 @@ const words = [
       "Utiliser péremptoire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Péremptoire",
-      "équivalent de Péremptoire",
-      "terme similaire à Péremptoire"
+      "catégorique",
+      "autoritaire",
+      "tranchant"
     ],
     "prononciation": "[p-é-r-e-m-p-t-o-i-r-e]"
   },
@@ -3899,9 +3899,9 @@ const words = [
       "Utiliser pernicieux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Pernicieux",
-      "équivalent de Pernicieux",
-      "terme similaire à Pernicieux"
+      "nuisible",
+      "dangereux",
+      "pervers"
     ],
     "prononciation": "[p-e-r-n-i-c-i-e-u-x]"
   },
@@ -3913,9 +3913,9 @@ const words = [
       "Utiliser pertinence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Pertinence",
-      "équivalent de Pertinence",
-      "terme similaire à Pertinence"
+      "à‑propos",
+      "justesse",
+      "relevance"
     ],
     "prononciation": "[p-e-r-t-i-n-e-n-c-e]"
   },
@@ -3927,9 +3927,9 @@ const words = [
       "Utiliser pétulant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Pétulant",
-      "équivalent de Pétulant",
-      "terme similaire à Pétulant"
+      "turbulent",
+      "exubérant",
+      "impétueux"
     ],
     "prononciation": "[p-é-t-u-l-a-n-t]"
   },
@@ -3941,9 +3941,9 @@ const words = [
       "Utiliser philistin dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Philistin",
-      "équivalent de Philistin",
-      "terme similaire à Philistin"
+      "inculte",
+      "bourgeois",
+      "prosaïque"
     ],
     "prononciation": "[p-h-i-l-i-s-t-i-n]"
   },
@@ -3955,9 +3955,9 @@ const words = [
       "Utiliser philanthrope dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Philanthrope",
-      "équivalent de Philanthrope",
-      "terme similaire à Philanthrope"
+      "bienfaiteur",
+      "altruiste",
+      "généreux"
     ],
     "prononciation": "[p-h-i-l-a-n-t-h-r-o-p-e]"
   },
@@ -3969,9 +3969,9 @@ const words = [
       "Utiliser phonétique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Phonétique",
-      "équivalent de Phonétique",
-      "terme similaire à Phonétique"
+      "prononciation",
+      "sons",
+      "phonologie"
     ],
     "prononciation": "[p-h-o-n-é-t-i-q-u-e]"
   },
@@ -3983,9 +3983,9 @@ const words = [
       "Utiliser phylactère dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Phylactère",
-      "équivalent de Phylactère",
-      "terme similaire à Phylactère"
+      "bulle",
+      "cartouche",
+      "amulette"
     ],
     "prononciation": "[p-h-y-l-a-c-t-è-r-e]"
   },
@@ -3997,9 +3997,9 @@ const words = [
       "Utiliser piété dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Piété",
-      "équivalent de Piété",
-      "terme similaire à Piété"
+      "dévotion",
+      "ferveur",
+      "religiosité"
     ],
     "prononciation": "[p-i-é-t-é]"
   },
@@ -4011,9 +4011,9 @@ const words = [
       "Utiliser piétisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Piétisme",
-      "équivalent de Piétisme",
-      "terme similaire à Piétisme"
+      "déférence",
+      "dévotion excessive",
+      "moralisme"
     ],
     "prononciation": "[p-i-é-t-i-s-m-e]"
   },
@@ -4025,9 +4025,9 @@ const words = [
       "Utiliser pléonasme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Pléonasme",
-      "équivalent de Pléonasme",
-      "terme similaire à Pléonasme"
+      "redondance",
+      "répétition",
+      "tautologie"
     ],
     "prononciation": "[p-l-é-o-n-a-s-m-e]"
   },
@@ -4039,9 +4039,9 @@ const words = [
       "Utiliser plénitude dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Plénitude",
-      "équivalent de Plénitude",
-      "terme similaire à Plénitude"
+      "complétude",
+      "sérénité",
+      "abondance"
     ],
     "prononciation": "[p-l-é-n-i-t-u-d-e]"
   },
@@ -4053,9 +4053,9 @@ const words = [
       "Utiliser plénipotentiaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Plénipotentiaire",
-      "équivalent de Plénipotentiaire",
-      "terme similaire à Plénipotentiaire"
+      "représentant",
+      "délégué",
+      "envoyé"
     ],
     "prononciation": "[p-l-é-n-i-p-o-t-e-n-t-i-a-i-r-e]"
   },
@@ -4067,9 +4067,9 @@ const words = [
       "Utiliser pléthorique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Pléthorique",
-      "équivalent de Pléthorique",
-      "terme similaire à Pléthorique"
+      "surabondant",
+      "excessif",
+      "profus"
     ],
     "prononciation": "[p-l-é-t-h-o-r-i-q-u-e]"
   },
@@ -4081,9 +4081,9 @@ const words = [
       "Utiliser polyphonique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Polyphonique",
-      "équivalent de Polyphonique",
-      "terme similaire à Polyphonique"
+      "multivocal",
+      "à plusieurs voix",
+      "harmonique"
     ],
     "prononciation": "[p-o-l-y-p-h-o-n-i-q-u-e]"
   },
@@ -4095,9 +4095,9 @@ const words = [
       "Utiliser praxéologie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Praxéologie",
-      "équivalent de Praxéologie",
-      "terme similaire à Praxéologie"
+      "science de l'action",
+      "théorie des pratiques",
+      "étude des actions"
     ],
     "prononciation": "[p-r-a-x-é-o-l-o-g-i-e]"
   },
@@ -4109,9 +4109,9 @@ const words = [
       "Utiliser préambule dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Préambule",
-      "équivalent de Préambule",
-      "terme similaire à Préambule"
+      "introduction",
+      "préface",
+      "avant‑propos"
     ],
     "prononciation": "[p-r-é-a-m-b-u-l-e]"
   },
@@ -4123,9 +4123,9 @@ const words = [
       "Utiliser préréglage dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Préréglage",
-      "équivalent de Préréglage",
-      "terme similaire à Préréglage"
+      "paramétrage",
+      "configuration initiale",
+      "réglage prédéfini"
     ],
     "prononciation": "[p-r-é-r-é-g-l-a-g-e]"
   },
@@ -4137,9 +4137,9 @@ const words = [
       "Utiliser probité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Probité",
-      "équivalent de Probité",
-      "terme similaire à Probité"
+      "intégrité",
+      "honnêteté",
+      "droiture"
     ],
     "prononciation": "[p-r-o-b-i-t-é]"
   },
@@ -4151,9 +4151,9 @@ const words = [
       "Utiliser procrastiner dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Procrastiner",
-      "équivalent de Procrastiner",
-      "terme similaire à Procrastiner"
+      "remettre à plus tard",
+      "tergiverser",
+      "ajourner"
     ],
     "prononciation": "[p-r-o-c-r-a-s-t-i-n-e-r]"
   },
@@ -4165,9 +4165,9 @@ const words = [
       "Utiliser prodigue dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Prodigue",
-      "équivalent de Prodigue",
-      "terme similaire à Prodigue"
+      "dépensier",
+      "généreux",
+      "profus"
     ],
     "prononciation": "[p-r-o-d-i-g-u-e]"
   },
@@ -4179,9 +4179,9 @@ const words = [
       "Utiliser prodigalité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Prodigalité",
-      "équivalent de Prodigalité",
-      "terme similaire à Prodigalité"
+      "libéralité",
+      "dépense excessive",
+      "largesse"
     ],
     "prononciation": "[p-r-o-d-i-g-a-l-i-t-é]"
   },
@@ -4193,9 +4193,9 @@ const words = [
       "Utiliser profusion dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Profusion",
-      "équivalent de Profusion",
-      "terme similaire à Profusion"
+      "abondance",
+      "plethore",
+      "foisonnement"
     ],
     "prononciation": "[p-r-o-f-u-s-i-o-n]"
   },
@@ -4207,9 +4207,9 @@ const words = [
       "Utiliser prolifique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Prolifique",
-      "équivalent de Prolifique",
-      "terme similaire à Prolifique"
+      "fertile",
+      "productif",
+      "abondant"
     ],
     "prononciation": "[p-r-o-l-i-f-i-q-u-e]"
   },
@@ -4221,9 +4221,9 @@ const words = [
       "Utiliser propension dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Propension",
-      "équivalent de Propension",
-      "terme similaire à Propension"
+      "inclination",
+      "tendance",
+      "penchant"
     ],
     "prononciation": "[p-r-o-p-e-n-s-i-o-n]"
   },
@@ -4235,9 +4235,9 @@ const words = [
       "Utiliser proscription dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Proscription",
-      "équivalent de Proscription",
-      "terme similaire à Proscription"
+      "interdiction",
+      "bannissement",
+      "exclusion"
     ],
     "prononciation": "[p-r-o-s-c-r-i-p-t-i-o-n]"
   },
@@ -4249,9 +4249,9 @@ const words = [
       "Utiliser prosélytisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Prosélytisme",
-      "équivalent de Prosélytisme",
-      "terme similaire à Prosélytisme"
+      "conversion",
+      "propagation",
+      "militantisme"
     ],
     "prononciation": "[p-r-o-s-é-l-y-t-i-s-m-e]"
   },
@@ -4263,9 +4263,9 @@ const words = [
       "Utiliser protéiforme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Protéiforme",
-      "équivalent de Protéiforme",
-      "terme similaire à Protéiforme"
+      "multiforme",
+      "changeant",
+      "varié"
     ],
     "prononciation": "[p-r-o-t-é-i-f-o-r-m-e]"
   },
@@ -4277,9 +4277,9 @@ const words = [
       "Utiliser psyché dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Psyché",
-      "équivalent de Psyché",
-      "terme similaire à Psyché"
+      "âme",
+      "esprit",
+      "mental"
     ],
     "prononciation": "[p-s-y-c-h-é]"
   },
@@ -4291,9 +4291,9 @@ const words = [
       "Utiliser psychotrope dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Psychotrope",
-      "équivalent de Psychotrope",
-      "terme similaire à Psychotrope"
+      "psychoactif",
+      "hallucinogène",
+      "stupéfiant"
     ],
     "prononciation": "[p-s-y-c-h-o-t-r-o-p-e]"
   },
@@ -4305,9 +4305,9 @@ const words = [
       "Utiliser puéril dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Puéril",
-      "équivalent de Puéril",
-      "terme similaire à Puéril"
+      "infantile",
+      "immature",
+      "enfantin"
     ],
     "prononciation": "[p-u-é-r-i-l]"
   },
@@ -4319,9 +4319,9 @@ const words = [
       "Utiliser quadrature dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Quadrature",
-      "équivalent de Quadrature",
-      "terme similaire à Quadrature"
+      "résolution d'un carré",
+      "quadrangulation",
+      "squarisation"
     ],
     "prononciation": "[q-u-a-d-r-a-t-u-r-e]"
   },
@@ -4333,9 +4333,9 @@ const words = [
       "Utiliser quolibet dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Quolibet",
-      "équivalent de Quolibet",
-      "terme similaire à Quolibet"
+      "raillerie",
+      "moquerie",
+      "brocard"
     ],
     "prononciation": "[q-u-o-l-i-b-e-t]"
   },
@@ -4347,9 +4347,9 @@ const words = [
       "Utiliser quintet dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Quintet",
-      "équivalent de Quintet",
-      "terme similaire à Quintet"
+      "quintette",
+      "ensemble de cinq",
+      "groupe de cinq"
     ],
     "prononciation": "[q-u-i-n-t-e-t]"
   },
@@ -4361,9 +4361,9 @@ const words = [
       "Utiliser radiographie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Radiographie",
-      "équivalent de Radiographie",
-      "terme similaire à Radiographie"
+      "imagerie",
+      "radio",
+      "scopie"
     ],
     "prononciation": "[r-a-d-i-o-g-r-a-p-h-i-e]"
   },
@@ -4375,9 +4375,9 @@ const words = [
       "Utiliser ratiocination dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ratiocination",
-      "équivalent de Ratiocination",
-      "terme similaire à Ratiocination"
+      "argutie",
+      "raisonnement excessif",
+      "chicanerie"
     ],
     "prononciation": "[r-a-t-i-o-c-i-n-a-t-i-o-n]"
   },
@@ -4389,9 +4389,9 @@ const words = [
       "Utiliser récalcitrant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Récalcitrant",
-      "équivalent de Récalcitrant",
-      "terme similaire à Récalcitrant"
+      "rétif",
+      "rebelle",
+      "indocile"
     ],
     "prononciation": "[r-é-c-a-l-c-i-t-r-a-n-t]"
   },
@@ -4403,9 +4403,9 @@ const words = [
       "Utiliser récrimination dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Récrimination",
-      "équivalent de Récrimination",
-      "terme similaire à Récrimination"
+      "protestation",
+      "réprobation",
+      "grief"
     ],
     "prononciation": "[r-é-c-r-i-m-i-n-a-t-i-o-n]"
   },
@@ -4417,9 +4417,9 @@ const words = [
       "Utiliser rectitude dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Rectitude",
-      "équivalent de Rectitude",
-      "terme similaire à Rectitude"
+      "droiture",
+      "probité",
+      "rigueur"
     ],
     "prononciation": "[r-e-c-t-i-t-u-d-e]"
   },
@@ -4431,9 +4431,9 @@ const words = [
       "Utiliser refoulement dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Refoulement",
-      "équivalent de Refoulement",
-      "terme similaire à Refoulement"
+      "suppression",
+      "répression",
+      "inhibition"
     ],
     "prononciation": "[r-e-f-o-u-l-e-m-e-n-t]"
   },
@@ -4445,9 +4445,9 @@ const words = [
       "Utiliser rémanence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Rémanence",
-      "équivalent de Rémanence",
-      "terme similaire à Rémanence"
+      "persistence",
+      "durabilité",
+      "pérennité"
     ],
     "prononciation": "[r-é-m-a-n-e-n-c-e]"
   },
@@ -4459,9 +4459,9 @@ const words = [
       "Utiliser réminiscence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Réminiscence",
-      "équivalent de Réminiscence",
-      "terme similaire à Réminiscence"
+      "souvenir",
+      "évocation",
+      "mémoire"
     ],
     "prononciation": "[r-é-m-i-n-i-s-c-e-n-c-e]"
   },
@@ -4473,9 +4473,9 @@ const words = [
       "Utiliser rémission dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Rémission",
-      "équivalent de Rémission",
-      "terme similaire à Rémission"
+      "pardon",
+      "apaisement",
+      "trêve"
     ],
     "prononciation": "[r-é-m-i-s-s-i-o-n]"
   },
@@ -4487,9 +4487,9 @@ const words = [
       "Utiliser renégat dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Renégat",
-      "équivalent de Renégat",
-      "terme similaire à Renégat"
+      "apostat",
+      "déserteur",
+      "transfuge"
     ],
     "prononciation": "[r-e-n-é-g-a-t]"
   },
@@ -4501,9 +4501,9 @@ const words = [
       "Utiliser réprobation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Réprobation",
-      "équivalent de Réprobation",
-      "terme similaire à Réprobation"
+      "condamnation",
+      "désapprobation",
+      "blâme"
     ],
     "prononciation": "[r-é-p-r-o-b-a-t-i-o-n]"
   },
@@ -4515,9 +4515,9 @@ const words = [
       "Utiliser rhétorique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Rhétorique",
-      "équivalent de Rhétorique",
-      "terme similaire à Rhétorique"
+      "éloquence",
+      "discours",
+      "art oratoire"
     ],
     "prononciation": "[r-h-é-t-o-r-i-q-u-e]"
   },
@@ -4529,9 +4529,9 @@ const words = [
       "Utiliser rodomontade dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Rodomontade",
-      "équivalent de Rodomontade",
-      "terme similaire à Rodomontade"
+      "fanfaronnade",
+      "vantardise",
+      "bomberie"
     ],
     "prononciation": "[r-o-d-o-m-o-n-t-a-d-e]"
   },
@@ -4543,9 +4543,9 @@ const words = [
       "Utiliser saturnien dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Saturnien",
-      "équivalent de Saturnien",
-      "terme similaire à Saturnien"
+      "mélancolique",
+      "lent",
+      "brumeux"
     ],
     "prononciation": "[s-a-t-u-r-n-i-e-n]"
   },
@@ -4557,9 +4557,9 @@ const words = [
       "Utiliser scission dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Scission",
-      "équivalent de Scission",
-      "terme similaire à Scission"
+      "division",
+      "séparation",
+      "fracture"
     ],
     "prononciation": "[s-c-i-s-s-i-o-n]"
   },
@@ -4571,9 +4571,9 @@ const words = [
       "Utiliser sémaphore dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sémaphore",
-      "équivalent de Sémaphore",
-      "terme similaire à Sémaphore"
+      "signal",
+      "balise",
+      "panneau"
     ],
     "prononciation": "[s-é-m-a-p-h-o-r-e]"
   },
@@ -4585,9 +4585,9 @@ const words = [
       "Utiliser sibyllin dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sibyllin",
-      "équivalent de Sibyllin",
-      "terme similaire à Sibyllin"
+      "énigmatique",
+      "obscur",
+      "cryptique"
     ],
     "prononciation": "[s-i-b-y-l-l-i-n]"
   },
@@ -4599,9 +4599,9 @@ const words = [
       "Utiliser sidération dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sidération",
-      "équivalent de Sidération",
-      "terme similaire à Sidération"
+      "stupeur",
+      "ébahissement",
+      "ahurissement"
     ],
     "prononciation": "[s-i-d-é-r-a-t-i-o-n]"
   },
@@ -4613,9 +4613,9 @@ const words = [
       "Utiliser soliloque dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Soliloque",
-      "équivalent de Soliloque",
-      "terme similaire à Soliloque"
+      "monologue",
+      "discours intérieur",
+      "aparté"
     ],
     "prononciation": "[s-o-l-i-l-o-q-u-e]"
   },
@@ -4627,9 +4627,9 @@ const words = [
       "Utiliser sophisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sophisme",
-      "équivalent de Sophisme",
-      "terme similaire à Sophisme"
+      "raisonnement fallacieux",
+      "argument trompeur",
+      "paralogisme"
     ],
     "prononciation": "[s-o-p-h-i-s-m-e]"
   },
@@ -4641,9 +4641,9 @@ const words = [
       "Utiliser stochastique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Stochastique",
-      "équivalent de Stochastique",
-      "terme similaire à Stochastique"
+      "aléatoire",
+      "probabiliste",
+      "incertain"
     ],
     "prononciation": "[s-t-o-c-h-a-s-t-i-q-u-e]"
   },
@@ -4655,9 +4655,9 @@ const words = [
       "Utiliser stratagème dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Stratagème",
-      "équivalent de Stratagème",
-      "terme similaire à Stratagème"
+      "ruse",
+      "manœuvre",
+      "astuce"
     ],
     "prononciation": "[s-t-r-a-t-a-g-è-m-e]"
   },
@@ -4669,9 +4669,9 @@ const words = [
       "Utiliser succinct dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Succinct",
-      "équivalent de Succinct",
-      "terme similaire à Succinct"
+      "bref",
+      "concise",
+      "lapidaire"
     ],
     "prononciation": "[s-u-c-c-i-n-c-t]"
   },
@@ -4683,9 +4683,9 @@ const words = [
       "Utiliser superflu dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Superflu",
-      "équivalent de Superflu",
-      "terme similaire à Superflu"
+      "inutile",
+      "superfétatoire",
+      "excessif"
     ],
     "prononciation": "[s-u-p-e-r-f-l-u]"
   },
@@ -4697,9 +4697,9 @@ const words = [
       "Utiliser sybarite dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Sybarite",
-      "équivalent de Sybarite",
-      "terme similaire à Sybarite"
+      "hédoniste",
+      "sensuel",
+      "épicurien"
     ],
     "prononciation": "[s-y-b-a-r-i-t-e]"
   },
@@ -4711,9 +4711,9 @@ const words = [
       "Utiliser symbiose dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Symbiose",
-      "équivalent de Symbiose",
-      "terme similaire à Symbiose"
+      "interaction",
+      "fusion",
+      "coopération"
     ],
     "prononciation": "[s-y-m-b-i-o-s-e]"
   },
@@ -4725,9 +4725,9 @@ const words = [
       "Utiliser synchronique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Synchronique",
-      "équivalent de Synchronique",
-      "terme similaire à Synchronique"
+      "simultané",
+      "coïncident",
+      "contemporain"
     ],
     "prononciation": "[s-y-n-c-h-r-o-n-i-q-u-e]"
   },
@@ -4739,9 +4739,9 @@ const words = [
       "Utiliser synthétique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Synthétique",
-      "équivalent de Synthétique",
-      "terme similaire à Synthétique"
+      "artificiel",
+      "composite",
+      "combiné"
     ],
     "prononciation": "[s-y-n-t-h-é-t-i-q-u-e]"
   },
@@ -4753,9 +4753,9 @@ const words = [
       "Utiliser taciturne dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Taciturne",
-      "équivalent de Taciturne",
-      "terme similaire à Taciturne"
+      "silencieux",
+      "réservé",
+      "discret"
     ],
     "prononciation": "[t-a-c-i-t-u-r-n-e]"
   },
@@ -4767,9 +4767,9 @@ const words = [
       "Utiliser taxinomie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Taxinomie",
-      "équivalent de Taxinomie",
-      "terme similaire à Taxinomie"
+      "classification",
+      "systématique",
+      "nomenclature"
     ],
     "prononciation": "[t-a-x-i-n-o-m-i-e]"
   },
@@ -4781,9 +4781,9 @@ const words = [
       "Utiliser téléologie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Téléologie",
-      "équivalent de Téléologie",
-      "terme similaire à Téléologie"
+      "finalisme",
+      "étude des fins",
+      "téléonomie"
     ],
     "prononciation": "[t-é-l-é-o-l-o-g-i-e]"
   },
@@ -4795,9 +4795,9 @@ const words = [
       "Utiliser tempérance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tempérance",
-      "équivalent de Tempérance",
-      "terme similaire à Tempérance"
+      "modération",
+      "sobriété",
+      "retenue"
     ],
     "prononciation": "[t-e-m-p-é-r-a-n-c-e]"
   },
@@ -4809,9 +4809,9 @@ const words = [
       "Utiliser tergiverser dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tergiverser",
-      "équivalent de Tergiverser",
-      "terme similaire à Tergiverser"
+      "hésiter",
+      "différer",
+      "ralentir"
     ],
     "prononciation": "[t-e-r-g-i-v-e-r-s-e-r]"
   },
@@ -4823,9 +4823,9 @@ const words = [
       "Utiliser timoré dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Timoré",
-      "équivalent de Timoré",
-      "terme similaire à Timoré"
+      "peureux",
+      "craintif",
+      "pusillanime"
     ],
     "prononciation": "[t-i-m-o-r-é]"
   },
@@ -4837,9 +4837,9 @@ const words = [
       "Utiliser tirade dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tirade",
-      "équivalent de Tirade",
-      "terme similaire à Tirade"
+      "discours",
+      "monologue",
+      "diatribe"
     ],
     "prononciation": "[t-i-r-a-d-e]"
   },
@@ -4851,9 +4851,9 @@ const words = [
       "Utiliser toponymie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Toponymie",
-      "équivalent de Toponymie",
-      "terme similaire à Toponymie"
+      "étude des noms de lieux",
+      "nomenclature géographique",
+      "onomastique"
     ],
     "prononciation": "[t-o-p-o-n-y-m-i-e]"
   },
@@ -4865,9 +4865,9 @@ const words = [
       "Utiliser transgression dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Transgression",
-      "équivalent de Transgression",
-      "terme similaire à Transgression"
+      "infraction",
+      "violation",
+      "débordement"
     ],
     "prononciation": "[t-r-a-n-s-g-r-e-s-s-i-o-n]"
   },
@@ -4879,9 +4879,9 @@ const words = [
       "Utiliser transversal dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Transversal",
-      "équivalent de Transversal",
-      "terme similaire à Transversal"
+      "horizontal",
+      "interdisciplinaire",
+      "croisé"
     ],
     "prononciation": "[t-r-a-n-s-v-e-r-s-a-l]"
   },
@@ -4893,9 +4893,9 @@ const words = [
       "Utiliser travestir dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Travestir",
-      "équivalent de Travestir",
-      "terme similaire à Travestir"
+      "déguiser",
+      "dissimuler",
+      "détourner"
     ],
     "prononciation": "[t-r-a-v-e-s-t-i-r]"
   },
@@ -4907,9 +4907,9 @@ const words = [
       "Utiliser tribulation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tribulation",
-      "équivalent de Tribulation",
-      "terme similaire à Tribulation"
+      "épreuve",
+      "tourment",
+      "affliction"
     ],
     "prononciation": "[t-r-i-b-u-l-a-t-i-o-n]"
   },
@@ -4921,9 +4921,9 @@ const words = [
       "Utiliser tumulte dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tumulte",
-      "équivalent de Tumulte",
-      "terme similaire à Tumulte"
+      "agitation",
+      "brouhaha",
+      "vacarme"
     ],
     "prononciation": "[t-u-m-u-l-t-e]"
   },
@@ -4935,9 +4935,9 @@ const words = [
       "Utiliser tyrannique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Tyrannique",
-      "équivalent de Tyrannique",
-      "terme similaire à Tyrannique"
+      "despotique",
+      "autoritaire",
+      "oppressif"
     ],
     "prononciation": "[t-y-r-a-n-n-i-q-u-e]"
   },
@@ -4949,9 +4949,9 @@ const words = [
       "Utiliser ubiquité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ubiquité",
-      "équivalent de Ubiquité",
-      "terme similaire à Ubiquité"
+      "présence simultanée",
+      "omniprésence",
+      "multiprésence"
     ],
     "prononciation": "[u-b-i-q-u-i-t-é]"
   },
@@ -4963,9 +4963,9 @@ const words = [
       "Utiliser ultracrépidarianisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ultracrépidarianisme",
-      "équivalent de Ultracrépidarianisme",
-      "terme similaire à Ultracrépidarianisme"
+      "impertinence",
+      "incompétence",
+      "jugement hâtif"
     ],
     "prononciation": "[u-l-t-r-a-c-r-é-p-i-d-a-r-i-a-n-i-s-m-e]"
   },
@@ -4977,9 +4977,9 @@ const words = [
       "Utiliser unisson dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Unisson",
-      "équivalent de Unisson",
-      "terme similaire à Unisson"
+      "ensemble",
+      "concordance",
+      "à l'unisson"
     ],
     "prononciation": "[u-n-i-s-s-o-n]"
   },
@@ -4991,9 +4991,9 @@ const words = [
       "Utiliser usurier dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Usurier",
-      "équivalent de Usurier",
-      "terme similaire à Usurier"
+      "prêteur à taux élevé",
+      "avare",
+      "exploiteur"
     ],
     "prononciation": "[u-s-u-r-i-e-r]"
   },
@@ -5005,9 +5005,9 @@ const words = [
       "Utiliser vaticination dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vaticination",
-      "équivalent de Vaticination",
-      "terme similaire à Vaticination"
+      "prophétie",
+      "présage",
+      "prédiction"
     ],
     "prononciation": "[v-a-t-i-c-i-n-a-t-i-o-n]"
   },
@@ -5019,9 +5019,9 @@ const words = [
       "Utiliser vénal dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vénal",
-      "équivalent de Vénal",
-      "terme similaire à Vénal"
+      "corrompu",
+      "cupide",
+      "achetable"
     ],
     "prononciation": "[v-é-n-a-l]"
   },
@@ -5033,9 +5033,9 @@ const words = [
       "Utiliser véracité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Véracité",
-      "équivalent de Véracité",
-      "terme similaire à Véracité"
+      "authenticité",
+      "exactitude",
+      "sincérité"
     ],
     "prononciation": "[v-é-r-a-c-i-t-é]"
   },
@@ -5047,9 +5047,9 @@ const words = [
       "Utiliser verbiage dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Verbiage",
-      "équivalent de Verbiage",
-      "terme similaire à Verbiage"
+      "bavardage",
+      "loquacité",
+      "prolixité"
     ],
     "prononciation": "[v-e-r-b-i-a-g-e]"
   },
@@ -5061,9 +5061,9 @@ const words = [
       "Utiliser véhémence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Véhémence",
-      "équivalent de Véhémence",
-      "terme similaire à Véhémence"
+      "ardeur",
+      "fougue",
+      "impétuosité"
     ],
     "prononciation": "[v-é-h-é-m-e-n-c-e]"
   },
@@ -5075,9 +5075,9 @@ const words = [
       "Utiliser vélocité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vélocité",
-      "équivalent de Vélocité",
-      "terme similaire à Vélocité"
+      "rapidité",
+      "vitesse",
+      "célérité"
     ],
     "prononciation": "[v-é-l-o-c-i-t-é]"
   },
@@ -5089,9 +5089,9 @@ const words = [
       "Utiliser verve dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Verve",
-      "équivalent de Verve",
-      "terme similaire à Verve"
+      "éloquence",
+      "brio",
+      "faconde"
     ],
     "prononciation": "[v-e-r-v-e]"
   },
@@ -5103,9 +5103,9 @@ const words = [
       "Utiliser vernal dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vernal",
-      "équivalent de Vernal",
-      "terme similaire à Vernal"
+      "printanier",
+      "florissant",
+      "printemps"
     ],
     "prononciation": "[v-e-r-n-a-l]"
   },
@@ -5117,9 +5117,9 @@ const words = [
       "Utiliser vicieux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Vicieux",
-      "équivalent de Vicieux",
-      "terme similaire à Vicieux"
+      "pervers",
+      "débauché",
+      "malfaisant"
     ],
     "prononciation": "[v-i-c-i-e-u-x]"
   },
@@ -5131,9 +5131,9 @@ const words = [
       "Utiliser viscéral dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Viscéral",
-      "équivalent de Viscéral",
-      "terme similaire à Viscéral"
+      "profond",
+      "instinctif",
+      "entraînant"
     ],
     "prononciation": "[v-i-s-c-é-r-a-l]"
   },
@@ -5145,9 +5145,9 @@ const words = [
       "Utiliser volubilité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Volubilité",
-      "équivalent de Volubilité",
-      "terme similaire à Volubilité"
+      "bavardise",
+      "loquacité",
+      "faconde"
     ],
     "prononciation": "[v-o-l-u-b-i-l-i-t-é]"
   },
@@ -5159,9 +5159,9 @@ const words = [
       "Utiliser volupté dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Volupté",
-      "équivalent de Volupté",
-      "terme similaire à Volupté"
+      "plaisir",
+      "délice",
+      "sensualité"
     ],
     "prononciation": "[v-o-l-u-p-t-é]"
   },
@@ -5173,9 +5173,9 @@ const words = [
       "Utiliser voracité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Voracité",
-      "équivalent de Voracité",
-      "terme similaire à Voracité"
+      "gourmandise",
+      "avidité",
+      "gloutonnerie"
     ],
     "prononciation": "[v-o-r-a-c-i-t-é]"
   },
@@ -5187,9 +5187,9 @@ const words = [
       "Utiliser votif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Votif",
-      "équivalent de Votif",
-      "terme similaire à Votif"
+      "offert",
+      "dévot",
+      "sacré"
     ],
     "prononciation": "[v-o-t-i-f]"
   },
@@ -5201,9 +5201,9 @@ const words = [
       "Utiliser xénophile dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Xénophile",
-      "équivalent de Xénophile",
-      "terme similaire à Xénophile"
+      "accueillant",
+      "cosmopolite",
+      "ouvert aux étrangers"
     ],
     "prononciation": "[x-é-n-o-p-h-i-l-e]"
   },
@@ -5215,9 +5215,9 @@ const words = [
       "Utiliser xérophile dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Xérophile",
-      "équivalent de Xérophile",
-      "terme similaire à Xérophile"
+      "adapté aux milieux secs",
+      "tolérant la sécheresse",
+      "xérophyte"
     ],
     "prononciation": "[x-é-r-o-p-h-i-l-e]"
   },
@@ -5229,9 +5229,9 @@ const words = [
       "Utiliser xylophage dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Xylophage",
-      "équivalent de Xylophage",
-      "terme similaire à Xylophage"
+      "mangeur de bois",
+      "insecte du bois",
+      "lignivore"
     ],
     "prononciation": "[x-y-l-o-p-h-a-g-e]"
   },
@@ -5243,9 +5243,9 @@ const words = [
       "Utiliser zénith dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zénith",
-      "équivalent de Zénith",
-      "terme similaire à Zénith"
+      "apogée",
+      "sommet",
+      "point culminant"
     ],
     "prononciation": "[z-é-n-i-t-h]"
   },
@@ -5257,9 +5257,9 @@ const words = [
       "Utiliser zététique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zététique",
-      "équivalent de Zététique",
-      "terme similaire à Zététique"
+      "méthode sceptique",
+      "doute méthodique",
+      "scepticisme"
     ],
     "prononciation": "[z-é-t-é-t-i-q-u-e]"
   },
@@ -5271,9 +5271,9 @@ const words = [
       "Utiliser zeugma dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zeugma",
-      "équivalent de Zeugma",
-      "terme similaire à Zeugma"
+      "construction elliptique",
+      "figure de style",
+      "ellipse syntaxique"
     ],
     "prononciation": "[z-e-u-g-m-a]"
   },
@@ -5285,9 +5285,9 @@ const words = [
       "Utiliser zibeline dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zibeline",
-      "équivalent de Zibeline",
-      "terme similaire à Zibeline"
+      "fourrure",
+      "animal",
+      "martre"
     ],
     "prononciation": "[z-i-b-e-l-i-n-e]"
   },
@@ -5299,9 +5299,9 @@ const words = [
       "Utiliser zoophyte dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zoophyte",
-      "équivalent de Zoophyte",
-      "terme similaire à Zoophyte"
+      "organisme animal végétal",
+      "animal fixe",
+      "hydrozoaire"
     ],
     "prononciation": "[z-o-o-p-h-y-t-e]"
   },
@@ -5313,9 +5313,9 @@ const words = [
       "Utiliser zozoter dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Zozoter",
-      "équivalent de Zozoter",
-      "terme similaire à Zozoter"
+      "bégayer",
+      "bredouiller",
+      "chuintement"
     ],
     "prononciation": "[z-o-z-o-t-e-r]"
   },
@@ -5327,9 +5327,9 @@ const words = [
       "Utiliser aberrant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Aberrant",
-      "équivalent de Aberrant",
-      "terme similaire à Aberrant"
+      "anormal",
+      "insensé",
+      "absurde"
     ],
     "prononciation": "[a-b-e-r-r-a-n-t]"
   },
@@ -5341,9 +5341,9 @@ const words = [
       "Utiliser abhorrer dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Abhorrer",
-      "équivalent de Abhorrer",
-      "terme similaire à Abhorrer"
+      "détester",
+      "exécrer",
+      "haïr"
     ],
     "prononciation": "[a-b-h-o-r-r-e-r]"
   },
@@ -5355,9 +5355,9 @@ const words = [
       "Utiliser abnégation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Abnégation",
-      "équivalent de Abnégation",
-      "terme similaire à Abnégation"
+      "sacrifice",
+      "dévouement",
+      "altruisme"
     ],
     "prononciation": "[a-b-n-é-g-a-t-i-o-n]"
   },
@@ -5369,9 +5369,9 @@ const words = [
       "Utiliser abrogation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Abrogation",
-      "équivalent de Abrogation",
-      "terme similaire à Abrogation"
+      "annulation",
+      "abolition",
+      "révocation"
     ],
     "prononciation": "[a-b-r-o-g-a-t-i-o-n]"
   },
@@ -5383,9 +5383,9 @@ const words = [
       "Utiliser acuité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Acuité",
-      "équivalent de Acuité",
-      "terme similaire à Acuité"
+      "vivacité",
+      "intensité",
+      "perspicacité"
     ],
     "prononciation": "[a-c-u-i-t-é]"
   },
@@ -5397,9 +5397,9 @@ const words = [
       "Utiliser allocution dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Allocution",
-      "équivalent de Allocution",
-      "terme similaire à Allocution"
+      "discours",
+      "adresse",
+      "harangue"
     ],
     "prononciation": "[a-l-l-o-c-u-t-i-o-n]"
   },
@@ -5411,9 +5411,9 @@ const words = [
       "Utiliser anaphore dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Anaphore",
-      "équivalent de Anaphore",
-      "terme similaire à Anaphore"
+      "répétition",
+      "réitération",
+      "anadiplose"
     ],
     "prononciation": "[a-n-a-p-h-o-r-e]"
   },
@@ -5425,9 +5425,9 @@ const words = [
       "Utiliser ascendance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ascendance",
-      "équivalent de Ascendance",
-      "terme similaire à Ascendance"
+      "parenté",
+      "origine",
+      "lignée"
     ],
     "prononciation": "[a-s-c-e-n-d-a-n-c-e]"
   },
@@ -5439,9 +5439,9 @@ const words = [
       "Utiliser atonie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Atonie",
-      "équivalent de Atonie",
-      "terme similaire à Atonie"
+      "mollesse",
+      "apathie",
+      "affaiblissement"
     ],
     "prononciation": "[a-t-o-n-i-e]"
   },
@@ -5453,9 +5453,9 @@ const words = [
       "Utiliser augurer dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Augurer",
-      "équivalent de Augurer",
-      "terme similaire à Augurer"
+      "présager",
+      "annoncer",
+      "prédire"
     ],
     "prononciation": "[a-u-g-u-r-e-r]"
   },
@@ -5467,9 +5467,9 @@ const words = [
       "Utiliser avatar dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Avatar",
-      "équivalent de Avatar",
-      "terme similaire à Avatar"
+      "incarnation",
+      "transformation",
+      "personnage virtuel"
     ],
     "prononciation": "[a-v-a-t-a-r]"
   },
@@ -5481,9 +5481,9 @@ const words = [
       "Utiliser axiologique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Axiologique",
-      "équivalent de Axiologique",
-      "terme similaire à Axiologique"
+      "relatif aux valeurs",
+      "éthique",
+      "valuationnel"
     ],
     "prononciation": "[a-x-i-o-l-o-g-i-q-u-e]"
   },
@@ -5495,9 +5495,9 @@ const words = [
       "Utiliser béatitude dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Béatitude",
-      "équivalent de Béatitude",
-      "terme similaire à Béatitude"
+      "félicité",
+      "bonheur",
+      "extase"
     ],
     "prononciation": "[b-é-a-t-i-t-u-d-e]"
   },
@@ -5509,9 +5509,9 @@ const words = [
       "Utiliser bellicisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Bellicisme",
-      "équivalent de Bellicisme",
-      "terme similaire à Bellicisme"
+      "militarisme",
+      "belligérance",
+      "agressivité"
     ],
     "prononciation": "[b-e-l-l-i-c-i-s-m-e]"
   },
@@ -5523,9 +5523,9 @@ const words = [
       "Utiliser bilatéral dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Bilatéral",
-      "équivalent de Bilatéral",
-      "terme similaire à Bilatéral"
+      "réciproque",
+      "mutuel",
+      "à deux côtés"
     ],
     "prononciation": "[b-i-l-a-t-é-r-a-l]"
   },
@@ -5537,9 +5537,9 @@ const words = [
       "Utiliser calomnie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Calomnie",
-      "équivalent de Calomnie",
-      "terme similaire à Calomnie"
+      "diffamation",
+      "mensonge",
+      "dénigrement"
     ],
     "prononciation": "[c-a-l-o-m-n-i-e]"
   },
@@ -5551,9 +5551,9 @@ const words = [
       "Utiliser candide dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Candide",
-      "équivalent de Candide",
-      "terme similaire à Candide"
+      "ingénu",
+      "naïf",
+      "simple"
     ],
     "prononciation": "[c-a-n-d-i-d-e]"
   },
@@ -5565,9 +5565,9 @@ const words = [
       "Utiliser cardinal dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cardinal",
-      "équivalent de Cardinal",
-      "terme similaire à Cardinal"
+      "fondamental",
+      "principal",
+      "essentiel"
     ],
     "prononciation": "[c-a-r-d-i-n-a-l]"
   },
@@ -5579,9 +5579,9 @@ const words = [
       "Utiliser chimère dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Chimère",
-      "équivalent de Chimère",
-      "terme similaire à Chimère"
+      "utopie",
+      "fantasme",
+      "illusion"
     ],
     "prononciation": "[c-h-i-m-è-r-e]"
   },
@@ -5593,9 +5593,9 @@ const words = [
       "Utiliser chimérique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Chimérique",
-      "équivalent de Chimérique",
-      "terme similaire à Chimérique"
+      "fantaisiste",
+      "irréaliste",
+      "utopique"
     ],
     "prononciation": "[c-h-i-m-é-r-i-q-u-e]"
   },
@@ -5607,9 +5607,9 @@ const words = [
       "Utiliser cinglant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cinglant",
-      "équivalent de Cinglant",
-      "terme similaire à Cinglant"
+      "acerbe",
+      "piquant",
+      "mordant"
     ],
     "prononciation": "[c-i-n-g-l-a-n-t]"
   },
@@ -5621,9 +5621,9 @@ const words = [
       "Utiliser circonlocution dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Circonlocution",
-      "équivalent de Circonlocution",
-      "terme similaire à Circonlocution"
+      "périphrase",
+      "détour",
+      "tournure indirecte"
     ],
     "prononciation": "[c-i-r-c-o-n-l-o-c-u-t-i-o-n]"
   },
@@ -5635,9 +5635,9 @@ const words = [
       "Utiliser clairvoyant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Clairvoyant",
-      "équivalent de Clairvoyant",
-      "terme similaire à Clairvoyant"
+      "lucide",
+      "perspicace",
+      "visionnaire"
     ],
     "prononciation": "[c-l-a-i-r-v-o-y-a-n-t]"
   },
@@ -5649,9 +5649,9 @@ const words = [
       "Utiliser cognitif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cognitif",
-      "équivalent de Cognitif",
-      "terme similaire à Cognitif"
+      "mental",
+      "intellectuel",
+      "psychique"
     ],
     "prononciation": "[c-o-g-n-i-t-i-f]"
   },
@@ -5663,9 +5663,9 @@ const words = [
       "Utiliser corroborer dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Corroborer",
-      "équivalent de Corroborer",
-      "terme similaire à Corroborer"
+      "confirmer",
+      "étayer",
+      "appuyer"
     ],
     "prononciation": "[c-o-r-r-o-b-o-r-e-r]"
   },
@@ -5677,9 +5677,9 @@ const words = [
       "Utiliser corrosif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Corrosif",
-      "équivalent de Corrosif",
-      "terme similaire à Corrosif"
+      "caustique",
+      "mordant",
+      "déstabilisant"
     ],
     "prononciation": "[c-o-r-r-o-s-i-f]"
   },
@@ -5691,9 +5691,9 @@ const words = [
       "Utiliser cryptogramme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Cryptogramme",
-      "équivalent de Cryptogramme",
-      "terme similaire à Cryptogramme"
+      "message chiffré",
+      "énigme",
+      "code"
     ],
     "prononciation": "[c-r-y-p-t-o-g-r-a-m-m-e]"
   },
@@ -5705,9 +5705,9 @@ const words = [
       "Utiliser curriculum dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Curriculum",
-      "équivalent de Curriculum",
-      "terme similaire à Curriculum"
+      "programme",
+      "parcours",
+      "plan d'étude"
     ],
     "prononciation": "[c-u-r-r-i-c-u-l-u-m]"
   },
@@ -5719,9 +5719,9 @@ const words = [
       "Utiliser débonnaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Débonnaire",
-      "équivalent de Débonnaire",
-      "terme similaire à Débonnaire"
+      "bonhomme",
+      "bienveillant",
+      "aimable"
     ],
     "prononciation": "[d-é-b-o-n-n-a-i-r-e]"
   },
@@ -5733,9 +5733,9 @@ const words = [
       "Utiliser décadent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Décadent",
-      "équivalent de Décadent",
-      "terme similaire à Décadent"
+      "dégénéré",
+      "démoralisé",
+      "déclinant"
     ],
     "prononciation": "[d-é-c-a-d-e-n-t]"
   },
@@ -5747,9 +5747,9 @@ const words = [
       "Utiliser décadence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Décadence",
-      "équivalent de Décadence",
-      "terme similaire à Décadence"
+      "déclin",
+      "déchéance",
+      "dégradation"
     ],
     "prononciation": "[d-é-c-a-d-e-n-c-e]"
   },
@@ -5761,9 +5761,9 @@ const words = [
       "Utiliser dédale dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dédale",
-      "équivalent de Dédale",
-      "terme similaire à Dédale"
+      "labyrinthe",
+      "enchevêtrement",
+      "méandre"
     ],
     "prononciation": "[d-é-d-a-l-e]"
   },
@@ -5775,9 +5775,9 @@ const words = [
       "Utiliser défaitisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Défaitisme",
-      "équivalent de Défaitisme",
-      "terme similaire à Défaitisme"
+      "pessimisme",
+      "résignation",
+      "défaite"
     ],
     "prononciation": "[d-é-f-a-i-t-i-s-m-e]"
   },
@@ -5789,9 +5789,9 @@ const words = [
       "Utiliser désinvolte dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Désinvolte",
-      "équivalent de Désinvolte",
-      "terme similaire à Désinvolte"
+      "désinhibé",
+      "insouciant",
+      "indifférent"
     ],
     "prononciation": "[d-é-s-i-n-v-o-l-t-e]"
   },
@@ -5803,9 +5803,9 @@ const words = [
       "Utiliser désopilant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Désopilant",
-      "équivalent de Désopilant",
-      "terme similaire à Désopilant"
+      "hilarant",
+      "drôle",
+      "comique"
     ],
     "prononciation": "[d-é-s-o-p-i-l-a-n-t]"
   },
@@ -5817,9 +5817,9 @@ const words = [
       "Utiliser détracteur dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Détracteur",
-      "équivalent de Détracteur",
-      "terme similaire à Détracteur"
+      "calomniateur",
+      "critique",
+      "opposant"
     ],
     "prononciation": "[d-é-t-r-a-c-t-e-u-r]"
   },
@@ -5831,9 +5831,9 @@ const words = [
       "Utiliser dilettante dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dilettante",
-      "équivalent de Dilettante",
-      "terme similaire à Dilettante"
+      "amateur",
+      "non spécialiste",
+      "bricoleur"
     ],
     "prononciation": "[d-i-l-e-t-t-a-n-t-e]"
   },
@@ -5845,9 +5845,9 @@ const words = [
       "Utiliser dispendieux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dispendieux",
-      "équivalent de Dispendieux",
-      "terme similaire à Dispendieux"
+      "coûteux",
+      "onéreux",
+      "cher"
     ],
     "prononciation": "[d-i-s-p-e-n-d-i-e-u-x]"
   },
@@ -5859,9 +5859,9 @@ const words = [
       "Utiliser disparate dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Disparate",
-      "équivalent de Disparate",
-      "terme similaire à Disparate"
+      "hétérogène",
+      "divers",
+      "bigarré"
     ],
     "prononciation": "[d-i-s-p-a-r-a-t-e]"
   },
@@ -5873,9 +5873,9 @@ const words = [
       "Utiliser dissipé dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Dissipé",
-      "équivalent de Dissipé",
-      "terme similaire à Dissipé"
+      "turbulent",
+      "indiscipliné",
+      "agité"
     ],
     "prononciation": "[d-i-s-s-i-p-é]"
   },
@@ -5887,9 +5887,9 @@ const words = [
       "Utiliser distanciation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Distanciation",
-      "équivalent de Distanciation",
-      "terme similaire à Distanciation"
+      "éloignement",
+      "recul",
+      "détachement"
     ],
     "prononciation": "[d-i-s-t-a-n-c-i-a-t-i-o-n]"
   },
@@ -5901,9 +5901,9 @@ const words = [
       "Utiliser duplicité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Duplicité",
-      "équivalent de Duplicité",
-      "terme similaire à Duplicité"
+      "hypocrisie",
+      "fausseté",
+      "double jeu"
     ],
     "prononciation": "[d-u-p-l-i-c-i-t-é]"
   },
@@ -5915,9 +5915,9 @@ const words = [
       "Utiliser éclectique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Éclectique",
-      "équivalent de Éclectique",
-      "terme similaire à Éclectique"
+      "diversifié",
+      "varié",
+      "large"
     ],
     "prononciation": "[é-c-l-e-c-t-i-q-u-e]"
   },
@@ -5929,9 +5929,9 @@ const words = [
       "Utiliser effigie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Effigie",
-      "équivalent de Effigie",
-      "terme similaire à Effigie"
+      "représentation",
+      "portrait",
+      "statue"
     ],
     "prononciation": "[e-f-f-i-g-i-e]"
   },
@@ -5943,9 +5943,9 @@ const words = [
       "Utiliser effusion dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Effusion",
-      "équivalent de Effusion",
-      "terme similaire à Effusion"
+      "débordement",
+      "déversement",
+      "expression"
     ],
     "prononciation": "[e-f-f-u-s-i-o-n]"
   },
@@ -5957,9 +5957,9 @@ const words = [
       "Utiliser égrillard dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Égrillard",
-      "équivalent de Égrillard",
-      "terme similaire à Égrillard"
+      "gaulois",
+      "polisson",
+      "libertin"
     ],
     "prononciation": "[é-g-r-i-l-l-a-r-d]"
   },
@@ -5971,9 +5971,9 @@ const words = [
       "Utiliser élitaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Élitaire",
-      "équivalent de Élitaire",
-      "terme similaire à Élitaire"
+      "sélectif",
+      "élitiste",
+      "distingué"
     ],
     "prononciation": "[é-l-i-t-a-i-r-e]"
   },
@@ -5985,9 +5985,9 @@ const words = [
       "Utiliser emblématique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Emblématique",
-      "équivalent de Emblématique",
-      "terme similaire à Emblématique"
+      "symbolique",
+      "représentatif",
+      "icônique"
     ],
     "prononciation": "[e-m-b-l-é-m-a-t-i-q-u-e]"
   },
@@ -5999,9 +5999,9 @@ const words = [
       "Utiliser éminence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Éminence",
-      "équivalent de Éminence",
-      "terme similaire à Éminence"
+      "hauteur",
+      "supériorité",
+      "sommet"
     ],
     "prononciation": "[é-m-i-n-e-n-c-e]"
   },
@@ -6013,9 +6013,9 @@ const words = [
       "Utiliser émotivité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Émotivité",
-      "équivalent de Émotivité",
-      "terme similaire à Émotivité"
+      "sensibilité",
+      "nervosité",
+      "affectivité"
     ],
     "prononciation": "[é-m-o-t-i-v-i-t-é]"
   },
@@ -6027,9 +6027,9 @@ const words = [
       "Utiliser empirique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Empirique",
-      "équivalent de Empirique",
-      "terme similaire à Empirique"
+      "expérimental",
+      "pratique",
+      "concret"
     ],
     "prononciation": "[e-m-p-i-r-i-q-u-e]"
   },
@@ -6041,9 +6041,9 @@ const words = [
       "Utiliser enivrant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Enivrant",
-      "équivalent de Enivrant",
-      "terme similaire à Enivrant"
+      "grisant",
+      "enivrant",
+      "excitant"
     ],
     "prononciation": "[e-n-i-v-r-a-n-t]"
   },
@@ -6055,9 +6055,9 @@ const words = [
       "Utiliser équanimité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Équanimité",
-      "équivalent de Équanimité",
-      "terme similaire à Équanimité"
+      "sérénité",
+      "équilibre",
+      "apaisement"
     ],
     "prononciation": "[é-q-u-a-n-i-m-i-t-é]"
   },
@@ -6069,9 +6069,9 @@ const words = [
       "Utiliser équinoxe dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Équinoxe",
-      "équivalent de Équinoxe",
-      "terme similaire à Équinoxe"
+      "jour égal",
+      "changement de saison",
+      "solstice"
     ],
     "prononciation": "[é-q-u-i-n-o-x-e]"
   },
@@ -6083,9 +6083,9 @@ const words = [
       "Utiliser érsatz dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Érsatz",
-      "équivalent de Érsatz",
-      "terme similaire à Érsatz"
+      "substitut",
+      "remplaçant",
+      "succédané"
     ],
     "prononciation": "[é-r-s-a-t-z]"
   },
@@ -6097,9 +6097,9 @@ const words = [
       "Utiliser estafette dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Estafette",
-      "équivalent de Estafette",
-      "terme similaire à Estafette"
+      "messager",
+      "courrier",
+      "éclaireur"
     ],
     "prononciation": "[e-s-t-a-f-e-t-t-e]"
   },
@@ -6111,9 +6111,9 @@ const words = [
       "Utiliser éthéré dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Éthéré",
-      "équivalent de Éthéré",
-      "terme similaire à Éthéré"
+      "aérien",
+      "subtil",
+      "léger"
     ],
     "prononciation": "[é-t-h-é-r-é]"
   },
@@ -6125,9 +6125,9 @@ const words = [
       "Utiliser éthique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Éthique",
-      "équivalent de Éthique",
-      "terme similaire à Éthique"
+      "morale",
+      "déontologie",
+      "vertu"
     ],
     "prononciation": "[é-t-h-i-q-u-e]"
   },
@@ -6139,9 +6139,9 @@ const words = [
       "Utiliser étiole dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Étiole",
-      "équivalent de Étiole",
-      "terme similaire à Étiole"
+      "s'affaiblir",
+      "dépérir",
+      "pâlir"
     ],
     "prononciation": "[é-t-i-o-l-e]"
   },
@@ -6153,9 +6153,9 @@ const words = [
       "Utiliser exacerbation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exacerbation",
-      "équivalent de Exacerbation",
-      "terme similaire à Exacerbation"
+      "intensification",
+      "aggravation",
+      "amplification"
     ],
     "prononciation": "[e-x-a-c-e-r-b-a-t-i-o-n]"
   },
@@ -6167,9 +6167,9 @@ const words = [
       "Utiliser exécration dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Exécration",
-      "équivalent de Exécration",
-      "terme similaire à Exécration"
+      "horreur",
+      "détestation",
+      "abomination"
     ],
     "prononciation": "[e-x-é-c-r-a-t-i-o-n]"
   },
@@ -6181,9 +6181,9 @@ const words = [
       "Utiliser fanfaronnade dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fanfaronnade",
-      "équivalent de Fanfaronnade",
-      "terme similaire à Fanfaronnade"
+      "vantardise",
+      "rodomontade",
+      "forfanterie"
     ],
     "prononciation": "[f-a-n-f-a-r-o-n-n-a-d-e]"
   },
@@ -6195,9 +6195,9 @@ const words = [
       "Utiliser fantasmagorie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fantasmagorie",
-      "équivalent de Fantasmagorie",
-      "terme similaire à Fantasmagorie"
+      "illusion",
+      "vision",
+      "mirage"
     ],
     "prononciation": "[f-a-n-t-a-s-m-a-g-o-r-i-e]"
   },
@@ -6209,9 +6209,9 @@ const words = [
       "Utiliser faste dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Faste",
-      "équivalent de Faste",
-      "terme similaire à Faste"
+      "pomp",
+      "splendeur",
+      "magnificence"
     ],
     "prononciation": "[f-a-s-t-e]"
   },
@@ -6223,9 +6223,9 @@ const words = [
       "Utiliser fasteux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fasteux",
-      "équivalent de Fasteux",
-      "terme similaire à Fasteux"
+      "luxueux",
+      "somptueux",
+      "opulent"
     ],
     "prononciation": "[f-a-s-t-e-u-x]"
   },
@@ -6237,9 +6237,9 @@ const words = [
       "Utiliser félonie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Félonie",
-      "équivalent de Félonie",
-      "terme similaire à Félonie"
+      "trahison",
+      "perfide",
+      "déloyauté"
     ],
     "prononciation": "[f-é-l-o-n-i-e]"
   },
@@ -6251,9 +6251,9 @@ const words = [
       "Utiliser ferveur dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ferveur",
-      "équivalent de Ferveur",
-      "terme similaire à Ferveur"
+      "ardeur",
+      "enthousiasme",
+      "dévotion"
     ],
     "prononciation": "[f-e-r-v-e-u-r]"
   },
@@ -6265,9 +6265,9 @@ const words = [
       "Utiliser flagellation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Flagellation",
-      "équivalent de Flagellation",
-      "terme similaire à Flagellation"
+      "fustigation",
+      "châtiment",
+      "autodiscipline"
     ],
     "prononciation": "[f-l-a-g-e-l-l-a-t-i-o-n]"
   },
@@ -6279,9 +6279,9 @@ const words = [
       "Utiliser flavescent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Flavescent",
-      "équivalent de Flavescent",
-      "terme similaire à Flavescent"
+      "jaunissant",
+      "doré",
+      "d'or"
     ],
     "prononciation": "[f-l-a-v-e-s-c-e-n-t]"
   },
@@ -6293,9 +6293,9 @@ const words = [
       "Utiliser florilège dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Florilège",
-      "équivalent de Florilège",
-      "terme similaire à Florilège"
+      "anthologie",
+      "sélection",
+      "panorama"
     ],
     "prononciation": "[f-l-o-r-i-l-è-g-e]"
   },
@@ -6307,9 +6307,9 @@ const words = [
       "Utiliser forfanterie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Forfanterie",
-      "équivalent de Forfanterie",
-      "terme similaire à Forfanterie"
+      "fanfaronnade",
+      "rodomontade",
+      "vantardise"
     ],
     "prononciation": "[f-o-r-f-a-n-t-e-r-i-e]"
   },
@@ -6321,9 +6321,9 @@ const words = [
       "Utiliser fougueux dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fougueux",
-      "équivalent de Fougueux",
-      "terme similaire à Fougueux"
+      "ardent",
+      "impétueux",
+      "enthousiaste"
     ],
     "prononciation": "[f-o-u-g-u-e-u-x]"
   },
@@ -6335,9 +6335,9 @@ const words = [
       "Utiliser fustiger dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Fustiger",
-      "équivalent de Fustiger",
-      "terme similaire à Fustiger"
+      "blâmer",
+      "condamner",
+      "critiquer"
     ],
     "prononciation": "[f-u-s-t-i-g-e-r]"
   },
@@ -6349,9 +6349,9 @@ const words = [
       "Utiliser garrulité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Garrulité",
-      "équivalent de Garrulité",
-      "terme similaire à Garrulité"
+      "bavardage",
+      "logorrhée",
+      "volubilité"
     ],
     "prononciation": "[g-a-r-r-u-l-i-t-é]"
   },
@@ -6363,9 +6363,9 @@ const words = [
       "Utiliser gnoséologie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Gnoséologie",
-      "équivalent de Gnoséologie",
-      "terme similaire à Gnoséologie"
+      "épistémologie",
+      "théorie de la connaissance",
+      "étude du savoir"
     ],
     "prononciation": "[g-n-o-s-é-o-l-o-g-i-e]"
   },
@@ -6377,9 +6377,9 @@ const words = [
       "Utiliser hiératique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hiératique",
-      "équivalent de Hiératique",
-      "terme similaire à Hiératique"
+      "solennel",
+      "sacré",
+      "majestueux"
     ],
     "prononciation": "[h-i-é-r-a-t-i-q-u-e]"
   },
@@ -6391,9 +6391,9 @@ const words = [
       "Utiliser hirsute dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hirsute",
-      "équivalent de Hirsute",
-      "terme similaire à Hirsute"
+      "ébouriffé",
+      "dépeigné",
+      "emmêlé"
     ],
     "prononciation": "[h-i-r-s-u-t-e]"
   },
@@ -6405,9 +6405,9 @@ const words = [
       "Utiliser hydrique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hydrique",
-      "équivalent de Hydrique",
-      "terme similaire à Hydrique"
+      "aquatique",
+      "humide",
+      "liquide"
     ],
     "prononciation": "[h-y-d-r-i-q-u-e]"
   },
@@ -6419,9 +6419,9 @@ const words = [
       "Utiliser hyperbolique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hyperbolique",
-      "équivalent de Hyperbolique",
-      "terme similaire à Hyperbolique"
+      "exagéré",
+      "excessif",
+      "grandiloquent"
     ],
     "prononciation": "[h-y-p-e-r-b-o-l-i-q-u-e]"
   },
@@ -6433,9 +6433,9 @@ const words = [
       "Utiliser hypnagogique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hypnagogique",
-      "équivalent de Hypnagogique",
-      "terme similaire à Hypnagogique"
+      "pré‑sommeil",
+      "soporifique",
+      "somnolent"
     ],
     "prononciation": "[h-y-p-n-a-g-o-g-i-q-u-e]"
   },
@@ -6447,9 +6447,9 @@ const words = [
       "Utiliser hypothétique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Hypothétique",
-      "équivalent de Hypothétique",
-      "terme similaire à Hypothétique"
+      "supposé",
+      "conjectural",
+      "conditionnel"
     ],
     "prononciation": "[h-y-p-o-t-h-é-t-i-q-u-e]"
   },
@@ -6461,9 +6461,9 @@ const words = [
       "Utiliser incantation dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Incantation",
-      "équivalent de Incantation",
-      "terme similaire à Incantation"
+      "formule magique",
+      "prière",
+      "invocation"
     ],
     "prononciation": "[i-n-c-a-n-t-a-t-i-o-n]"
   },
@@ -6475,9 +6475,9 @@ const words = [
       "Utiliser inclinable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Inclinable",
-      "équivalent de Inclinable",
-      "terme similaire à Inclinable"
+      "flexible",
+      "penchable",
+      "réglable"
     ],
     "prononciation": "[i-n-c-l-i-n-a-b-l-e]"
   },
@@ -6489,9 +6489,9 @@ const words = [
       "Utiliser incohérent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Incohérent",
-      "équivalent de Incohérent",
-      "terme similaire à Incohérent"
+      "illogique",
+      "incongru",
+      "désordonné"
     ],
     "prononciation": "[i-n-c-o-h-é-r-e-n-t]"
   },
@@ -6503,9 +6503,9 @@ const words = [
       "Utiliser incrédulité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Incrédulité",
-      "équivalent de Incrédulité",
-      "terme similaire à Incrédulité"
+      "scepticisme",
+      "doute",
+      "méfiance"
     ],
     "prononciation": "[i-n-c-r-é-d-u-l-i-t-é]"
   },
@@ -6517,9 +6517,9 @@ const words = [
       "Utiliser indigence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Indigence",
-      "équivalent de Indigence",
-      "terme similaire à Indigence"
+      "pauvreté",
+      "misère",
+      "pénurie"
     ],
     "prononciation": "[i-n-d-i-g-e-n-c-e]"
   },
@@ -6531,9 +6531,9 @@ const words = [
       "Utiliser inefficience dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Inefficience",
-      "équivalent de Inefficience",
-      "terme similaire à Inefficience"
+      "inefficacité",
+      "incapacité",
+      "manque de rendement"
     ],
     "prononciation": "[i-n-e-f-f-i-c-i-e-n-c-e]"
   },
@@ -6545,9 +6545,9 @@ const words = [
       "Utiliser infatué dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Infatué",
-      "équivalent de Infatué",
-      "terme similaire à Infatué"
+      "vaniteux",
+      "imbu de soi",
+      "orgueilleux"
     ],
     "prononciation": "[i-n-f-a-t-u-é]"
   },
@@ -6559,9 +6559,9 @@ const words = [
       "Utiliser infinitude dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Infinitude",
-      "équivalent de Infinitude",
-      "terme similaire à Infinitude"
+      "infini",
+      "illimité",
+      "immensité"
     ],
     "prononciation": "[i-n-f-i-n-i-t-u-d-e]"
   },
@@ -6573,9 +6573,9 @@ const words = [
       "Utiliser ingérence dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ingérence",
-      "équivalent de Ingérence",
-      "terme similaire à Ingérence"
+      "intervention",
+      "intrusion",
+      "immixtion"
     ],
     "prononciation": "[i-n-g-é-r-e-n-c-e]"
   },
@@ -6587,9 +6587,9 @@ const words = [
       "Utiliser inhiber dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Inhiber",
-      "équivalent de Inhiber",
-      "terme similaire à Inhiber"
+      "bloquer",
+      "freiner",
+      "empêcher"
     ],
     "prononciation": "[i-n-h-i-b-e-r]"
   },
@@ -6601,9 +6601,9 @@ const words = [
       "Utiliser iniquité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Iniquité",
-      "équivalent de Iniquité",
-      "terme similaire à Iniquité"
+      "injustice",
+      "ineptie",
+      "partialité"
     ],
     "prononciation": "[i-n-i-q-u-i-t-é]"
   },
@@ -6615,9 +6615,9 @@ const words = [
       "Utiliser innocuité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Innocuité",
-      "équivalent de Innocuité",
-      "terme similaire à Innocuité"
+      "non‑toxicité",
+      "inoffensivité",
+      "absence de danger"
     ],
     "prononciation": "[i-n-n-o-c-u-i-t-é]"
   },
@@ -6629,9 +6629,9 @@ const words = [
       "Utiliser insalubre dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insalubre",
-      "équivalent de Insalubre",
-      "terme similaire à Insalubre"
+      "malsain",
+      "pollué",
+      "impropre"
     ],
     "prononciation": "[i-n-s-a-l-u-b-r-e]"
   },
@@ -6643,9 +6643,9 @@ const words = [
       "Utiliser insatiable dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insatiable",
-      "équivalent de Insatiable",
-      "terme similaire à Insatiable"
+      "inassouvi",
+      "vorace",
+      "inextinguible"
     ],
     "prononciation": "[i-n-s-a-t-i-a-b-l-e]"
   },
@@ -6657,9 +6657,9 @@ const words = [
       "Utiliser insigne dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insigne",
-      "équivalent de Insigne",
-      "terme similaire à Insigne"
+      "remarquable",
+      "éminent",
+      "notable"
     ],
     "prononciation": "[i-n-s-i-g-n-e]"
   },
@@ -6671,9 +6671,9 @@ const words = [
       "Utiliser insipidité dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insipidité",
-      "équivalent de Insipidité",
-      "terme similaire à Insipidité"
+      "fadeur",
+      "platitude",
+      "manque de saveur"
     ],
     "prononciation": "[i-n-s-i-p-i-d-i-t-é]"
   },
@@ -6685,9 +6685,9 @@ const words = [
       "Utiliser insolite dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insolite",
-      "équivalent de Insolite",
-      "terme similaire à Insolite"
+      "inhabituel",
+      "étrange",
+      "singulier"
     ],
     "prononciation": "[i-n-s-o-l-i-t-e]"
   },
@@ -6699,9 +6699,9 @@ const words = [
       "Utiliser insomniaque dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insomniaque",
-      "équivalent de Insomniaque",
-      "terme similaire à Insomniaque"
+      "qui ne dort pas",
+      "éveillé",
+      "immanquable"
     ],
     "prononciation": "[i-n-s-o-m-n-i-a-q-u-e]"
   },
@@ -6713,9 +6713,9 @@ const words = [
       "Utiliser insoumis dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insoumis",
-      "équivalent de Insoumis",
-      "terme similaire à Insoumis"
+      "rebelle",
+      "indiscipliné",
+      "récalcitrant"
     ],
     "prononciation": "[i-n-s-o-u-m-i-s]"
   },
@@ -6727,9 +6727,9 @@ const words = [
       "Utiliser insulaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Insulaire",
-      "équivalent de Insulaire",
-      "terme similaire à Insulaire"
+      "lié à une île",
+      "isolé",
+      "îlien"
     ],
     "prononciation": "[i-n-s-u-l-a-i-r-e]"
   },
@@ -6741,9 +6741,9 @@ const words = [
       "Utiliser intersidéral dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Intersidéral",
-      "équivalent de Intersidéral",
-      "terme similaire à Intersidéral"
+      "cosmique",
+      "spatial",
+      "galactique"
     ],
     "prononciation": "[i-n-t-e-r-s-i-d-é-r-a-l]"
   },
@@ -6755,9 +6755,9 @@ const words = [
       "Utiliser interstitiel dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Interstitiel",
-      "équivalent de Interstitiel",
-      "terme similaire à Interstitiel"
+      "intermédiaire",
+      "entre‑deux",
+      "espace libre"
     ],
     "prononciation": "[i-n-t-e-r-s-t-i-t-i-e-l]"
   },
@@ -6769,9 +6769,9 @@ const words = [
       "Utiliser intransigeant dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Intransigeant",
-      "équivalent de Intransigeant",
-      "terme similaire à Intransigeant"
+      "rigide",
+      "inflexible",
+      "strict"
     ],
     "prononciation": "[i-n-t-r-a-n-s-i-g-e-a-n-t]"
   },
@@ -6783,9 +6783,9 @@ const words = [
       "Utiliser introspectif dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Introspectif",
-      "équivalent de Introspectif",
-      "terme similaire à Introspectif"
+      "réfléchi",
+      "analytique",
+      "réflexif"
     ],
     "prononciation": "[i-n-t-r-o-s-p-e-c-t-i-f]"
   },
@@ -6797,9 +6797,9 @@ const words = [
       "Utiliser iridescent dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Iridescent",
-      "équivalent de Iridescent",
-      "terme similaire à Iridescent"
+      "chatoyant",
+      "nacré",
+      "bigarré"
     ],
     "prononciation": "[i-r-i-d-e-s-c-e-n-t]"
   },
@@ -6811,9 +6811,9 @@ const words = [
       "Utiliser ironique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Ironique",
-      "équivalent de Ironique",
-      "terme similaire à Ironique"
+      "sarcastique",
+      "moqueur",
+      "caustique"
     ],
     "prononciation": "[i-r-o-n-i-q-u-e]"
   },
@@ -6825,9 +6825,9 @@ const words = [
       "Utiliser jactance dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Jactance",
-      "équivalent de Jactance",
-      "terme similaire à Jactance"
+      "vantardise",
+      "forfanterie",
+      "fanfaronnade"
     ],
     "prononciation": "[j-a-c-t-a-n-c-e]"
   },
@@ -6839,9 +6839,9 @@ const words = [
       "Utiliser juger dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Juger",
-      "équivalent de Juger",
-      "terme similaire à Juger"
+      "évaluer",
+      "apprécier",
+      "arbitrer"
     ],
     "prononciation": "[j-u-g-e-r]"
   },
@@ -6853,9 +6853,9 @@ const words = [
       "Utiliser juvénile dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Juvénile",
-      "équivalent de Juvénile",
-      "terme similaire à Juvénile"
+      "adolescent",
+      "puéril",
+      "enfantin"
     ],
     "prononciation": "[j-u-v-é-n-i-l-e]"
   },
@@ -6867,9 +6867,9 @@ const words = [
       "Utiliser lacunaire dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Lacunaire",
-      "équivalent de Lacunaire",
-      "terme similaire à Lacunaire"
+      "incomplet",
+      "défectueux",
+      "imparfait"
     ],
     "prononciation": "[l-a-c-u-n-a-i-r-e]"
   },
@@ -6881,9 +6881,9 @@ const words = [
       "Utiliser labyrinthe dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Labyrinthe",
-      "équivalent de Labyrinthe",
-      "terme similaire à Labyrinthe"
+      "dédale",
+      "enchevêtrement",
+      "maze"
     ],
     "prononciation": "[l-a-b-y-r-i-n-t-h-e]"
   },
@@ -6895,9 +6895,9 @@ const words = [
       "Utiliser laconisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Laconisme",
-      "équivalent de Laconisme",
-      "terme similaire à Laconisme"
+      "brièveté",
+      "succinct",
+      "concision"
     ],
     "prononciation": "[l-a-c-o-n-i-s-m-e]"
   },
@@ -6909,9 +6909,9 @@ const words = [
       "Utiliser laxisme dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Laxisme",
-      "équivalent de Laxisme",
-      "terme similaire à Laxisme"
+      "permissivité",
+      "tolérance",
+      "indulgence"
     ],
     "prononciation": "[l-a-x-i-s-m-e]"
   },
@@ -6923,9 +6923,9 @@ const words = [
       "Utiliser légiférer dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Légiférer",
-      "équivalent de Légiférer",
-      "terme similaire à Légiférer"
+      "réglementer",
+      "statuer",
+      "loi"
     ],
     "prononciation": "[l-é-g-i-f-é-r-e-r]"
   },
@@ -6937,9 +6937,9 @@ const words = [
       "Utiliser léthargique dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Léthargique",
-      "équivalent de Léthargique",
-      "terme similaire à Léthargique"
+      "somnolent",
+      "apathique",
+      "assoupi"
     ],
     "prononciation": "[l-é-t-h-a-r-g-i-q-u-e]"
   },
@@ -6951,9 +6951,9 @@ const words = [
       "Utiliser limaçon dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Limaçon",
-      "équivalent de Limaçon",
-      "terme similaire à Limaçon"
+      "escargot",
+      "spirale",
+      "hélice"
     ],
     "prononciation": "[l-i-m-a-ç-o-n]"
   },
@@ -6965,9 +6965,9 @@ const words = [
       "Utiliser litanie dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Litanie",
-      "équivalent de Litanie",
-      "terme similaire à Litanie"
+      "répétition",
+      "liste",
+      "chapelet"
     ],
     "prononciation": "[l-i-t-a-n-i-e]"
   },
@@ -6979,9 +6979,9 @@ const words = [
       "Utiliser logorrhée dans une conversation démontre une grande maîtrise du français."
     ],
     "synonymes": [
-      "synonyme de Logorrhée",
-      "équivalent de Logorrhée",
-      "terme similaire à Logorrhée"
+      "bavardage",
+      "verbiage",
+      "prolixité"
     ],
     "prononciation": "[l-o-g-o-r-r-h-é-e]"
   },
@@ -6993,9 +6993,9 @@ const words = [
       "Elle a fait preuve de sagacité dans ses remarques pertinentes."
     ],
     "synonymes": [
-      "synonyme de Sagacité",
-      "équivalent de Sagacité",
-      "terme similaire à Sagacité"
+      "perspicacité",
+      "clairvoyance",
+      "judicieuse"
     ],
     "prononciation": "[s-a-g-a-c-i-t-é]",
     "categorie": "nom féminin"
