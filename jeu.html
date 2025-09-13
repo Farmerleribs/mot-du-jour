@@ -47,6 +47,11 @@
     ></script>
   </head>
   <body>
+    <!-- Loader animation shown on page load -->
+    <div id="loader">
+      <!-- Spinner circulaire pour indiquer le chargement -->
+      <div class="spinner"></div>
+    </div>
 
     <!-- Google Tag Manager (noscript) -->
     <noscript
@@ -97,14 +102,11 @@
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
       </div>
-      <!-- Sélecteur de niveau de difficulté -->
-      <div class="difficulty-container">
-        <label for="difficulty-select">Niveau&nbsp;:</label>
-        <select id="difficulty-select" aria-label="Choisir le niveau de difficulté">
-          <option value="facile">Facile</option>
-          <option value="moyen" selected>Moyen</option>
-          <option value="difficile">Difficile</option>
-        </select>
+      <!-- Boutons de sélection du niveau de difficulté -->
+      <div class="difficulty-buttons">
+        <button type="button" class="difficulty-btn" data-level="facile">Facile</button>
+        <button type="button" class="difficulty-btn active" data-level="moyen">Moyen</button>
+        <button type="button" class="difficulty-btn" data-level="difficile">Difficile</button>
       </div>
       <div class="game-card">
         <p id="game-definition">Chargement de la définition…</p>
