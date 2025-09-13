@@ -64,3 +64,15 @@
     }
   });
 })();
+
+// Masquer l'animation d'introduction après un délai défini, afin que l'effet
+// soit perçu comme une entrée en scène et non comme un simple temps de chargement.
+document.addEventListener('DOMContentLoaded', () => {
+  const loader = document.getElementById('loader');
+  if (loader) {
+    // Attendre suffisamment longtemps pour laisser l'animation se dérouler
+    setTimeout(() => {
+      loader.classList.add('hidden');
+    }, 2000);
+  }
+});
