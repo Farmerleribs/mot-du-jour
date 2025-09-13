@@ -3,7 +3,7 @@ const words = [
     'mot': 'Abscons',
     'definition': 'Terme qui signifie obscur, abstrus ou hermétique.',
     'exemples': [
-      'Ce texte est si abscons qu'il semble obscur et abstrus.',
+      'Ce texte est si abscons qu’il semble obscur et abstrus.',
       'Son discours abscons a laissé une impression de obscur.'
     ],
     'synonymes': [
@@ -45,7 +45,7 @@ const words = [
     'mot': 'Béotien',
     'definition': 'Terme qui signifie ignorant, profane ou inexpérimenté.',
     'exemples': [
-      'Ce texte est si béotien qu'il semble ignorant et profane.',
+      'Ce texte est si béotien qu’il semble ignorant et profane.',
       'Son discours béotien a laissé une impression de ignorant.'
     ],
     'synonymes': [
@@ -59,7 +59,7 @@ const words = [
     'mot': 'Caustique',
     'definition': 'Terme qui signifie acerbe, sarcastique ou mordant.',
     'exemples': [
-      'Ce texte est si caustique qu'il semble acerbe et sarcastique.',
+      'Ce texte est si caustique qu’il semble acerbe et sarcastique.',
       'Son discours caustique a laissé une impression de acerbe.'
     ],
     'synonymes': [
@@ -101,7 +101,7 @@ const words = [
     'mot': 'Effluve',
     'definition': 'Terme qui signifie arôme, émanation ou odeur.',
     'exemples': [
-      'Ce texte est si effluve qu'il semble arôme et émanation.',
+      'Ce texte est si effluve qu’il semble arôme et émanation.',
       'Son discours effluve a laissé une impression de arôme.'
     ],
     'synonymes': [
@@ -115,7 +115,7 @@ const words = [
     'mot': 'Emphatique',
     'definition': 'Terme qui signifie grandiloquent, ampoulé ou pompeux.',
     'exemples': [
-      'Ce texte est si emphatique qu'il semble grandiloquent et ampoulé.',
+      'Ce texte est si emphatique qu’il semble grandiloquent et ampoulé.',
       'Son discours emphatique a laissé une impression de grandiloquent.'
     ],
     'synonymes': [
@@ -129,7 +129,7 @@ const words = [
     'mot': 'Endémique',
     'definition': 'Terme qui signifie permanent, persistant ou habituel.',
     'exemples': [
-      'Ce texte est si endémique qu'il semble permanent et persistant.',
+      'Ce texte est si endémique qu’il semble permanent et persistant.',
       'Son discours endémique a laissé une impression de permanent.'
     ],
     'synonymes': [
@@ -157,7 +157,7 @@ const words = [
     'mot': 'Épicurien',
     'definition': 'Terme qui signifie hédoniste, jouisseur ou sensuel.',
     'exemples': [
-      'Ce texte est si épicurien qu'il semble hédoniste et jouisseur.',
+      'Ce texte est si épicurien qu’il semble hédoniste et jouisseur.',
       'Son discours épicurien a laissé une impression de hédoniste.'
     ],
     'synonymes': [
@@ -171,7 +171,7 @@ const words = [
     'mot': 'Éponyme',
     'definition': 'Terme qui signifie qui donne son nom, titulaire ou parrain.',
     'exemples': [
-      'Ce texte est si éponyme qu'il semble qui donne son nom et titulaire.',
+      'Ce texte est si éponyme qu’il semble qui donne son nom et titulaire.',
       'Son discours éponyme a laissé une impression de qui donne son nom.'
     ],
     'synonymes': [
@@ -185,7 +185,7 @@ const words = [
     'mot': 'Ésotérique',
     'definition': 'Terme qui signifie mystique, hermétique ou occultiste.',
     'exemples': [
-      'Ce texte est si ésotérique qu'il semble mystique et hermétique.',
+      'Ce texte est si ésotérique qu’il semble mystique et hermétique.',
       'Son discours ésotérique a laissé une impression de mystique.'
     ],
     'synonymes': [
@@ -213,7 +213,7 @@ const words = [
     'mot': 'Factieux',
     'definition': 'Terme qui signifie séditieux, rebelle ou agité.',
     'exemples': [
-      'Ce texte est si factieux qu'il semble séditieux et rebelle.',
+      'Ce texte est si factieux qu’il semble séditieux et rebelle.',
       'Son discours factieux a laissé une impression de séditieux.'
     ],
     'synonymes': [
@@ -255,7 +255,7 @@ const words = [
     'mot': 'Heuristique',
     'definition': 'Terme qui signifie méthodique, expérimental ou exploratoire.',
     'exemples': [
-      'Ce texte est si heuristique qu'il semble méthodique et expérimental.',
+      'Ce texte est si heuristique qu’il semble méthodique et expérimental.',
       'Son discours heuristique a laissé une impression de méthodique.'
     ],
     'synonymes': [
@@ -269,7 +269,7 @@ const words = [
     'mot': 'Iconoclaste',
     'definition': 'Terme qui signifie anticonformiste, révolutionnaire ou subversif.',
     'exemples': [
-      'Ce texte est si iconoclaste qu'il semble anticonformiste et révolutionnaire.',
+      'Ce texte est si iconoclaste qu’il semble anticonformiste et révolutionnaire.',
       'Son discours iconoclaste a laissé une impression de anticonformiste.'
     ],
     'synonymes': [
@@ -297,7 +297,7 @@ const words = [
     'mot': 'Immarcescible',
     'definition': 'Terme qui signifie impérissable, inaltérable ou immortel.',
     'exemples': [
-      'Ce texte est si immarcescible qu'il semble impérissable et inaltérable.',
+      'Ce texte est si immarcescible qu’il semble impérissable et inaltérable.',
       'Son discours immarcescible a laissé une impression de impérissable.'
     ],
     'synonymes': [
@@ -311,7 +311,7 @@ const words = [
     'mot': 'Inchoatif',
     'definition': 'Terme qui signifie initial, commençant ou naissant.',
     'exemples': [
-      'Ce texte est si inchoatif qu'il semble initial et commençant.',
+      'Ce texte est si inchoatif qu’il semble initial et commençant.',
       'Son discours inchoatif a laissé une impression de initial.'
     ],
     'synonymes': [
@@ -325,7 +325,7 @@ const words = [
     'mot': 'Ineffable',
     'definition': 'Terme qui signifie indescriptible, inexprimable ou inénarrable.',
     'exemples': [
-      'Ce texte est si ineffable qu'il semble indescriptible et inexprimable.',
+      'Ce texte est si ineffable qu’il semble indescriptible et inexprimable.',
       'Son discours ineffable a laissé une impression de indescriptible.'
     ],
     'synonymes': [
@@ -339,7 +339,7 @@ const words = [
     'mot': 'Ingénu',
     'definition': 'Terme qui signifie candide, naïf ou innocent.',
     'exemples': [
-      'Ce texte est si ingénu qu'il semble candide et naïf.',
+      'Ce texte est si ingénu qu’il semble candide et naïf.',
       'Son discours ingénu a laissé une impression de candide.'
     ],
     'synonymes': [
@@ -353,7 +353,7 @@ const words = [
     'mot': 'Insidieux',
     'definition': 'Terme qui signifie sournois, pernicieux ou dangereux.',
     'exemples': [
-      'Ce texte est si insidieux qu'il semble sournois et pernicieux.',
+      'Ce texte est si insidieux qu’il semble sournois et pernicieux.',
       'Son discours insidieux a laissé une impression de sournois.'
     ],
     'synonymes': [
@@ -367,7 +367,7 @@ const words = [
     'mot': 'Invective',
     'definition': 'Terme qui signifie insulte, injure ou outrage.',
     'exemples': [
-      'Ce texte est si invective qu'il semble insulte et injure.',
+      'Ce texte est si invective qu’il semble insulte et injure.',
       'Son discours invective a laissé une impression de insulte.'
     ],
     'synonymes': [
@@ -381,7 +381,7 @@ const words = [
     'mot': 'Itératif',
     'definition': 'Terme qui signifie répétitif, réitéré ou récurrent.',
     'exemples': [
-      'Ce texte est si itératif qu'il semble répétitif et réitéré.',
+      'Ce texte est si itératif qu’il semble répétitif et réitéré.',
       'Son discours itératif a laissé une impression de répétitif.'
     ],
     'synonymes': [
@@ -395,7 +395,7 @@ const words = [
     'mot': 'Laudatif',
     'definition': 'Terme qui signifie élogieux, flatteur ou complimenteur.',
     'exemples': [
-      'Ce texte est si laudatif qu'il semble élogieux et flatteur.',
+      'Ce texte est si laudatif qu’il semble élogieux et flatteur.',
       'Son discours laudatif a laissé une impression de élogieux.'
     ],
     'synonymes': [
@@ -409,7 +409,7 @@ const words = [
     'mot': 'Lénifiant',
     'definition': 'Terme qui signifie apaisant, calmant ou adoucissant.',
     'exemples': [
-      'Ce texte est si lénifiant qu'il semble apaisant et calmant.',
+      'Ce texte est si lénifiant qu’il semble apaisant et calmant.',
       'Son discours lénifiant a laissé une impression de apaisant.'
     ],
     'synonymes': [
@@ -437,7 +437,7 @@ const words = [
     'mot': 'Manichéen',
     'definition': 'Terme qui signifie dualiste, simpliste ou binaire.',
     'exemples': [
-      'Ce texte est si manichéen qu'il semble dualiste et simpliste.',
+      'Ce texte est si manichéen qu’il semble dualiste et simpliste.',
       'Son discours manichéen a laissé une impression de dualiste.'
     ],
     'synonymes': [
@@ -451,7 +451,7 @@ const words = [
     'mot': 'Misanthrope',
     'definition': 'Terme qui signifie asocial, ermite ou insociable.',
     'exemples': [
-      'Ce texte est si misanthrope qu'il semble asocial et ermite.',
+      'Ce texte est si misanthrope qu’il semble asocial et ermite.',
       'Son discours misanthrope a laissé une impression de asocial.'
     ],
     'synonymes': [
@@ -465,7 +465,7 @@ const words = [
     'mot': 'Nébuleux',
     'definition': 'Terme qui signifie vague, obscur ou confus.',
     'exemples': [
-      'Ce texte est si nébuleux qu'il semble vague et obscur.',
+      'Ce texte est si nébuleux qu’il semble vague et obscur.',
       'Son discours nébuleux a laissé une impression de vague.'
     ],
     'synonymes': [
@@ -535,7 +535,7 @@ const words = [
     'mot': 'Palliatif',
     'definition': 'Terme qui signifie atténuant, calmant ou temporaire.',
     'exemples': [
-      'Ce texte est si palliatif qu'il semble atténuant et calmant.',
+      'Ce texte est si palliatif qu’il semble atténuant et calmant.',
       'Son discours palliatif a laissé une impression de atténuant.'
     ],
     'synonymes': [
@@ -549,7 +549,7 @@ const words = [
     'mot': 'Paradigme',
     'definition': 'Terme qui signifie modèle, schéma ou référence.',
     'exemples': [
-      'Ce texte est si paradigme qu'il semble modèle et schéma.',
+      'Ce texte est si paradigme qu’il semble modèle et schéma.',
       'Son discours paradigme a laissé une impression de modèle.'
     ],
     'synonymes': [
@@ -563,7 +563,7 @@ const words = [
     'mot': 'Perspicace',
     'definition': 'Terme qui signifie clairvoyant, lucide ou sagace.',
     'exemples': [
-      'Ce texte est si perspicace qu'il semble clairvoyant et lucide.',
+      'Ce texte est si perspicace qu’il semble clairvoyant et lucide.',
       'Son discours perspicace a laissé une impression de clairvoyant.'
     ],
     'synonymes': [
@@ -591,7 +591,7 @@ const words = [
     'mot': 'Polyglotte',
     'definition': 'Terme qui signifie multilingue, plurilingue ou linguiste.',
     'exemples': [
-      'Ce texte est si polyglotte qu'il semble multilingue et plurilingue.',
+      'Ce texte est si polyglotte qu’il semble multilingue et plurilingue.',
       'Son discours polyglotte a laissé une impression de multilingue.'
     ],
     'synonymes': [
@@ -605,7 +605,7 @@ const words = [
     'mot': 'Polysémique',
     'definition': 'Terme qui signifie ambigu, à plusieurs sens ou polyvalent.',
     'exemples': [
-      'Ce texte est si polysémique qu'il semble ambigu et à plusieurs sens.',
+      'Ce texte est si polysémique qu’il semble ambigu et à plusieurs sens.',
       'Son discours polysémique a laissé une impression de ambigu.'
     ],
     'synonymes': [
@@ -619,7 +619,7 @@ const words = [
     'mot': 'Postulat',
     'definition': 'Terme qui signifie axiome, hypothèse ou principe.',
     'exemples': [
-      'Ce texte est si postulat qu'il semble axiome et hypothèse.',
+      'Ce texte est si postulat qu’il semble axiome et hypothèse.',
       'Son discours postulat a laissé une impression de axiome.'
     ],
     'synonymes': [
@@ -647,7 +647,7 @@ const words = [
     'mot': 'Prolégomènes',
     'definition': 'Terme qui signifie préliminaires, introduction ou préface.',
     'exemples': [
-      'Ce texte est si prolégomènes qu'il semble préliminaires et introduction.',
+      'Ce texte est si prolégomènes qu’il semble préliminaires et introduction.',
       'Son discours prolégomènes a laissé une impression de préliminaires.'
     ],
     'synonymes': [
@@ -661,7 +661,7 @@ const words = [
     'mot': 'Prolixe',
     'definition': 'Terme qui signifie bavard, loquace ou verbeux.',
     'exemples': [
-      'Ce texte est si prolixe qu'il semble bavard et loquace.',
+      'Ce texte est si prolixe qu’il semble bavard et loquace.',
       'Son discours prolixe a laissé une impression de bavard.'
     ],
     'synonymes': [
@@ -675,7 +675,7 @@ const words = [
     'mot': 'Prosélyte',
     'definition': 'Terme qui signifie converti, nouveau croyant ou adepte.',
     'exemples': [
-      'Ce texte est si prosélyte qu'il semble converti et nouveau croyant.',
+      'Ce texte est si prosélyte qu’il semble converti et nouveau croyant.',
       'Son discours prosélyte a laissé une impression de converti.'
     ],
     'synonymes': [
@@ -689,7 +689,7 @@ const words = [
     'mot': 'Pusillanime',
     'definition': 'Terme qui signifie craintif, timoré ou lâche.',
     'exemples': [
-      'Ce texte est si pusillanime qu'il semble craintif et timoré.',
+      'Ce texte est si pusillanime qu’il semble craintif et timoré.',
       'Son discours pusillanime a laissé une impression de craintif.'
     ],
     'synonymes': [
@@ -731,7 +731,7 @@ const words = [
     'mot': 'Sagouin',
     'definition': 'Terme qui signifie sale, négligé ou souillon.',
     'exemples': [
-      'Ce texte est si sagouin qu'il semble sale et négligé.',
+      'Ce texte est si sagouin qu’il semble sale et négligé.',
       'Son discours sagouin a laissé une impression de sale.'
     ],
     'synonymes': [
@@ -759,7 +759,7 @@ const words = [
     'mot': 'Sardonique',
     'definition': 'Terme qui signifie moqueur, sarcastique ou ironique.',
     'exemples': [
-      'Ce texte est si sardonique qu'il semble moqueur et sarcastique.',
+      'Ce texte est si sardonique qu’il semble moqueur et sarcastique.',
       'Son discours sardonique a laissé une impression de moqueur.'
     ],
     'synonymes': [
@@ -773,7 +773,7 @@ const words = [
     'mot': 'Scabreux',
     'definition': 'Terme qui signifie délicat, graveleux ou risqué.',
     'exemples': [
-      'Ce texte est si scabreux qu'il semble délicat et graveleux.',
+      'Ce texte est si scabreux qu’il semble délicat et graveleux.',
       'Son discours scabreux a laissé une impression de délicat.'
     ],
     'synonymes': [
@@ -787,7 +787,7 @@ const words = [
     'mot': 'Séditieux',
     'definition': 'Terme qui signifie rebelle, factieux ou subversif.',
     'exemples': [
-      'Ce texte est si séditieux qu'il semble rebelle et factieux.',
+      'Ce texte est si séditieux qu’il semble rebelle et factieux.',
       'Son discours séditieux a laissé une impression de rebelle.'
     ],
     'synonymes': [
@@ -843,7 +843,7 @@ const words = [
     'mot': 'Sporadique',
     'definition': 'Terme qui signifie occasionnel, irrégulier ou épisodique.',
     'exemples': [
-      'Ce texte est si sporadique qu'il semble occasionnel et irrégulier.',
+      'Ce texte est si sporadique qu’il semble occasionnel et irrégulier.',
       'Son discours sporadique a laissé une impression de occasionnel.'
     ],
     'synonymes': [
@@ -857,7 +857,7 @@ const words = [
     'mot': 'Subversif',
     'definition': 'Terme qui signifie révolutionnaire, déstabilisateur ou iconoclaste.',
     'exemples': [
-      'Ce texte est si subversif qu'il semble révolutionnaire et déstabilisateur.',
+      'Ce texte est si subversif qu’il semble révolutionnaire et déstabilisateur.',
       'Son discours subversif a laissé une impression de révolutionnaire.'
     ],
     'synonymes': [
@@ -871,7 +871,7 @@ const words = [
     'mot': 'Suranné',
     'definition': 'Terme qui signifie démodé, obsolète ou vieillot.',
     'exemples': [
-      'Ce texte est si suranné qu'il semble démodé et obsolète.',
+      'Ce texte est si suranné qu’il semble démodé et obsolète.',
       'Son discours suranné a laissé une impression de démodé.'
     ],
     'synonymes': [
@@ -885,7 +885,7 @@ const words = [
     'mot': 'Sycophante',
     'definition': 'Terme qui signifie dénonciateur, calomniateur ou mouchard.',
     'exemples': [
-      'Ce texte est si sycophante qu'il semble dénonciateur et calomniateur.',
+      'Ce texte est si sycophante qu’il semble dénonciateur et calomniateur.',
       'Son discours sycophante a laissé une impression de dénonciateur.'
     ],
     'synonymes': [
@@ -927,7 +927,7 @@ const words = [
     'mot': 'Tacite',
     'definition': 'Terme qui signifie implicite, sous‑entendu ou non‑dit.',
     'exemples': [
-      'Ce texte est si tacite qu'il semble implicite et sous‑entendu.',
+      'Ce texte est si tacite qu’il semble implicite et sous‑entendu.',
       'Son discours tacite a laissé une impression de implicite.'
     ],
     'synonymes': [
@@ -941,7 +941,7 @@ const words = [
     'mot': 'Tangible',
     'definition': 'Terme qui signifie concret, palpable ou matériel.',
     'exemples': [
-      'Ce texte est si tangible qu'il semble concret et palpable.',
+      'Ce texte est si tangible qu’il semble concret et palpable.',
       'Son discours tangible a laissé une impression de concret.'
     ],
     'synonymes': [
@@ -969,7 +969,7 @@ const words = [
     'mot': 'Thaumaturge',
     'definition': 'Terme qui signifie faiseur de miracles, guérisseur ou magicien.',
     'exemples': [
-      'Ce texte est si thaumaturge qu'il semble faiseur de miracles et guérisseur.',
+      'Ce texte est si thaumaturge qu’il semble faiseur de miracles et guérisseur.',
       'Son discours thaumaturge a laissé une impression de faiseur de miracles.'
     ],
     'synonymes': [
@@ -997,7 +997,7 @@ const words = [
     'mot': 'Torpeur',
     'definition': 'Terme qui signifie léthargie, engourdissement ou apathie.',
     'exemples': [
-      'Ce texte est si torpeur qu'il semble léthargie et engourdissement.',
+      'Ce texte est si torpeur qu’il semble léthargie et engourdissement.',
       'Son discours torpeur a laissé une impression de léthargie.'
     ],
     'synonymes': [
@@ -1011,7 +1011,7 @@ const words = [
     'mot': 'Transcendant',
     'definition': 'Terme qui signifie supérieur, éminent ou extraordinaire.',
     'exemples': [
-      'Ce texte est si transcendant qu'il semble supérieur et éminent.',
+      'Ce texte est si transcendant qu’il semble supérieur et éminent.',
       'Son discours transcendant a laissé une impression de supérieur.'
     ],
     'synonymes': [
@@ -1025,7 +1025,7 @@ const words = [
     'mot': 'Trépidant',
     'definition': 'Terme qui signifie palpitant, agité ou dynamique.',
     'exemples': [
-      'Ce texte est si trépidant qu'il semble palpitant et agité.',
+      'Ce texte est si trépidant qu’il semble palpitant et agité.',
       'Son discours trépidant a laissé une impression de palpitant.'
     ],
     'synonymes': [
@@ -1039,7 +1039,7 @@ const words = [
     'mot': 'Truculent',
     'definition': 'Terme qui signifie pittoresque, coloré ou croquignolesque.',
     'exemples': [
-      'Ce texte est si truculent qu'il semble pittoresque et coloré.',
+      'Ce texte est si truculent qu’il semble pittoresque et coloré.',
       'Son discours truculent a laissé une impression de pittoresque.'
     ],
     'synonymes': [
@@ -1067,7 +1067,7 @@ const words = [
     'mot': 'Ubuesque',
     'definition': 'Terme qui signifie grotesque, absurde ou ridicule.',
     'exemples': [
-      'Ce texte est si ubuesque qu'il semble grotesque et absurde.',
+      'Ce texte est si ubuesque qu’il semble grotesque et absurde.',
       'Son discours ubuesque a laissé une impression de grotesque.'
     ],
     'synonymes': [
@@ -1095,7 +1095,7 @@ const words = [
     'mot': 'Univoque',
     'definition': 'Terme qui signifie sans ambiguïté, unique ou clair.',
     'exemples': [
-      'Ce texte est si univoque qu'il semble sans ambiguïté et unique.',
+      'Ce texte est si univoque qu’il semble sans ambiguïté et unique.',
       'Son discours univoque a laissé une impression de sans ambiguïté.'
     ],
     'synonymes': [
@@ -1165,7 +1165,7 @@ const words = [
     'mot': 'Venimeux',
     'definition': 'Terme qui signifie toxique, pernicieux ou mordant.',
     'exemples': [
-      'Ce texte est si venimeux qu'il semble toxique et pernicieux.',
+      'Ce texte est si venimeux qu’il semble toxique et pernicieux.',
       'Son discours venimeux a laissé une impression de toxique.'
     ],
     'synonymes': [
@@ -1179,7 +1179,7 @@ const words = [
     'mot': 'Vétille',
     'definition': 'Terme qui signifie broutille, bagatelle ou futilité.',
     'exemples': [
-      'Ce texte est si vétille qu'il semble broutille et bagatelle.',
+      'Ce texte est si vétille qu’il semble broutille et bagatelle.',
       'Son discours vétille a laissé une impression de broutille.'
     ],
     'synonymes': [
@@ -1207,7 +1207,7 @@ const words = [
     'mot': 'Vindicatif',
     'definition': 'Terme qui signifie rancunier, revanchard ou vengeur.',
     'exemples': [
-      'Ce texte est si vindicatif qu'il semble rancunier et revanchard.',
+      'Ce texte est si vindicatif qu’il semble rancunier et revanchard.',
       'Son discours vindicatif a laissé une impression de rancunier.'
     ],
     'synonymes': [
@@ -1247,14 +1247,14 @@ const words = [
   },
   {
     'mot': 'Xénophobie',
-    'definition': 'Terme qui signifie intolérance, peur de l'autre ou repli identitaire.',
+    'definition': 'Terme qui signifie intolérance, peur de l’autre ou repli identitaire.',
     'exemples': [
-      'La xénophobie est souvent associée à intolérance et peur de l'autre.',
+      'La xénophobie est souvent associée à intolérance et peur de l’autre.',
       'Dans cette situation, la xénophobie reflétait intolérance.'
     ],
     'synonymes': [
       'intolérance',
-      'peur de l'autre',
+      'peur de l’autre',
       'repli identitaire'
     ],
     'prononciation': '[x-é-n-o-p-h-o-b-i-e]'
@@ -1263,7 +1263,7 @@ const words = [
     'mot': 'Zélateur',
     'definition': 'Terme qui signifie partisan, défenseur ou adhérent.',
     'exemples': [
-      'Ce texte est si zélateur qu'il semble partisan et défenseur.',
+      'Ce texte est si zélateur qu’il semble partisan et défenseur.',
       'Son discours zélateur a laissé une impression de partisan.'
     ],
     'synonymes': [
@@ -1277,7 +1277,7 @@ const words = [
     'mot': 'Zélatrice',
     'definition': 'Terme qui signifie partisane, défenseure ou militante.',
     'exemples': [
-      'Ce texte est si zélatrice qu'il semble partisane et défenseure.',
+      'Ce texte est si zélatrice qu’il semble partisane et défenseure.',
       'Son discours zélatrice a laissé une impression de partisane.'
     ],
     'synonymes': [
@@ -1291,7 +1291,7 @@ const words = [
     'mot': 'Ziggourat',
     'definition': 'Terme qui signifie temple à étages, pyramide à gradins ou monument mésopotamien.',
     'exemples': [
-      'Ce texte est si ziggourat qu'il semble temple à étages et pyramide à gradins.',
+      'Ce texte est si ziggourat qu’il semble temple à étages et pyramide à gradins.',
       'Son discours ziggourat a laissé une impression de temple à étages.'
     ],
     'synonymes': [
@@ -1303,13 +1303,13 @@ const words = [
   },
   {
     'mot': 'Zythum',
-    'definition': 'Terme qui signifie bière de l'Égypte ancienne, breuvage ancien ou bière antique.',
+    'definition': 'Terme qui signifie bière de l’Égypte ancienne, breuvage ancien ou bière antique.',
     'exemples': [
-      'Ce texte est si zythum qu'il semble bière de l'Égypte ancienne et breuvage ancien.',
-      'Son discours zythum a laissé une impression de bière de l'Égypte ancienne.'
+      'Ce texte est si zythum qu’il semble bière de l’Égypte ancienne et breuvage ancien.',
+      'Son discours zythum a laissé une impression de bière de l’Égypte ancienne.'
     ],
     'synonymes': [
-      'bière de l'Égypte ancienne',
+      'bière de l’Égypte ancienne',
       'breuvage ancien',
       'bière antique'
     ],
@@ -1319,7 +1319,7 @@ const words = [
     'mot': 'Abstrus',
     'definition': 'Terme qui signifie complexe, difficile ou obscur.',
     'exemples': [
-      'Ce texte est si abstrus qu'il semble complexe et difficile.',
+      'Ce texte est si abstrus qu’il semble complexe et difficile.',
       'Son discours abstrus a laissé une impression de complexe.'
     ],
     'synonymes': [
@@ -1333,7 +1333,7 @@ const words = [
     'mot': 'Acéré',
     'definition': 'Terme qui signifie tranchant, affûté ou perçant.',
     'exemples': [
-      'Ce texte est si acéré qu'il semble tranchant et affûté.',
+      'Ce texte est si acéré qu’il semble tranchant et affûté.',
       'Son discours acéré a laissé une impression de tranchant.'
     ],
     'synonymes': [
@@ -1347,7 +1347,7 @@ const words = [
     'mot': 'Acolyte',
     'definition': 'Terme qui signifie assistant, compagnon ou adjoint.',
     'exemples': [
-      'Ce texte est si acolyte qu'il semble assistant et compagnon.',
+      'Ce texte est si acolyte qu’il semble assistant et compagnon.',
       'Son discours acolyte a laissé une impression de assistant.'
     ],
     'synonymes': [
@@ -1361,7 +1361,7 @@ const words = [
     'mot': 'Ad hoc',
     'definition': 'Terme qui signifie spécifique, approprié ou sur mesure.',
     'exemples': [
-      'Ce texte est si ad hoc qu'il semble spécifique et approprié.',
+      'Ce texte est si ad hoc qu’il semble spécifique et approprié.',
       'Son discours ad hoc a laissé une impression de spécifique.'
     ],
     'synonymes': [
@@ -1375,7 +1375,7 @@ const words = [
     'mot': 'Addenda',
     'definition': 'Terme qui signifie appendice, supplément ou annexe.',
     'exemples': [
-      'Ce texte est si addenda qu'il semble appendice et supplément.',
+      'Ce texte est si addenda qu’il semble appendice et supplément.',
       'Son discours addenda a laissé une impression de appendice.'
     ],
     'synonymes': [
@@ -1389,7 +1389,7 @@ const words = [
     'mot': 'Affable',
     'definition': 'Terme qui signifie aimable, courtois ou accueillant.',
     'exemples': [
-      'Ce texte est si affable qu'il semble aimable et courtois.',
+      'Ce texte est si affable qu’il semble aimable et courtois.',
       'Son discours affable a laissé une impression de aimable.'
     ],
     'synonymes': [
@@ -1417,7 +1417,7 @@ const words = [
     'mot': 'Agnostique',
     'definition': 'Terme qui signifie incroyant, sceptique ou dubitatif.',
     'exemples': [
-      'Ce texte est si agnostique qu'il semble incroyant et sceptique.',
+      'Ce texte est si agnostique qu’il semble incroyant et sceptique.',
       'Son discours agnostique a laissé une impression de incroyant.'
     ],
     'synonymes': [
@@ -1431,7 +1431,7 @@ const words = [
     'mot': 'Alambiqué',
     'definition': 'Terme qui signifie tortueux, compliqué ou embrouillé.',
     'exemples': [
-      'Ce texte est si alambiqué qu'il semble tortueux et compliqué.',
+      'Ce texte est si alambiqué qu’il semble tortueux et compliqué.',
       'Son discours alambiqué a laissé une impression de tortueux.'
     ],
     'synonymes': [
@@ -1473,7 +1473,7 @@ const words = [
     'mot': 'Ambivalent',
     'definition': 'Terme qui signifie équivoque, mitigé ou partagé.',
     'exemples': [
-      'Ce texte est si ambivalent qu'il semble équivoque et mitigé.',
+      'Ce texte est si ambivalent qu’il semble équivoque et mitigé.',
       'Son discours ambivalent a laissé une impression de équivoque.'
     ],
     'synonymes': [
@@ -1487,7 +1487,7 @@ const words = [
     'mot': 'Amphigouri',
     'definition': 'Terme qui signifie galimatias, charabia ou non‑sens.',
     'exemples': [
-      'Ce texte est si amphigouri qu'il semble galimatias et charabia.',
+      'Ce texte est si amphigouri qu’il semble galimatias et charabia.',
       'Son discours amphigouri a laissé une impression de galimatias.'
     ],
     'synonymes': [
@@ -1501,7 +1501,7 @@ const words = [
     'mot': 'Anachronique',
     'definition': 'Terme qui signifie dépassé, démodé ou obsolète.',
     'exemples': [
-      'Ce texte est si anachronique qu'il semble dépassé et démodé.',
+      'Ce texte est si anachronique qu’il semble dépassé et démodé.',
       'Son discours anachronique a laissé une impression de dépassé.'
     ],
     'synonymes': [
@@ -1599,7 +1599,7 @@ const words = [
     'mot': 'Apathique',
     'definition': 'Terme qui signifie indolent, mollasson ou léthargique.',
     'exemples': [
-      'Ce texte est si apathique qu'il semble indolent et mollasson.',
+      'Ce texte est si apathique qu’il semble indolent et mollasson.',
       'Son discours apathique a laissé une impression de indolent.'
     ],
     'synonymes': [
@@ -1627,7 +1627,7 @@ const words = [
     'mot': 'Apocryphe',
     'definition': 'Terme qui signifie douteux, faux ou non authentique.',
     'exemples': [
-      'Ce texte est si apocryphe qu'il semble douteux et faux.',
+      'Ce texte est si apocryphe qu’il semble douteux et faux.',
       'Son discours apocryphe a laissé une impression de douteux.'
     ],
     'synonymes': [
@@ -1655,7 +1655,7 @@ const words = [
     'mot': 'Apothéose',
     'definition': 'Terme qui signifie apogée, consécration ou sommet.',
     'exemples': [
-      'Ce texte est si apothéose qu'il semble apogée et consécration.',
+      'Ce texte est si apothéose qu’il semble apogée et consécration.',
       'Son discours apothéose a laissé une impression de apogée.'
     ],
     'synonymes': [
@@ -1669,7 +1669,7 @@ const words = [
     'mot': 'Apparatchik',
     'definition': 'Terme qui signifie bureaucrate, fonctionnaire ou responsable du parti.',
     'exemples': [
-      'Ce texte est si apparatchik qu'il semble bureaucrate et fonctionnaire.',
+      'Ce texte est si apparatchik qu’il semble bureaucrate et fonctionnaire.',
       'Son discours apparatchik a laissé une impression de bureaucrate.'
     ],
     'synonymes': [
@@ -1683,7 +1683,7 @@ const words = [
     'mot': 'Arcane',
     'definition': 'Terme qui signifie mystère, secret ou énigme.',
     'exemples': [
-      'Ce texte est si arcane qu'il semble mystère et secret.',
+      'Ce texte est si arcane qu’il semble mystère et secret.',
       'Son discours arcane a laissé une impression de mystère.'
     ],
     'synonymes': [
@@ -1725,7 +1725,7 @@ const words = [
     'mot': 'Auguste',
     'definition': 'Terme qui signifie vénérable, majestueux ou solennel.',
     'exemples': [
-      'Ce texte est si auguste qu'il semble vénérable et majestueux.',
+      'Ce texte est si auguste qu’il semble vénérable et majestueux.',
       'Son discours auguste a laissé une impression de vénérable.'
     ],
     'synonymes': [
@@ -1753,7 +1753,7 @@ const words = [
     'mot': 'Autochtone',
     'definition': 'Terme qui signifie indigène, natif ou aborigène.',
     'exemples': [
-      'Ce texte est si autochtone qu'il semble indigène et natif.',
+      'Ce texte est si autochtone qu’il semble indigène et natif.',
       'Son discours autochtone a laissé une impression de indigène.'
     ],
     'synonymes': [
@@ -1795,7 +1795,7 @@ const words = [
     'mot': 'Axiome',
     'definition': 'Terme qui signifie postulat, principe ou évidence.',
     'exemples': [
-      'Ce texte est si axiome qu'il semble postulat et principe.',
+      'Ce texte est si axiome qu’il semble postulat et principe.',
       'Son discours axiome a laissé une impression de postulat.'
     ],
     'synonymes': [
@@ -1809,7 +1809,7 @@ const words = [
     'mot': 'Baliverne',
     'definition': 'Terme qui signifie sornette, bagatelle ou fadaise.',
     'exemples': [
-      'Ce texte est si baliverne qu'il semble sornette et bagatelle.',
+      'Ce texte est si baliverne qu’il semble sornette et bagatelle.',
       'Son discours baliverne a laissé une impression de sornette.'
     ],
     'synonymes': [
@@ -1837,7 +1837,7 @@ const words = [
     'mot': 'Burlesque',
     'definition': 'Terme qui signifie cocasse, drôle ou fantaisiste.',
     'exemples': [
-      'Ce texte est si burlesque qu'il semble cocasse et drôle.',
+      'Ce texte est si burlesque qu’il semble cocasse et drôle.',
       'Son discours burlesque a laissé une impression de cocasse.'
     ],
     'synonymes': [
@@ -1851,7 +1851,7 @@ const words = [
     'mot': 'Byzantin',
     'definition': 'Terme qui signifie tatillon, complexe ou sophistiqué.',
     'exemples': [
-      'Ce texte est si byzantin qu'il semble tatillon et complexe.',
+      'Ce texte est si byzantin qu’il semble tatillon et complexe.',
       'Son discours byzantin a laissé une impression de tatillon.'
     ],
     'synonymes': [
@@ -1865,7 +1865,7 @@ const words = [
     'mot': 'Cacique',
     'definition': 'Terme qui signifie chef, leader ou dignitaire.',
     'exemples': [
-      'Ce texte est si cacique qu'il semble chef et leader.',
+      'Ce texte est si cacique qu’il semble chef et leader.',
       'Son discours cacique a laissé une impression de chef.'
     ],
     'synonymes': [
@@ -1893,7 +1893,7 @@ const words = [
     'mot': 'Catharsis',
     'definition': 'Terme qui signifie purification, libération ou décharge émotionnelle.',
     'exemples': [
-      'Ce texte est si catharsis qu'il semble purification et libération.',
+      'Ce texte est si catharsis qu’il semble purification et libération.',
       'Son discours catharsis a laissé une impression de purification.'
     ],
     'synonymes': [
@@ -2005,7 +2005,7 @@ const words = [
     'mot': 'Consensus',
     'definition': 'Terme qui signifie accord, concorde ou unanime.',
     'exemples': [
-      'Ce texte est si consensus qu'il semble accord et concorde.',
+      'Ce texte est si consensus qu’il semble accord et concorde.',
       'Son discours consensus a laissé une impression de accord.'
     ],
     'synonymes': [
@@ -2019,7 +2019,7 @@ const words = [
     'mot': 'Consubstantiel',
     'definition': 'Terme qui signifie indissociable, intrinsèque ou inséparable.',
     'exemples': [
-      'Ce texte est si consubstantiel qu'il semble indissociable et intrinsèque.',
+      'Ce texte est si consubstantiel qu’il semble indissociable et intrinsèque.',
       'Son discours consubstantiel a laissé une impression de indissociable.'
     ],
     'synonymes': [
@@ -2033,7 +2033,7 @@ const words = [
     'mot': 'Contingent',
     'definition': 'Terme qui signifie occasionnel, aléatoire ou accessoire.',
     'exemples': [
-      'Ce texte est si contingent qu'il semble occasionnel et aléatoire.',
+      'Ce texte est si contingent qu’il semble occasionnel et aléatoire.',
       'Son discours contingent a laissé une impression de occasionnel.'
     ],
     'synonymes': [
@@ -2061,7 +2061,7 @@ const words = [
     'mot': 'Contumace',
     'definition': 'Terme qui signifie condamnation par défaut, absence ou défaut.',
     'exemples': [
-      'Ce texte est si contumace qu'il semble condamnation par défaut et absence.',
+      'Ce texte est si contumace qu’il semble condamnation par défaut et absence.',
       'Son discours contumace a laissé une impression de condamnation par défaut.'
     ],
     'synonymes': [
@@ -2089,7 +2089,7 @@ const words = [
     'mot': 'Convivial',
     'definition': 'Terme qui signifie agréable, chaleureux ou amical.',
     'exemples': [
-      'Ce texte est si convivial qu'il semble agréable et chaleureux.',
+      'Ce texte est si convivial qu’il semble agréable et chaleureux.',
       'Son discours convivial a laissé une impression de agréable.'
     ],
     'synonymes': [
@@ -2103,7 +2103,7 @@ const words = [
     'mot': 'Coruscant',
     'definition': 'Terme qui signifie brillant, étincelant ou scintillant.',
     'exemples': [
-      'Ce texte est si coruscant qu'il semble brillant et étincelant.',
+      'Ce texte est si coruscant qu’il semble brillant et étincelant.',
       'Son discours coruscant a laissé une impression de brillant.'
     ],
     'synonymes': [
@@ -2131,7 +2131,7 @@ const words = [
     'mot': 'Cryptique',
     'definition': 'Terme qui signifie obscur, énigmatique ou secret.',
     'exemples': [
-      'Ce texte est si cryptique qu'il semble obscur et énigmatique.',
+      'Ce texte est si cryptique qu’il semble obscur et énigmatique.',
       'Son discours cryptique a laissé une impression de obscur.'
     ],
     'synonymes': [
@@ -2187,7 +2187,7 @@ const words = [
     'mot': 'Diatribe',
     'definition': 'Terme qui signifie pamphlet, attaque ou discours acerbe.',
     'exemples': [
-      'Ce texte est si diatribe qu'il semble pamphlet et attaque.',
+      'Ce texte est si diatribe qu’il semble pamphlet et attaque.',
       'Son discours diatribe a laissé une impression de pamphlet.'
     ],
     'synonymes': [
@@ -2201,7 +2201,7 @@ const words = [
     'mot': 'Didactique',
     'definition': 'Terme qui signifie pédagogique, instructif ou éducatif.',
     'exemples': [
-      'Ce texte est si didactique qu'il semble pédagogique et instructif.',
+      'Ce texte est si didactique qu’il semble pédagogique et instructif.',
       'Son discours didactique a laissé une impression de pédagogique.'
     ],
     'synonymes': [
@@ -2215,7 +2215,7 @@ const words = [
     'mot': 'Dilemme',
     'definition': 'Terme qui signifie alternative, choix difficile ou impasse.',
     'exemples': [
-      'Ce texte est si dilemme qu'il semble alternative et choix difficile.',
+      'Ce texte est si dilemme qu’il semble alternative et choix difficile.',
       'Son discours dilemme a laissé une impression de alternative.'
     ],
     'synonymes': [
@@ -2257,7 +2257,7 @@ const words = [
     'mot': 'Dithyrambique',
     'definition': 'Terme qui signifie élogieux, enthousiaste ou panégyrique.',
     'exemples': [
-      'Ce texte est si dithyrambique qu'il semble élogieux et enthousiaste.',
+      'Ce texte est si dithyrambique qu’il semble élogieux et enthousiaste.',
       'Son discours dithyrambique a laissé une impression de élogieux.'
     ],
     'synonymes': [
@@ -2285,7 +2285,7 @@ const words = [
     'mot': 'Elliptique',
     'definition': 'Terme qui signifie succinct, concise ou abrégé.',
     'exemples': [
-      'Ce texte est si elliptique qu'il semble succinct et concise.',
+      'Ce texte est si elliptique qu’il semble succinct et concise.',
       'Son discours elliptique a laissé une impression de succinct.'
     ],
     'synonymes': [
@@ -2341,7 +2341,7 @@ const words = [
     'mot': 'Émollient',
     'definition': 'Terme qui signifie adoucissant, apaisant ou calmant.',
     'exemples': [
-      'Ce texte est si émollient qu'il semble adoucissant et apaisant.',
+      'Ce texte est si émollient qu’il semble adoucissant et apaisant.',
       'Son discours émollient a laissé une impression de adoucissant.'
     ],
     'synonymes': [
@@ -2411,7 +2411,7 @@ const words = [
     'mot': 'Esthétique',
     'definition': 'Terme qui signifie beauté, harmonie ou élégance.',
     'exemples': [
-      'Ce texte est si esthétique qu'il semble beauté et harmonie.',
+      'Ce texte est si esthétique qu’il semble beauté et harmonie.',
       'Son discours esthétique a laissé une impression de beauté.'
     ],
     'synonymes': [
@@ -2453,7 +2453,7 @@ const words = [
     'mot': 'Exégèse',
     'definition': 'Terme qui signifie interprétation, analyse ou commentaire.',
     'exemples': [
-      'Ce texte est si exégèse qu'il semble interprétation et analyse.',
+      'Ce texte est si exégèse qu’il semble interprétation et analyse.',
       'Son discours exégèse a laissé une impression de interprétation.'
     ],
     'synonymes': [
@@ -2467,7 +2467,7 @@ const words = [
     'mot': 'Exhaustif',
     'definition': 'Terme qui signifie complet, total ou intégral.',
     'exemples': [
-      'Ce texte est si exhaustif qu'il semble complet et total.',
+      'Ce texte est si exhaustif qu’il semble complet et total.',
       'Son discours exhaustif a laissé une impression de complet.'
     ],
     'synonymes': [
@@ -2481,7 +2481,7 @@ const words = [
     'mot': 'Exogène',
     'definition': 'Terme qui signifie extérieur, externe ou allochtone.',
     'exemples': [
-      'Ce texte est si exogène qu'il semble extérieur et externe.',
+      'Ce texte est si exogène qu’il semble extérieur et externe.',
       'Son discours exogène a laissé une impression de extérieur.'
     ],
     'synonymes': [
@@ -2493,15 +2493,15 @@ const words = [
   },
   {
     'mot': 'Exotique',
-    'definition': 'Terme qui signifie étrange, pittoresque ou d'ailleurs.',
+    'definition': 'Terme qui signifie étrange, pittoresque ou d’ailleurs.',
     'exemples': [
-      'Ce texte est si exotique qu'il semble étrange et pittoresque.',
+      'Ce texte est si exotique qu’il semble étrange et pittoresque.',
       'Son discours exotique a laissé une impression de étrange.'
     ],
     'synonymes': [
       'étrange',
       'pittoresque',
-      'd'ailleurs'
+      'd’ailleurs'
     ],
     'prononciation': '[e-x-o-t-i-q-u-e]'
   },
@@ -2523,7 +2523,7 @@ const words = [
     'mot': 'Fastidieux',
     'definition': 'Terme qui signifie ennuyeux, laborieux ou long.',
     'exemples': [
-      'Ce texte est si fastidieux qu'il semble ennuyeux et laborieux.',
+      'Ce texte est si fastidieux qu’il semble ennuyeux et laborieux.',
       'Son discours fastidieux a laissé une impression de ennuyeux.'
     ],
     'synonymes': [
@@ -2537,7 +2537,7 @@ const words = [
     'mot': 'Féru',
     'definition': 'Terme qui signifie passionné, érudit ou amateur.',
     'exemples': [
-      'Ce texte est si féru qu'il semble passionné et érudit.',
+      'Ce texte est si féru qu’il semble passionné et érudit.',
       'Son discours féru a laissé une impression de passionné.'
     ],
     'synonymes': [
@@ -2551,7 +2551,7 @@ const words = [
     'mot': 'Fluxion',
     'definition': 'Terme qui signifie inflammation, congestion ou gonflement.',
     'exemples': [
-      'Ce texte est si fluxion qu'il semble inflammation et congestion.',
+      'Ce texte est si fluxion qu’il semble inflammation et congestion.',
       'Son discours fluxion a laissé une impression de inflammation.'
     ],
     'synonymes': [
@@ -2579,7 +2579,7 @@ const words = [
     'mot': 'Fugace',
     'definition': 'Terme qui signifie éphémère, passager ou transitoire.',
     'exemples': [
-      'Ce texte est si fugace qu'il semble éphémère et passager.',
+      'Ce texte est si fugace qu’il semble éphémère et passager.',
       'Son discours fugace a laissé une impression de éphémère.'
     ],
     'synonymes': [
@@ -2593,7 +2593,7 @@ const words = [
     'mot': 'Fuligineux',
     'definition': 'Terme qui signifie noirâtre, fumeux ou opaque.',
     'exemples': [
-      'Ce texte est si fuligineux qu'il semble noirâtre et fumeux.',
+      'Ce texte est si fuligineux qu’il semble noirâtre et fumeux.',
       'Son discours fuligineux a laissé une impression de noirâtre.'
     ],
     'synonymes': [
@@ -2621,7 +2621,7 @@ const words = [
     'mot': 'Garrigue',
     'definition': 'Terme qui signifie maquis, brousse ou lande.',
     'exemples': [
-      'Ce texte est si garrigue qu'il semble maquis et brousse.',
+      'Ce texte est si garrigue qu’il semble maquis et brousse.',
       'Son discours garrigue a laissé une impression de maquis.'
     ],
     'synonymes': [
@@ -2635,7 +2635,7 @@ const words = [
     'mot': 'Grandiloquent',
     'definition': 'Terme qui signifie pompeux, ampoulé ou emphatique.',
     'exemples': [
-      'Ce texte est si grandiloquent qu'il semble pompeux et ampoulé.',
+      'Ce texte est si grandiloquent qu’il semble pompeux et ampoulé.',
       'Son discours grandiloquent a laissé une impression de pompeux.'
     ],
     'synonymes': [
@@ -2663,7 +2663,7 @@ const words = [
     'mot': 'Halo',
     'definition': 'Terme qui signifie auréole, couronne ou rayonnement.',
     'exemples': [
-      'Ce texte est si halo qu'il semble auréole et couronne.',
+      'Ce texte est si halo qu’il semble auréole et couronne.',
       'Son discours halo a laissé une impression de auréole.'
     ],
     'synonymes': [
@@ -2677,7 +2677,7 @@ const words = [
     'mot': 'Hasardeux',
     'definition': 'Terme qui signifie aléatoire, risqué ou incertain.',
     'exemples': [
-      'Ce texte est si hasardeux qu'il semble aléatoire et risqué.',
+      'Ce texte est si hasardeux qu’il semble aléatoire et risqué.',
       'Son discours hasardeux a laissé une impression de aléatoire.'
     ],
     'synonymes': [
@@ -2691,7 +2691,7 @@ const words = [
     'mot': 'Homérique',
     'definition': 'Terme qui signifie épique, légendaire ou grandiose.',
     'exemples': [
-      'Ce texte est si homérique qu'il semble épique et légendaire.',
+      'Ce texte est si homérique qu’il semble épique et légendaire.',
       'Son discours homérique a laissé une impression de épique.'
     ],
     'synonymes': [
@@ -2705,7 +2705,7 @@ const words = [
     'mot': 'Hubris',
     'definition': 'Terme qui signifie orgueil, démesure ou arrogance.',
     'exemples': [
-      'Ce texte est si hubris qu'il semble orgueil et démesure.',
+      'Ce texte est si hubris qu’il semble orgueil et démesure.',
       'Son discours hubris a laissé une impression de orgueil.'
     ],
     'synonymes': [
@@ -2761,7 +2761,7 @@ const words = [
     'mot': 'Immuable',
     'definition': 'Terme qui signifie invariable, fixe ou constant.',
     'exemples': [
-      'Ce texte est si immuable qu'il semble invariable et fixe.',
+      'Ce texte est si immuable qu’il semble invariable et fixe.',
       'Son discours immuable a laissé une impression de invariable.'
     ],
     'synonymes': [
@@ -2775,7 +2775,7 @@ const words = [
     'mot': 'Immanent',
     'definition': 'Terme qui signifie intrinsèque, interne ou inhérent.',
     'exemples': [
-      'Ce texte est si immanent qu'il semble intrinsèque et interne.',
+      'Ce texte est si immanent qu’il semble intrinsèque et interne.',
       'Son discours immanent a laissé une impression de intrinsèque.'
     ],
     'synonymes': [
@@ -2789,7 +2789,7 @@ const words = [
     'mot': 'Implacable',
     'definition': 'Terme qui signifie inflexible, inévitable ou impitoyable.',
     'exemples': [
-      'Ce texte est si implacable qu'il semble inflexible et inévitable.',
+      'Ce texte est si implacable qu’il semble inflexible et inévitable.',
       'Son discours implacable a laissé une impression de inflexible.'
     ],
     'synonymes': [
@@ -2803,7 +2803,7 @@ const words = [
     'mot': 'Impétueux',
     'definition': 'Terme qui signifie fougueux, impulsif ou véhément.',
     'exemples': [
-      'Ce texte est si impétueux qu'il semble fougueux et impulsif.',
+      'Ce texte est si impétueux qu’il semble fougueux et impulsif.',
       'Son discours impétueux a laissé une impression de fougueux.'
     ],
     'synonymes': [
@@ -2845,7 +2845,7 @@ const words = [
     'mot': 'Incipit',
     'definition': 'Terme qui signifie début, commencement ou ouverture.',
     'exemples': [
-      'Ce texte est si incipit qu'il semble début et commencement.',
+      'Ce texte est si incipit qu’il semble début et commencement.',
       'Son discours incipit a laissé une impression de début.'
     ],
     'synonymes': [
@@ -2859,7 +2859,7 @@ const words = [
     'mot': 'Incoercible',
     'definition': 'Terme qui signifie irrésistible, incontrôlable ou impossible à contenir.',
     'exemples': [
-      'Ce texte est si incoercible qu'il semble irrésistible et incontrôlable.',
+      'Ce texte est si incoercible qu’il semble irrésistible et incontrôlable.',
       'Son discours incoercible a laissé une impression de irrésistible.'
     ],
     'synonymes': [
@@ -2873,7 +2873,7 @@ const words = [
     'mot': 'Incongru',
     'definition': 'Terme qui signifie déplacé, insolite ou inadéquat.',
     'exemples': [
-      'Ce texte est si incongru qu'il semble déplacé et insolite.',
+      'Ce texte est si incongru qu’il semble déplacé et insolite.',
       'Son discours incongru a laissé une impression de déplacé.'
     ],
     'synonymes': [
@@ -2887,7 +2887,7 @@ const words = [
     'mot': 'Indéfectible',
     'definition': 'Terme qui signifie inlassable, permanent ou inaliénable.',
     'exemples': [
-      'Ce texte est si indéfectible qu'il semble inlassable et permanent.',
+      'Ce texte est si indéfectible qu’il semble inlassable et permanent.',
       'Son discours indéfectible a laissé une impression de inlassable.'
     ],
     'synonymes': [
@@ -2901,7 +2901,7 @@ const words = [
     'mot': 'Indolent',
     'definition': 'Terme qui signifie nonchalant, paresseux ou languissant.',
     'exemples': [
-      'Ce texte est si indolent qu'il semble nonchalant et paresseux.',
+      'Ce texte est si indolent qu’il semble nonchalant et paresseux.',
       'Son discours indolent a laissé une impression de nonchalant.'
     ],
     'synonymes': [
@@ -2915,7 +2915,7 @@ const words = [
     'mot': 'Inexorable',
     'definition': 'Terme qui signifie implacable, inévitable ou inflexible.',
     'exemples': [
-      'Ce texte est si inexorable qu'il semble implacable et inévitable.',
+      'Ce texte est si inexorable qu’il semble implacable et inévitable.',
       'Son discours inexorable a laissé une impression de implacable.'
     ],
     'synonymes': [
@@ -2943,7 +2943,7 @@ const words = [
     'mot': 'Infinitésimal',
     'definition': 'Terme qui signifie minuscule, microscopique ou imperceptible.',
     'exemples': [
-      'Ce texte est si infinitésimal qu'il semble minuscule et microscopique.',
+      'Ce texte est si infinitésimal qu’il semble minuscule et microscopique.',
       'Son discours infinitésimal a laissé une impression de minuscule.'
     ],
     'synonymes': [
@@ -2971,7 +2971,7 @@ const words = [
     'mot': 'Inimitié',
     'definition': 'Terme qui signifie hostilité, rancune ou animosité.',
     'exemples': [
-      'Ce texte est si inimitié qu'il semble hostilité et rancune.',
+      'Ce texte est si inimitié qu’il semble hostilité et rancune.',
       'Son discours inimitié a laissé une impression de hostilité.'
     ],
     'synonymes': [
@@ -2985,7 +2985,7 @@ const words = [
     'mot': 'Insondable',
     'definition': 'Terme qui signifie impénétrable, mystérieux ou abysmal.',
     'exemples': [
-      'Ce texte est si insondable qu'il semble impénétrable et mystérieux.',
+      'Ce texte est si insondable qu’il semble impénétrable et mystérieux.',
       'Son discours insondable a laissé une impression de impénétrable.'
     ],
     'synonymes': [
@@ -3013,7 +3013,7 @@ const words = [
     'mot': 'Intangible',
     'definition': 'Terme qui signifie immatériel, impalpable ou invisible.',
     'exemples': [
-      'Ce texte est si intangible qu'il semble immatériel et impalpable.',
+      'Ce texte est si intangible qu’il semble immatériel et impalpable.',
       'Son discours intangible a laissé une impression de immatériel.'
     ],
     'synonymes': [
@@ -3027,7 +3027,7 @@ const words = [
     'mot': 'Intempestif',
     'definition': 'Terme qui signifie inopportun, malvenu ou inattendu.',
     'exemples': [
-      'Ce texte est si intempestif qu'il semble inopportun et malvenu.',
+      'Ce texte est si intempestif qu’il semble inopportun et malvenu.',
       'Son discours intempestif a laissé une impression de inopportun.'
     ],
     'synonymes': [
@@ -3041,7 +3041,7 @@ const words = [
     'mot': 'Interlope',
     'definition': 'Terme qui signifie douteux, louche ou suspect.',
     'exemples': [
-      'Ce texte est si interlope qu'il semble douteux et louche.',
+      'Ce texte est si interlope qu’il semble douteux et louche.',
       'Son discours interlope a laissé une impression de douteux.'
     ],
     'synonymes': [
@@ -3055,7 +3055,7 @@ const words = [
     'mot': 'Interstice',
     'definition': 'Terme qui signifie intervalle, espace ou fissure.',
     'exemples': [
-      'Ce texte est si interstice qu'il semble intervalle et espace.',
+      'Ce texte est si interstice qu’il semble intervalle et espace.',
       'Son discours interstice a laissé une impression de intervalle.'
     ],
     'synonymes': [
@@ -3083,7 +3083,7 @@ const words = [
     'mot': 'Intrinsèque',
     'definition': 'Terme qui signifie inhérent, essentiel ou naturel.',
     'exemples': [
-      'Ce texte est si intrinsèque qu'il semble inhérent et essentiel.',
+      'Ce texte est si intrinsèque qu’il semble inhérent et essentiel.',
       'Son discours intrinsèque a laissé une impression de inhérent.'
     ],
     'synonymes': [
@@ -3111,7 +3111,7 @@ const words = [
     'mot': 'Irrémissible',
     'definition': 'Terme qui signifie impardonnable, inévitable ou irrévocable.',
     'exemples': [
-      'Ce texte est si irrémissible qu'il semble impardonnable et inévitable.',
+      'Ce texte est si irrémissible qu’il semble impardonnable et inévitable.',
       'Son discours irrémissible a laissé une impression de impardonnable.'
     ],
     'synonymes': [
@@ -3153,7 +3153,7 @@ const words = [
     'mot': 'Jargon',
     'definition': 'Terme qui signifie langage spécialisé, argot ou sabir.',
     'exemples': [
-      'Ce texte est si jargon qu'il semble langage spécialisé et argot.',
+      'Ce texte est si jargon qu’il semble langage spécialisé et argot.',
       'Son discours jargon a laissé une impression de langage spécialisé.'
     ],
     'synonymes': [
@@ -3195,7 +3195,7 @@ const words = [
     'mot': 'Kabbalistique',
     'definition': 'Terme qui signifie mystique, occultiste ou ésotérique.',
     'exemples': [
-      'Ce texte est si kabbalistique qu'il semble mystique et occultiste.',
+      'Ce texte est si kabbalistique qu’il semble mystique et occultiste.',
       'Son discours kabbalistique a laissé une impression de mystique.'
     ],
     'synonymes': [
@@ -3209,7 +3209,7 @@ const words = [
     'mot': 'Kakemphaton',
     'definition': 'Terme qui signifie cacophonie, discordance ou dissonance.',
     'exemples': [
-      'Ce texte est si kakemphaton qu'il semble cacophonie et discordance.',
+      'Ce texte est si kakemphaton qu’il semble cacophonie et discordance.',
       'Son discours kakemphaton a laissé une impression de cacophonie.'
     ],
     'synonymes': [
@@ -3223,7 +3223,7 @@ const words = [
     'mot': 'Kyrielle',
     'definition': 'Terme qui signifie multitude, myriade ou florilège.',
     'exemples': [
-      'Ce texte est si kyrielle qu'il semble multitude et myriade.',
+      'Ce texte est si kyrielle qu’il semble multitude et myriade.',
       'Son discours kyrielle a laissé une impression de multitude.'
     ],
     'synonymes': [
@@ -3251,7 +3251,7 @@ const words = [
     'mot': 'Laïus',
     'definition': 'Terme qui signifie discours, baratin ou prêche.',
     'exemples': [
-      'Ce texte est si laïus qu'il semble discours et baratin.',
+      'Ce texte est si laïus qu’il semble discours et baratin.',
       'Son discours laïus a laissé une impression de discours.'
     ],
     'synonymes': [
@@ -3279,7 +3279,7 @@ const words = [
     'mot': 'Libertin',
     'definition': 'Terme qui signifie débauché, sensuel ou licencieux.',
     'exemples': [
-      'Ce texte est si libertin qu'il semble débauché et sensuel.',
+      'Ce texte est si libertin qu’il semble débauché et sensuel.',
       'Son discours libertin a laissé une impression de débauché.'
     ],
     'synonymes': [
@@ -3321,7 +3321,7 @@ const words = [
     'mot': 'Luxuriant',
     'definition': 'Terme qui signifie abondant, foisonnant ou opulent.',
     'exemples': [
-      'Ce texte est si luxuriant qu'il semble abondant et foisonnant.',
+      'Ce texte est si luxuriant qu’il semble abondant et foisonnant.',
       'Son discours luxuriant a laissé une impression de abondant.'
     ],
     'synonymes': [
@@ -3335,7 +3335,7 @@ const words = [
     'mot': 'Maelström',
     'definition': 'Terme qui signifie tourbillon, tourmente ou vortex.',
     'exemples': [
-      'Ce texte est si maelström qu'il semble tourbillon et tourmente.',
+      'Ce texte est si maelström qu’il semble tourbillon et tourmente.',
       'Son discours maelström a laissé une impression de tourbillon.'
     ],
     'synonymes': [
@@ -3349,7 +3349,7 @@ const words = [
     'mot': 'Magnanime',
     'definition': 'Terme qui signifie généreux, clément ou noble.',
     'exemples': [
-      'Ce texte est si magnanime qu'il semble généreux et clément.',
+      'Ce texte est si magnanime qu’il semble généreux et clément.',
       'Son discours magnanime a laissé une impression de généreux.'
     ],
     'synonymes': [
@@ -3361,13 +3361,13 @@ const words = [
   },
   {
     'mot': 'Maïeutique',
-    'definition': 'Terme qui signifie art d'accoucher les esprits, élucidation ou socratisme.',
+    'definition': 'Terme qui signifie art d’accoucher les esprits, élucidation ou socratisme.',
     'exemples': [
-      'Ce texte est si maïeutique qu'il semble art d'accoucher les esprits et élucidation.',
-      'Son discours maïeutique a laissé une impression de art d'accoucher les esprits.'
+      'Ce texte est si maïeutique qu’il semble art d’accoucher les esprits et élucidation.',
+      'Son discours maïeutique a laissé une impression de art d’accoucher les esprits.'
     ],
     'synonymes': [
-      'art d'accoucher les esprits',
+      'art d’accoucher les esprits',
       'élucidation',
       'socratisme'
     ],
@@ -3419,7 +3419,7 @@ const words = [
     'mot': 'Méandres',
     'definition': 'Terme qui signifie détours, sinuosités ou circonvolutions.',
     'exemples': [
-      'Ce texte est si méandres qu'il semble détours et sinuosités.',
+      'Ce texte est si méandres qu’il semble détours et sinuosités.',
       'Son discours méandres a laissé une impression de détours.'
     ],
     'synonymes': [
@@ -3433,7 +3433,7 @@ const words = [
     'mot': 'Melliflu',
     'definition': 'Terme qui signifie doux, suave ou mielleux.',
     'exemples': [
-      'Ce texte est si melliflu qu'il semble doux et suave.',
+      'Ce texte est si melliflu qu’il semble doux et suave.',
       'Son discours melliflu a laissé une impression de doux.'
     ],
     'synonymes': [
@@ -3447,7 +3447,7 @@ const words = [
     'mot': 'Mélomane',
     'definition': 'Terme qui signifie amateur de musique, musicophile ou musicien.',
     'exemples': [
-      'Ce texte est si mélomane qu'il semble amateur de musique et musicophile.',
+      'Ce texte est si mélomane qu’il semble amateur de musique et musicophile.',
       'Son discours mélomane a laissé une impression de amateur de musique.'
     ],
     'synonymes': [
@@ -3461,7 +3461,7 @@ const words = [
     'mot': 'Mercantile',
     'definition': 'Terme qui signifie cupide, vénal ou matérialiste.',
     'exemples': [
-      'Ce texte est si mercantile qu'il semble cupide et vénal.',
+      'Ce texte est si mercantile qu’il semble cupide et vénal.',
       'Son discours mercantile a laissé une impression de cupide.'
     ],
     'synonymes': [
@@ -3487,13 +3487,13 @@ const words = [
   },
   {
     'mot': 'Misanthropie',
-    'definition': 'Terme qui signifie haine de l'humanité, antisociabilité ou aversion pour les humains.',
+    'definition': 'Terme qui signifie haine de l’humanité, antisociabilité ou aversion pour les humains.',
     'exemples': [
-      'La misanthropie est souvent associée à haine de l'humanité et antisociabilité.',
-      'Dans cette situation, la misanthropie reflétait haine de l'humanité.'
+      'La misanthropie est souvent associée à haine de l’humanité et antisociabilité.',
+      'Dans cette situation, la misanthropie reflétait haine de l’humanité.'
     ],
     'synonymes': [
-      'haine de l'humanité',
+      'haine de l’humanité',
       'antisociabilité',
       'aversion pour les humains'
     ],
@@ -3517,7 +3517,7 @@ const words = [
     'mot': 'Monologique',
     'definition': 'Terme qui signifie monologue, discours unilatéral ou univoque.',
     'exemples': [
-      'Ce texte est si monologique qu'il semble monologue et discours unilatéral.',
+      'Ce texte est si monologique qu’il semble monologue et discours unilatéral.',
       'Son discours monologique a laissé une impression de monologue.'
     ],
     'synonymes': [
@@ -3531,7 +3531,7 @@ const words = [
     'mot': 'Moribond',
     'definition': 'Terme qui signifie agonisant, mourant ou déclinant.',
     'exemples': [
-      'Ce texte est si moribond qu'il semble agonisant et mourant.',
+      'Ce texte est si moribond qu’il semble agonisant et mourant.',
       'Son discours moribond a laissé une impression de agonisant.'
     ],
     'synonymes': [
@@ -3573,7 +3573,7 @@ const words = [
     'mot': 'Nonobstant',
     'definition': 'Terme qui signifie malgré, en dépit de ou toutefois.',
     'exemples': [
-      'Ce texte est si nonobstant qu'il semble malgré et en dépit de.',
+      'Ce texte est si nonobstant qu’il semble malgré et en dépit de.',
       'Son discours nonobstant a laissé une impression de malgré.'
     ],
     'synonymes': [
@@ -3587,7 +3587,7 @@ const words = [
     'mot': 'Numismatique',
     'definition': 'Terme qui signifie étude des monnaies, collection de pièces ou science des monnaies.',
     'exemples': [
-      'Ce texte est si numismatique qu'il semble étude des monnaies et collection de pièces.',
+      'Ce texte est si numismatique qu’il semble étude des monnaies et collection de pièces.',
       'Son discours numismatique a laissé une impression de étude des monnaies.'
     ],
     'synonymes': [
@@ -3599,14 +3599,14 @@ const words = [
   },
   {
     'mot': 'Obnubiler',
-    'definition': 'Terme qui signifie obséder, saturer l'esprit ou aveugler.',
+    'definition': 'Terme qui signifie obséder, saturer l’esprit ou aveugler.',
     'exemples': [
-      'Il a décidé de obnubiler, montrant ainsi obséder et saturer l'esprit.',
+      'Il a décidé de obnubiler, montrant ainsi obséder et saturer l’esprit.',
       'Ils ont dû obnubiler pour atteindre obséder.'
     ],
     'synonymes': [
       'obséder',
-      'saturer l'esprit',
+      'saturer l’esprit',
       'aveugler'
     ],
     'prononciation': '[o-b-n-u-b-i-l-e-r]'
@@ -3615,7 +3615,7 @@ const words = [
     'mot': 'Obsolète',
     'definition': 'Terme qui signifie dépassé, désuet ou périmé.',
     'exemples': [
-      'Ce texte est si obsolète qu'il semble dépassé et désuet.',
+      'Ce texte est si obsolète qu’il semble dépassé et désuet.',
       'Son discours obsolète a laissé une impression de dépassé.'
     ],
     'synonymes': [
@@ -3657,7 +3657,7 @@ const words = [
     'mot': 'Oiseux',
     'definition': 'Terme qui signifie inutile, vain ou stérile.',
     'exemples': [
-      'Ce texte est si oiseux qu'il semble inutile et vain.',
+      'Ce texte est si oiseux qu’il semble inutile et vain.',
       'Son discours oiseux a laissé une impression de inutile.'
     ],
     'synonymes': [
@@ -3671,7 +3671,7 @@ const words = [
     'mot': 'Onirique',
     'definition': 'Terme qui signifie rêveur, fantastique ou imaginaire.',
     'exemples': [
-      'Ce texte est si onirique qu'il semble rêveur et fantastique.',
+      'Ce texte est si onirique qu’il semble rêveur et fantastique.',
       'Son discours onirique a laissé une impression de rêveur.'
     ],
     'synonymes': [
@@ -3699,7 +3699,7 @@ const words = [
     'mot': 'Oracle',
     'definition': 'Terme qui signifie prophète, augure ou prédiction.',
     'exemples': [
-      'Ce texte est si oracle qu'il semble prophète et augure.',
+      'Ce texte est si oracle qu’il semble prophète et augure.',
       'Son discours oracle a laissé une impression de prophète.'
     ],
     'synonymes': [
@@ -3727,7 +3727,7 @@ const words = [
     'mot': 'Orthodoxe',
     'definition': 'Terme qui signifie conformiste, traditionnel ou dogmatique.',
     'exemples': [
-      'Ce texte est si orthodoxe qu'il semble conformiste et traditionnel.',
+      'Ce texte est si orthodoxe qu’il semble conformiste et traditionnel.',
       'Son discours orthodoxe a laissé une impression de conformiste.'
     ],
     'synonymes': [
@@ -3783,7 +3783,7 @@ const words = [
     'mot': 'Palindrome',
     'definition': 'Terme qui signifie mot palindromique, symétrique ou lecture inversée.',
     'exemples': [
-      'Ce texte est si palindrome qu'il semble mot palindromique et symétrique.',
+      'Ce texte est si palindrome qu’il semble mot palindromique et symétrique.',
       'Son discours palindrome a laissé une impression de mot palindromique.'
     ],
     'synonymes': [
@@ -3797,7 +3797,7 @@ const words = [
     'mot': 'Panégyrique',
     'definition': 'Terme qui signifie éloge, discours laudatif ou apologie.',
     'exemples': [
-      'Ce texte est si panégyrique qu'il semble éloge et discours laudatif.',
+      'Ce texte est si panégyrique qu’il semble éloge et discours laudatif.',
       'Son discours panégyrique a laissé une impression de éloge.'
     ],
     'synonymes': [
@@ -3811,7 +3811,7 @@ const words = [
     'mot': 'Panoptique',
     'definition': 'Terme qui signifie observatoire, tour de surveillance ou panorama.',
     'exemples': [
-      'Ce texte est si panoptique qu'il semble observatoire et tour de surveillance.',
+      'Ce texte est si panoptique qu’il semble observatoire et tour de surveillance.',
       'Son discours panoptique a laissé une impression de observatoire.'
     ],
     'synonymes': [
@@ -3825,7 +3825,7 @@ const words = [
     'mot': 'Paradigmatique',
     'definition': 'Terme qui signifie exemplaire, modèle ou archétypal.',
     'exemples': [
-      'Ce texte est si paradigmatique qu'il semble exemplaire et modèle.',
+      'Ce texte est si paradigmatique qu’il semble exemplaire et modèle.',
       'Son discours paradigmatique a laissé une impression de exemplaire.'
     ],
     'synonymes': [
@@ -3839,7 +3839,7 @@ const words = [
     'mot': 'Paronyme',
     'definition': 'Terme qui signifie mot ressemblant, quasi‑homonyme ou faux ami.',
     'exemples': [
-      'Ce texte est si paronyme qu'il semble mot ressemblant et quasi‑homonyme.',
+      'Ce texte est si paronyme qu’il semble mot ressemblant et quasi‑homonyme.',
       'Son discours paronyme a laissé une impression de mot ressemblant.'
     ],
     'synonymes': [
@@ -3895,7 +3895,7 @@ const words = [
     'mot': 'Pernicieux',
     'definition': 'Terme qui signifie nuisible, dangereux ou pervers.',
     'exemples': [
-      'Ce texte est si pernicieux qu'il semble nuisible et dangereux.',
+      'Ce texte est si pernicieux qu’il semble nuisible et dangereux.',
       'Son discours pernicieux a laissé une impression de nuisible.'
     ],
     'synonymes': [
@@ -3923,7 +3923,7 @@ const words = [
     'mot': 'Pétulant',
     'definition': 'Terme qui signifie turbulent, exubérant ou impétueux.',
     'exemples': [
-      'Ce texte est si pétulant qu'il semble turbulent et exubérant.',
+      'Ce texte est si pétulant qu’il semble turbulent et exubérant.',
       'Son discours pétulant a laissé une impression de turbulent.'
     ],
     'synonymes': [
@@ -3937,7 +3937,7 @@ const words = [
     'mot': 'Philistin',
     'definition': 'Terme qui signifie inculte, bourgeois ou prosaïque.',
     'exemples': [
-      'Ce texte est si philistin qu'il semble inculte et bourgeois.',
+      'Ce texte est si philistin qu’il semble inculte et bourgeois.',
       'Son discours philistin a laissé une impression de inculte.'
     ],
     'synonymes': [
@@ -3951,7 +3951,7 @@ const words = [
     'mot': 'Philanthrope',
     'definition': 'Terme qui signifie bienfaiteur, altruiste ou généreux.',
     'exemples': [
-      'Ce texte est si philanthrope qu'il semble bienfaiteur et altruiste.',
+      'Ce texte est si philanthrope qu’il semble bienfaiteur et altruiste.',
       'Son discours philanthrope a laissé une impression de bienfaiteur.'
     ],
     'synonymes': [
@@ -3965,7 +3965,7 @@ const words = [
     'mot': 'Phonétique',
     'definition': 'Terme qui signifie prononciation, sons ou phonologie.',
     'exemples': [
-      'Ce texte est si phonétique qu'il semble prononciation et sons.',
+      'Ce texte est si phonétique qu’il semble prononciation et sons.',
       'Son discours phonétique a laissé une impression de prononciation.'
     ],
     'synonymes': [
@@ -4021,7 +4021,7 @@ const words = [
     'mot': 'Pléonasme',
     'definition': 'Terme qui signifie redondance, répétition ou tautologie.',
     'exemples': [
-      'Ce texte est si pléonasme qu'il semble redondance et répétition.',
+      'Ce texte est si pléonasme qu’il semble redondance et répétition.',
       'Son discours pléonasme a laissé une impression de redondance.'
     ],
     'synonymes': [
@@ -4063,7 +4063,7 @@ const words = [
     'mot': 'Pléthorique',
     'definition': 'Terme qui signifie surabondant, excessif ou profus.',
     'exemples': [
-      'Ce texte est si pléthorique qu'il semble surabondant et excessif.',
+      'Ce texte est si pléthorique qu’il semble surabondant et excessif.',
       'Son discours pléthorique a laissé une impression de surabondant.'
     ],
     'synonymes': [
@@ -4077,7 +4077,7 @@ const words = [
     'mot': 'Polyphonique',
     'definition': 'Terme qui signifie multivocal, à plusieurs voix ou harmonique.',
     'exemples': [
-      'Ce texte est si polyphonique qu'il semble multivocal et à plusieurs voix.',
+      'Ce texte est si polyphonique qu’il semble multivocal et à plusieurs voix.',
       'Son discours polyphonique a laissé une impression de multivocal.'
     ],
     'synonymes': [
@@ -4089,13 +4089,13 @@ const words = [
   },
   {
     'mot': 'Praxéologie',
-    'definition': 'Terme qui signifie science de l'action, théorie des pratiques ou étude des actions.',
+    'definition': 'Terme qui signifie science de l’action, théorie des pratiques ou étude des actions.',
     'exemples': [
-      'La praxéologie est souvent associée à science de l'action et théorie des pratiques.',
-      'Dans cette situation, la praxéologie reflétait science de l'action.'
+      'La praxéologie est souvent associée à science de l’action et théorie des pratiques.',
+      'Dans cette situation, la praxéologie reflétait science de l’action.'
     ],
     'synonymes': [
-      'science de l'action',
+      'science de l’action',
       'théorie des pratiques',
       'étude des actions'
     ],
@@ -4105,7 +4105,7 @@ const words = [
     'mot': 'Préambule',
     'definition': 'Terme qui signifie introduction, préface ou avant‑propos.',
     'exemples': [
-      'Ce texte est si préambule qu'il semble introduction et préface.',
+      'Ce texte est si préambule qu’il semble introduction et préface.',
       'Son discours préambule a laissé une impression de introduction.'
     ],
     'synonymes': [
@@ -4119,7 +4119,7 @@ const words = [
     'mot': 'Préréglage',
     'definition': 'Terme qui signifie paramétrage, configuration initiale ou réglage prédéfini.',
     'exemples': [
-      'Ce texte est si préréglage qu'il semble paramétrage et configuration initiale.',
+      'Ce texte est si préréglage qu’il semble paramétrage et configuration initiale.',
       'Son discours préréglage a laissé une impression de paramétrage.'
     ],
     'synonymes': [
@@ -4161,7 +4161,7 @@ const words = [
     'mot': 'Prodigue',
     'definition': 'Terme qui signifie dépensier, généreux ou profus.',
     'exemples': [
-      'Ce texte est si prodigue qu'il semble dépensier et généreux.',
+      'Ce texte est si prodigue qu’il semble dépensier et généreux.',
       'Son discours prodigue a laissé une impression de dépensier.'
     ],
     'synonymes': [
@@ -4203,7 +4203,7 @@ const words = [
     'mot': 'Prolifique',
     'definition': 'Terme qui signifie fertile, productif ou abondant.',
     'exemples': [
-      'Ce texte est si prolifique qu'il semble fertile et productif.',
+      'Ce texte est si prolifique qu’il semble fertile et productif.',
       'Son discours prolifique a laissé une impression de fertile.'
     ],
     'synonymes': [
@@ -4259,7 +4259,7 @@ const words = [
     'mot': 'Protéiforme',
     'definition': 'Terme qui signifie multiforme, changeant ou varié.',
     'exemples': [
-      'Ce texte est si protéiforme qu'il semble multiforme et changeant.',
+      'Ce texte est si protéiforme qu’il semble multiforme et changeant.',
       'Son discours protéiforme a laissé une impression de multiforme.'
     ],
     'synonymes': [
@@ -4273,7 +4273,7 @@ const words = [
     'mot': 'Psyché',
     'definition': 'Terme qui signifie âme, esprit ou mental.',
     'exemples': [
-      'Ce texte est si psyché qu'il semble âme et esprit.',
+      'Ce texte est si psyché qu’il semble âme et esprit.',
       'Son discours psyché a laissé une impression de âme.'
     ],
     'synonymes': [
@@ -4287,7 +4287,7 @@ const words = [
     'mot': 'Psychotrope',
     'definition': 'Terme qui signifie psychoactif, hallucinogène ou stupéfiant.',
     'exemples': [
-      'Ce texte est si psychotrope qu'il semble psychoactif et hallucinogène.',
+      'Ce texte est si psychotrope qu’il semble psychoactif et hallucinogène.',
       'Son discours psychotrope a laissé une impression de psychoactif.'
     ],
     'synonymes': [
@@ -4301,7 +4301,7 @@ const words = [
     'mot': 'Puéril',
     'definition': 'Terme qui signifie infantile, immature ou enfantin.',
     'exemples': [
-      'Ce texte est si puéril qu'il semble infantile et immature.',
+      'Ce texte est si puéril qu’il semble infantile et immature.',
       'Son discours puéril a laissé une impression de infantile.'
     ],
     'synonymes': [
@@ -4313,13 +4313,13 @@ const words = [
   },
   {
     'mot': 'Quadrature',
-    'definition': 'Terme qui signifie résolution d'un carré, quadrangulation ou squarisation.',
+    'definition': 'Terme qui signifie résolution d’un carré, quadrangulation ou squarisation.',
     'exemples': [
-      'Il a décidé de quadrature, montrant ainsi résolution d'un carré et quadrangulation.',
-      'Ils ont dû quadrature pour atteindre résolution d'un carré.'
+      'Il a décidé de quadrature, montrant ainsi résolution d’un carré et quadrangulation.',
+      'Ils ont dû quadrature pour atteindre résolution d’un carré.'
     ],
     'synonymes': [
-      'résolution d'un carré',
+      'résolution d’un carré',
       'quadrangulation',
       'squarisation'
     ],
@@ -4329,7 +4329,7 @@ const words = [
     'mot': 'Quolibet',
     'definition': 'Terme qui signifie raillerie, moquerie ou brocard.',
     'exemples': [
-      'Ce texte est si quolibet qu'il semble raillerie et moquerie.',
+      'Ce texte est si quolibet qu’il semble raillerie et moquerie.',
       'Son discours quolibet a laissé une impression de raillerie.'
     ],
     'synonymes': [
@@ -4343,7 +4343,7 @@ const words = [
     'mot': 'Quintet',
     'definition': 'Terme qui signifie quintette, ensemble de cinq ou groupe de cinq.',
     'exemples': [
-      'Ce texte est si quintet qu'il semble quintette et ensemble de cinq.',
+      'Ce texte est si quintet qu’il semble quintette et ensemble de cinq.',
       'Son discours quintet a laissé une impression de quintette.'
     ],
     'synonymes': [
@@ -4385,7 +4385,7 @@ const words = [
     'mot': 'Récalcitrant',
     'definition': 'Terme qui signifie rétif, rebelle ou indocile.',
     'exemples': [
-      'Ce texte est si récalcitrant qu'il semble rétif et rebelle.',
+      'Ce texte est si récalcitrant qu’il semble rétif et rebelle.',
       'Son discours récalcitrant a laissé une impression de rétif.'
     ],
     'synonymes': [
@@ -4483,7 +4483,7 @@ const words = [
     'mot': 'Renégat',
     'definition': 'Terme qui signifie apostat, déserteur ou transfuge.',
     'exemples': [
-      'Ce texte est si renégat qu'il semble apostat et déserteur.',
+      'Ce texte est si renégat qu’il semble apostat et déserteur.',
       'Son discours renégat a laissé une impression de apostat.'
     ],
     'synonymes': [
@@ -4511,7 +4511,7 @@ const words = [
     'mot': 'Rhétorique',
     'definition': 'Terme qui signifie éloquence, discours ou art oratoire.',
     'exemples': [
-      'Ce texte est si rhétorique qu'il semble éloquence et discours.',
+      'Ce texte est si rhétorique qu’il semble éloquence et discours.',
       'Son discours rhétorique a laissé une impression de éloquence.'
     ],
     'synonymes': [
@@ -4539,7 +4539,7 @@ const words = [
     'mot': 'Saturnien',
     'definition': 'Terme qui signifie mélancolique, lent ou brumeux.',
     'exemples': [
-      'Ce texte est si saturnien qu'il semble mélancolique et lent.',
+      'Ce texte est si saturnien qu’il semble mélancolique et lent.',
       'Son discours saturnien a laissé une impression de mélancolique.'
     ],
     'synonymes': [
@@ -4581,7 +4581,7 @@ const words = [
     'mot': 'Sibyllin',
     'definition': 'Terme qui signifie énigmatique, obscur ou cryptique.',
     'exemples': [
-      'Ce texte est si sibyllin qu'il semble énigmatique et obscur.',
+      'Ce texte est si sibyllin qu’il semble énigmatique et obscur.',
       'Son discours sibyllin a laissé une impression de énigmatique.'
     ],
     'synonymes': [
@@ -4609,7 +4609,7 @@ const words = [
     'mot': 'Soliloque',
     'definition': 'Terme qui signifie monologue, discours intérieur ou aparté.',
     'exemples': [
-      'Ce texte est si soliloque qu'il semble monologue et discours intérieur.',
+      'Ce texte est si soliloque qu’il semble monologue et discours intérieur.',
       'Son discours soliloque a laissé une impression de monologue.'
     ],
     'synonymes': [
@@ -4637,7 +4637,7 @@ const words = [
     'mot': 'Stochastique',
     'definition': 'Terme qui signifie aléatoire, probabiliste ou incertain.',
     'exemples': [
-      'Ce texte est si stochastique qu'il semble aléatoire et probabiliste.',
+      'Ce texte est si stochastique qu’il semble aléatoire et probabiliste.',
       'Son discours stochastique a laissé une impression de aléatoire.'
     ],
     'synonymes': [
@@ -4651,7 +4651,7 @@ const words = [
     'mot': 'Stratagème',
     'definition': 'Terme qui signifie ruse, manœuvre ou astuce.',
     'exemples': [
-      'Ce texte est si stratagème qu'il semble ruse et manœuvre.',
+      'Ce texte est si stratagème qu’il semble ruse et manœuvre.',
       'Son discours stratagème a laissé une impression de ruse.'
     ],
     'synonymes': [
@@ -4665,7 +4665,7 @@ const words = [
     'mot': 'Succinct',
     'definition': 'Terme qui signifie bref, concise ou lapidaire.',
     'exemples': [
-      'Ce texte est si succinct qu'il semble bref et concise.',
+      'Ce texte est si succinct qu’il semble bref et concise.',
       'Son discours succinct a laissé une impression de bref.'
     ],
     'synonymes': [
@@ -4679,7 +4679,7 @@ const words = [
     'mot': 'Superflu',
     'definition': 'Terme qui signifie inutile, superfétatoire ou excessif.',
     'exemples': [
-      'Ce texte est si superflu qu'il semble inutile et superfétatoire.',
+      'Ce texte est si superflu qu’il semble inutile et superfétatoire.',
       'Son discours superflu a laissé une impression de inutile.'
     ],
     'synonymes': [
@@ -4693,7 +4693,7 @@ const words = [
     'mot': 'Sybarite',
     'definition': 'Terme qui signifie hédoniste, sensuel ou épicurien.',
     'exemples': [
-      'Ce texte est si sybarite qu'il semble hédoniste et sensuel.',
+      'Ce texte est si sybarite qu’il semble hédoniste et sensuel.',
       'Son discours sybarite a laissé une impression de hédoniste.'
     ],
     'synonymes': [
@@ -4707,7 +4707,7 @@ const words = [
     'mot': 'Symbiose',
     'definition': 'Terme qui signifie interaction, fusion ou coopération.',
     'exemples': [
-      'Ce texte est si symbiose qu'il semble interaction et fusion.',
+      'Ce texte est si symbiose qu’il semble interaction et fusion.',
       'Son discours symbiose a laissé une impression de interaction.'
     ],
     'synonymes': [
@@ -4721,7 +4721,7 @@ const words = [
     'mot': 'Synchronique',
     'definition': 'Terme qui signifie simultané, coïncident ou contemporain.',
     'exemples': [
-      'Ce texte est si synchronique qu'il semble simultané et coïncident.',
+      'Ce texte est si synchronique qu’il semble simultané et coïncident.',
       'Son discours synchronique a laissé une impression de simultané.'
     ],
     'synonymes': [
@@ -4735,7 +4735,7 @@ const words = [
     'mot': 'Synthétique',
     'definition': 'Terme qui signifie artificiel, composite ou combiné.',
     'exemples': [
-      'Ce texte est si synthétique qu'il semble artificiel et composite.',
+      'Ce texte est si synthétique qu’il semble artificiel et composite.',
       'Son discours synthétique a laissé une impression de artificiel.'
     ],
     'synonymes': [
@@ -4749,7 +4749,7 @@ const words = [
     'mot': 'Taciturne',
     'definition': 'Terme qui signifie silencieux, réservé ou discret.',
     'exemples': [
-      'Ce texte est si taciturne qu'il semble silencieux et réservé.',
+      'Ce texte est si taciturne qu’il semble silencieux et réservé.',
       'Son discours taciturne a laissé une impression de silencieux.'
     ],
     'synonymes': [
@@ -4819,7 +4819,7 @@ const words = [
     'mot': 'Timoré',
     'definition': 'Terme qui signifie peureux, craintif ou pusillanime.',
     'exemples': [
-      'Ce texte est si timoré qu'il semble peureux et craintif.',
+      'Ce texte est si timoré qu’il semble peureux et craintif.',
       'Son discours timoré a laissé une impression de peureux.'
     ],
     'synonymes': [
@@ -4875,7 +4875,7 @@ const words = [
     'mot': 'Transversal',
     'definition': 'Terme qui signifie horizontal, interdisciplinaire ou croisé.',
     'exemples': [
-      'Ce texte est si transversal qu'il semble horizontal et interdisciplinaire.',
+      'Ce texte est si transversal qu’il semble horizontal et interdisciplinaire.',
       'Son discours transversal a laissé une impression de horizontal.'
     ],
     'synonymes': [
@@ -4917,7 +4917,7 @@ const words = [
     'mot': 'Tumulte',
     'definition': 'Terme qui signifie agitation, brouhaha ou vacarme.',
     'exemples': [
-      'Ce texte est si tumulte qu'il semble agitation et brouhaha.',
+      'Ce texte est si tumulte qu’il semble agitation et brouhaha.',
       'Son discours tumulte a laissé une impression de agitation.'
     ],
     'synonymes': [
@@ -4931,7 +4931,7 @@ const words = [
     'mot': 'Tyrannique',
     'definition': 'Terme qui signifie despotique, autoritaire ou oppressif.',
     'exemples': [
-      'Ce texte est si tyrannique qu'il semble despotique et autoritaire.',
+      'Ce texte est si tyrannique qu’il semble despotique et autoritaire.',
       'Son discours tyrannique a laissé une impression de despotique.'
     ],
     'synonymes': [
@@ -4971,15 +4971,15 @@ const words = [
   },
   {
     'mot': 'Unisson',
-    'definition': 'Terme qui signifie ensemble, concordance ou à l'unisson.',
+    'definition': 'Terme qui signifie ensemble, concordance ou à l’unisson.',
     'exemples': [
-      'Ce texte est si unisson qu'il semble ensemble et concordance.',
+      'Ce texte est si unisson qu’il semble ensemble et concordance.',
       'Son discours unisson a laissé une impression de ensemble.'
     ],
     'synonymes': [
       'ensemble',
       'concordance',
-      'à l'unisson'
+      'à l’unisson'
     ],
     'prononciation': '[u-n-i-s-s-o-n]'
   },
@@ -5015,7 +5015,7 @@ const words = [
     'mot': 'Vénal',
     'definition': 'Terme qui signifie corrompu, cupide ou achetable.',
     'exemples': [
-      'Ce texte est si vénal qu'il semble corrompu et cupide.',
+      'Ce texte est si vénal qu’il semble corrompu et cupide.',
       'Son discours vénal a laissé une impression de corrompu.'
     ],
     'synonymes': [
@@ -5043,7 +5043,7 @@ const words = [
     'mot': 'Verbiage',
     'definition': 'Terme qui signifie bavardage, loquacité ou prolixité.',
     'exemples': [
-      'Ce texte est si verbiage qu'il semble bavardage et loquacité.',
+      'Ce texte est si verbiage qu’il semble bavardage et loquacité.',
       'Son discours verbiage a laissé une impression de bavardage.'
     ],
     'synonymes': [
@@ -5085,7 +5085,7 @@ const words = [
     'mot': 'Verve',
     'definition': 'Terme qui signifie éloquence, brio ou faconde.',
     'exemples': [
-      'Ce texte est si verve qu'il semble éloquence et brio.',
+      'Ce texte est si verve qu’il semble éloquence et brio.',
       'Son discours verve a laissé une impression de éloquence.'
     ],
     'synonymes': [
@@ -5099,7 +5099,7 @@ const words = [
     'mot': 'Vernal',
     'definition': 'Terme qui signifie printanier, florissant ou printemps.',
     'exemples': [
-      'Ce texte est si vernal qu'il semble printanier et florissant.',
+      'Ce texte est si vernal qu’il semble printanier et florissant.',
       'Son discours vernal a laissé une impression de printanier.'
     ],
     'synonymes': [
@@ -5113,7 +5113,7 @@ const words = [
     'mot': 'Vicieux',
     'definition': 'Terme qui signifie pervers, débauché ou malfaisant.',
     'exemples': [
-      'Ce texte est si vicieux qu'il semble pervers et débauché.',
+      'Ce texte est si vicieux qu’il semble pervers et débauché.',
       'Son discours vicieux a laissé une impression de pervers.'
     ],
     'synonymes': [
@@ -5127,7 +5127,7 @@ const words = [
     'mot': 'Viscéral',
     'definition': 'Terme qui signifie profond, instinctif ou entraînant.',
     'exemples': [
-      'Ce texte est si viscéral qu'il semble profond et instinctif.',
+      'Ce texte est si viscéral qu’il semble profond et instinctif.',
       'Son discours viscéral a laissé une impression de profond.'
     ],
     'synonymes': [
@@ -5183,7 +5183,7 @@ const words = [
     'mot': 'Votif',
     'definition': 'Terme qui signifie offert, dévot ou sacré.',
     'exemples': [
-      'Ce texte est si votif qu'il semble offert et dévot.',
+      'Ce texte est si votif qu’il semble offert et dévot.',
       'Son discours votif a laissé une impression de offert.'
     ],
     'synonymes': [
@@ -5197,7 +5197,7 @@ const words = [
     'mot': 'Xénophile',
     'definition': 'Terme qui signifie accueillant, cosmopolite ou ouvert aux étrangers.',
     'exemples': [
-      'Ce texte est si xénophile qu'il semble accueillant et cosmopolite.',
+      'Ce texte est si xénophile qu’il semble accueillant et cosmopolite.',
       'Son discours xénophile a laissé une impression de accueillant.'
     ],
     'synonymes': [
@@ -5211,7 +5211,7 @@ const words = [
     'mot': 'Xérophile',
     'definition': 'Terme qui signifie adapté aux milieux secs, tolérant la sécheresse ou xérophyte.',
     'exemples': [
-      'Ce texte est si xérophile qu'il semble adapté aux milieux secs et tolérant la sécheresse.',
+      'Ce texte est si xérophile qu’il semble adapté aux milieux secs et tolérant la sécheresse.',
       'Son discours xérophile a laissé une impression de adapté aux milieux secs.'
     ],
     'synonymes': [
@@ -5225,7 +5225,7 @@ const words = [
     'mot': 'Xylophage',
     'definition': 'Terme qui signifie mangeur de bois, insecte du bois ou lignivore.',
     'exemples': [
-      'Ce texte est si xylophage qu'il semble mangeur de bois et insecte du bois.',
+      'Ce texte est si xylophage qu’il semble mangeur de bois et insecte du bois.',
       'Son discours xylophage a laissé une impression de mangeur de bois.'
     ],
     'synonymes': [
@@ -5239,7 +5239,7 @@ const words = [
     'mot': 'Zénith',
     'definition': 'Terme qui signifie apogée, sommet ou point culminant.',
     'exemples': [
-      'Ce texte est si zénith qu'il semble apogée et sommet.',
+      'Ce texte est si zénith qu’il semble apogée et sommet.',
       'Son discours zénith a laissé une impression de apogée.'
     ],
     'synonymes': [
@@ -5253,7 +5253,7 @@ const words = [
     'mot': 'Zététique',
     'definition': 'Terme qui signifie méthode sceptique, doute méthodique ou scepticisme.',
     'exemples': [
-      'Ce texte est si zététique qu'il semble méthode sceptique et doute méthodique.',
+      'Ce texte est si zététique qu’il semble méthode sceptique et doute méthodique.',
       'Son discours zététique a laissé une impression de méthode sceptique.'
     ],
     'synonymes': [
@@ -5267,7 +5267,7 @@ const words = [
     'mot': 'Zeugma',
     'definition': 'Terme qui signifie construction elliptique, figure de style ou ellipse syntaxique.',
     'exemples': [
-      'Ce texte est si zeugma qu'il semble construction elliptique et figure de style.',
+      'Ce texte est si zeugma qu’il semble construction elliptique et figure de style.',
       'Son discours zeugma a laissé une impression de construction elliptique.'
     ],
     'synonymes': [
@@ -5281,7 +5281,7 @@ const words = [
     'mot': 'Zibeline',
     'definition': 'Terme qui signifie fourrure, animal ou martre.',
     'exemples': [
-      'Ce texte est si zibeline qu'il semble fourrure et animal.',
+      'Ce texte est si zibeline qu’il semble fourrure et animal.',
       'Son discours zibeline a laissé une impression de fourrure.'
     ],
     'synonymes': [
@@ -5295,7 +5295,7 @@ const words = [
     'mot': 'Zoophyte',
     'definition': 'Terme qui signifie organisme animal végétal, animal fixe ou hydrozoaire.',
     'exemples': [
-      'Ce texte est si zoophyte qu'il semble organisme animal végétal et animal fixe.',
+      'Ce texte est si zoophyte qu’il semble organisme animal végétal et animal fixe.',
       'Son discours zoophyte a laissé une impression de organisme animal végétal.'
     ],
     'synonymes': [
@@ -5323,7 +5323,7 @@ const words = [
     'mot': 'Aberrant',
     'definition': 'Terme qui signifie anormal, insensé ou absurde.',
     'exemples': [
-      'Ce texte est si aberrant qu'il semble anormal et insensé.',
+      'Ce texte est si aberrant qu’il semble anormal et insensé.',
       'Son discours aberrant a laissé une impression de anormal.'
     ],
     'synonymes': [
@@ -5463,7 +5463,7 @@ const words = [
     'mot': 'Avatar',
     'definition': 'Terme qui signifie incarnation, transformation ou personnage virtuel.',
     'exemples': [
-      'Ce texte est si avatar qu'il semble incarnation et transformation.',
+      'Ce texte est si avatar qu’il semble incarnation et transformation.',
       'Son discours avatar a laissé une impression de incarnation.'
     ],
     'synonymes': [
@@ -5477,7 +5477,7 @@ const words = [
     'mot': 'Axiologique',
     'definition': 'Terme qui signifie relatif aux valeurs, éthique ou valuationnel.',
     'exemples': [
-      'Ce texte est si axiologique qu'il semble relatif aux valeurs et éthique.',
+      'Ce texte est si axiologique qu’il semble relatif aux valeurs et éthique.',
       'Son discours axiologique a laissé une impression de relatif aux valeurs.'
     ],
     'synonymes': [
@@ -5519,7 +5519,7 @@ const words = [
     'mot': 'Bilatéral',
     'definition': 'Terme qui signifie réciproque, mutuel ou à deux côtés.',
     'exemples': [
-      'Ce texte est si bilatéral qu'il semble réciproque et mutuel.',
+      'Ce texte est si bilatéral qu’il semble réciproque et mutuel.',
       'Son discours bilatéral a laissé une impression de réciproque.'
     ],
     'synonymes': [
@@ -5547,7 +5547,7 @@ const words = [
     'mot': 'Candide',
     'definition': 'Terme qui signifie ingénu, naïf ou simple.',
     'exemples': [
-      'Ce texte est si candide qu'il semble ingénu et naïf.',
+      'Ce texte est si candide qu’il semble ingénu et naïf.',
       'Son discours candide a laissé une impression de ingénu.'
     ],
     'synonymes': [
@@ -5561,7 +5561,7 @@ const words = [
     'mot': 'Cardinal',
     'definition': 'Terme qui signifie fondamental, principal ou essentiel.',
     'exemples': [
-      'Ce texte est si cardinal qu'il semble fondamental et principal.',
+      'Ce texte est si cardinal qu’il semble fondamental et principal.',
       'Son discours cardinal a laissé une impression de fondamental.'
     ],
     'synonymes': [
@@ -5589,7 +5589,7 @@ const words = [
     'mot': 'Chimérique',
     'definition': 'Terme qui signifie fantaisiste, irréaliste ou utopique.',
     'exemples': [
-      'Ce texte est si chimérique qu'il semble fantaisiste et irréaliste.',
+      'Ce texte est si chimérique qu’il semble fantaisiste et irréaliste.',
       'Son discours chimérique a laissé une impression de fantaisiste.'
     ],
     'synonymes': [
@@ -5603,7 +5603,7 @@ const words = [
     'mot': 'Cinglant',
     'definition': 'Terme qui signifie acerbe, piquant ou mordant.',
     'exemples': [
-      'Ce texte est si cinglant qu'il semble acerbe et piquant.',
+      'Ce texte est si cinglant qu’il semble acerbe et piquant.',
       'Son discours cinglant a laissé une impression de acerbe.'
     ],
     'synonymes': [
@@ -5631,7 +5631,7 @@ const words = [
     'mot': 'Clairvoyant',
     'definition': 'Terme qui signifie lucide, perspicace ou visionnaire.',
     'exemples': [
-      'Ce texte est si clairvoyant qu'il semble lucide et perspicace.',
+      'Ce texte est si clairvoyant qu’il semble lucide et perspicace.',
       'Son discours clairvoyant a laissé une impression de lucide.'
     ],
     'synonymes': [
@@ -5645,7 +5645,7 @@ const words = [
     'mot': 'Cognitif',
     'definition': 'Terme qui signifie mental, intellectuel ou psychique.',
     'exemples': [
-      'Ce texte est si cognitif qu'il semble mental et intellectuel.',
+      'Ce texte est si cognitif qu’il semble mental et intellectuel.',
       'Son discours cognitif a laissé une impression de mental.'
     ],
     'synonymes': [
@@ -5673,7 +5673,7 @@ const words = [
     'mot': 'Corrosif',
     'definition': 'Terme qui signifie caustique, mordant ou déstabilisant.',
     'exemples': [
-      'Ce texte est si corrosif qu'il semble caustique et mordant.',
+      'Ce texte est si corrosif qu’il semble caustique et mordant.',
       'Son discours corrosif a laissé une impression de caustique.'
     ],
     'synonymes': [
@@ -5687,7 +5687,7 @@ const words = [
     'mot': 'Cryptogramme',
     'definition': 'Terme qui signifie message chiffré, énigme ou code.',
     'exemples': [
-      'Ce texte est si cryptogramme qu'il semble message chiffré et énigme.',
+      'Ce texte est si cryptogramme qu’il semble message chiffré et énigme.',
       'Son discours cryptogramme a laissé une impression de message chiffré.'
     ],
     'synonymes': [
@@ -5699,15 +5699,15 @@ const words = [
   },
   {
     'mot': 'Curriculum',
-    'definition': 'Terme qui signifie programme, parcours ou plan d'étude.',
+    'definition': 'Terme qui signifie programme, parcours ou plan d’étude.',
     'exemples': [
-      'Ce texte est si curriculum qu'il semble programme et parcours.',
+      'Ce texte est si curriculum qu’il semble programme et parcours.',
       'Son discours curriculum a laissé une impression de programme.'
     ],
     'synonymes': [
       'programme',
       'parcours',
-      'plan d'étude'
+      'plan d’étude'
     ],
     'prononciation': '[c-u-r-r-i-c-u-l-u-m]'
   },
@@ -5729,7 +5729,7 @@ const words = [
     'mot': 'Décadent',
     'definition': 'Terme qui signifie dégénéré, démoralisé ou déclinant.',
     'exemples': [
-      'Ce texte est si décadent qu'il semble dégénéré et démoralisé.',
+      'Ce texte est si décadent qu’il semble dégénéré et démoralisé.',
       'Son discours décadent a laissé une impression de dégénéré.'
     ],
     'synonymes': [
@@ -5757,7 +5757,7 @@ const words = [
     'mot': 'Dédale',
     'definition': 'Terme qui signifie labyrinthe, enchevêtrement ou méandre.',
     'exemples': [
-      'Ce texte est si dédale qu'il semble labyrinthe et enchevêtrement.',
+      'Ce texte est si dédale qu’il semble labyrinthe et enchevêtrement.',
       'Son discours dédale a laissé une impression de labyrinthe.'
     ],
     'synonymes': [
@@ -5785,7 +5785,7 @@ const words = [
     'mot': 'Désinvolte',
     'definition': 'Terme qui signifie désinhibé, insouciant ou indifférent.',
     'exemples': [
-      'Ce texte est si désinvolte qu'il semble désinhibé et insouciant.',
+      'Ce texte est si désinvolte qu’il semble désinhibé et insouciant.',
       'Son discours désinvolte a laissé une impression de désinhibé.'
     ],
     'synonymes': [
@@ -5799,7 +5799,7 @@ const words = [
     'mot': 'Désopilant',
     'definition': 'Terme qui signifie hilarant, drôle ou comique.',
     'exemples': [
-      'Ce texte est si désopilant qu'il semble hilarant et drôle.',
+      'Ce texte est si désopilant qu’il semble hilarant et drôle.',
       'Son discours désopilant a laissé une impression de hilarant.'
     ],
     'synonymes': [
@@ -5813,7 +5813,7 @@ const words = [
     'mot': 'Détracteur',
     'definition': 'Terme qui signifie calomniateur, critique ou opposant.',
     'exemples': [
-      'Ce texte est si détracteur qu'il semble calomniateur et critique.',
+      'Ce texte est si détracteur qu’il semble calomniateur et critique.',
       'Son discours détracteur a laissé une impression de calomniateur.'
     ],
     'synonymes': [
@@ -5827,7 +5827,7 @@ const words = [
     'mot': 'Dilettante',
     'definition': 'Terme qui signifie amateur, non spécialiste ou bricoleur.',
     'exemples': [
-      'Ce texte est si dilettante qu'il semble amateur et non spécialiste.',
+      'Ce texte est si dilettante qu’il semble amateur et non spécialiste.',
       'Son discours dilettante a laissé une impression de amateur.'
     ],
     'synonymes': [
@@ -5841,7 +5841,7 @@ const words = [
     'mot': 'Dispendieux',
     'definition': 'Terme qui signifie coûteux, onéreux ou cher.',
     'exemples': [
-      'Ce texte est si dispendieux qu'il semble coûteux et onéreux.',
+      'Ce texte est si dispendieux qu’il semble coûteux et onéreux.',
       'Son discours dispendieux a laissé une impression de coûteux.'
     ],
     'synonymes': [
@@ -5855,7 +5855,7 @@ const words = [
     'mot': 'Disparate',
     'definition': 'Terme qui signifie hétérogène, divers ou bigarré.',
     'exemples': [
-      'Ce texte est si disparate qu'il semble hétérogène et divers.',
+      'Ce texte est si disparate qu’il semble hétérogène et divers.',
       'Son discours disparate a laissé une impression de hétérogène.'
     ],
     'synonymes': [
@@ -5869,7 +5869,7 @@ const words = [
     'mot': 'Dissipé',
     'definition': 'Terme qui signifie turbulent, indiscipliné ou agité.',
     'exemples': [
-      'Ce texte est si dissipé qu'il semble turbulent et indiscipliné.',
+      'Ce texte est si dissipé qu’il semble turbulent et indiscipliné.',
       'Son discours dissipé a laissé une impression de turbulent.'
     ],
     'synonymes': [
@@ -5911,7 +5911,7 @@ const words = [
     'mot': 'Éclectique',
     'definition': 'Terme qui signifie diversifié, varié ou large.',
     'exemples': [
-      'Ce texte est si éclectique qu'il semble diversifié et varié.',
+      'Ce texte est si éclectique qu’il semble diversifié et varié.',
       'Son discours éclectique a laissé une impression de diversifié.'
     ],
     'synonymes': [
@@ -5953,7 +5953,7 @@ const words = [
     'mot': 'Égrillard',
     'definition': 'Terme qui signifie gaulois, polisson ou libertin.',
     'exemples': [
-      'Ce texte est si égrillard qu'il semble gaulois et polisson.',
+      'Ce texte est si égrillard qu’il semble gaulois et polisson.',
       'Son discours égrillard a laissé une impression de gaulois.'
     ],
     'synonymes': [
@@ -5981,7 +5981,7 @@ const words = [
     'mot': 'Emblématique',
     'definition': 'Terme qui signifie symbolique, représentatif ou icônique.',
     'exemples': [
-      'Ce texte est si emblématique qu'il semble symbolique et représentatif.',
+      'Ce texte est si emblématique qu’il semble symbolique et représentatif.',
       'Son discours emblématique a laissé une impression de symbolique.'
     ],
     'synonymes': [
@@ -6023,7 +6023,7 @@ const words = [
     'mot': 'Empirique',
     'definition': 'Terme qui signifie expérimental, pratique ou concret.',
     'exemples': [
-      'Ce texte est si empirique qu'il semble expérimental et pratique.',
+      'Ce texte est si empirique qu’il semble expérimental et pratique.',
       'Son discours empirique a laissé une impression de expérimental.'
     ],
     'synonymes': [
@@ -6037,7 +6037,7 @@ const words = [
     'mot': 'Enivrant',
     'definition': 'Terme qui signifie grisant, enivrant ou excitant.',
     'exemples': [
-      'Ce texte est si enivrant qu'il semble grisant et enivrant.',
+      'Ce texte est si enivrant qu’il semble grisant et enivrant.',
       'Son discours enivrant a laissé une impression de grisant.'
     ],
     'synonymes': [
@@ -6065,7 +6065,7 @@ const words = [
     'mot': 'Équinoxe',
     'definition': 'Terme qui signifie jour égal, changement de saison ou solstice.',
     'exemples': [
-      'Ce texte est si équinoxe qu'il semble jour égal et changement de saison.',
+      'Ce texte est si équinoxe qu’il semble jour égal et changement de saison.',
       'Son discours équinoxe a laissé une impression de jour égal.'
     ],
     'synonymes': [
@@ -6079,7 +6079,7 @@ const words = [
     'mot': 'Érsatz',
     'definition': 'Terme qui signifie substitut, remplaçant ou succédané.',
     'exemples': [
-      'Ce texte est si érsatz qu'il semble substitut et remplaçant.',
+      'Ce texte est si érsatz qu’il semble substitut et remplaçant.',
       'Son discours érsatz a laissé une impression de substitut.'
     ],
     'synonymes': [
@@ -6093,7 +6093,7 @@ const words = [
     'mot': 'Estafette',
     'definition': 'Terme qui signifie messager, courrier ou éclaireur.',
     'exemples': [
-      'Ce texte est si estafette qu'il semble messager et courrier.',
+      'Ce texte est si estafette qu’il semble messager et courrier.',
       'Son discours estafette a laissé une impression de messager.'
     ],
     'synonymes': [
@@ -6107,7 +6107,7 @@ const words = [
     'mot': 'Éthéré',
     'definition': 'Terme qui signifie aérien, subtil ou léger.',
     'exemples': [
-      'Ce texte est si éthéré qu'il semble aérien et subtil.',
+      'Ce texte est si éthéré qu’il semble aérien et subtil.',
       'Son discours éthéré a laissé une impression de aérien.'
     ],
     'synonymes': [
@@ -6121,7 +6121,7 @@ const words = [
     'mot': 'Éthique',
     'definition': 'Terme qui signifie morale, déontologie ou vertu.',
     'exemples': [
-      'Ce texte est si éthique qu'il semble morale et déontologie.',
+      'Ce texte est si éthique qu’il semble morale et déontologie.',
       'Son discours éthique a laissé une impression de morale.'
     ],
     'synonymes': [
@@ -6133,13 +6133,13 @@ const words = [
   },
   {
     'mot': 'Étiole',
-    'definition': 'Terme qui signifie s'affaiblir, dépérir ou pâlir.',
+    'definition': 'Terme qui signifie s’affaiblir, dépérir ou pâlir.',
     'exemples': [
-      'Ce texte est si étiole qu'il semble s'affaiblir et dépérir.',
-      'Son discours étiole a laissé une impression de s'affaiblir.'
+      'Ce texte est si étiole qu’il semble s’affaiblir et dépérir.',
+      'Son discours étiole a laissé une impression de s’affaiblir.'
     ],
     'synonymes': [
-      's'affaiblir',
+      's’affaiblir',
       'dépérir',
       'pâlir'
     ],
@@ -6205,7 +6205,7 @@ const words = [
     'mot': 'Faste',
     'definition': 'Terme qui signifie pomp, splendeur ou magnificence.',
     'exemples': [
-      'Ce texte est si faste qu'il semble pomp et splendeur.',
+      'Ce texte est si faste qu’il semble pomp et splendeur.',
       'Son discours faste a laissé une impression de pomp.'
     ],
     'synonymes': [
@@ -6219,7 +6219,7 @@ const words = [
     'mot': 'Fasteux',
     'definition': 'Terme qui signifie luxueux, somptueux ou opulent.',
     'exemples': [
-      'Ce texte est si fasteux qu'il semble luxueux et somptueux.',
+      'Ce texte est si fasteux qu’il semble luxueux et somptueux.',
       'Son discours fasteux a laissé une impression de luxueux.'
     ],
     'synonymes': [
@@ -6247,7 +6247,7 @@ const words = [
     'mot': 'Ferveur',
     'definition': 'Terme qui signifie ardeur, enthousiasme ou dévotion.',
     'exemples': [
-      'Ce texte est si ferveur qu'il semble ardeur et enthousiasme.',
+      'Ce texte est si ferveur qu’il semble ardeur et enthousiasme.',
       'Son discours ferveur a laissé une impression de ardeur.'
     ],
     'synonymes': [
@@ -6273,15 +6273,15 @@ const words = [
   },
   {
     'mot': 'Flavescent',
-    'definition': 'Terme qui signifie jaunissant, doré ou d'or.',
+    'definition': 'Terme qui signifie jaunissant, doré ou d’or.',
     'exemples': [
-      'Ce texte est si flavescent qu'il semble jaunissant et doré.',
+      'Ce texte est si flavescent qu’il semble jaunissant et doré.',
       'Son discours flavescent a laissé une impression de jaunissant.'
     ],
     'synonymes': [
       'jaunissant',
       'doré',
-      'd'or'
+      'd’or'
     ],
     'prononciation': '[f-l-a-v-e-s-c-e-n-t]'
   },
@@ -6289,7 +6289,7 @@ const words = [
     'mot': 'Florilège',
     'definition': 'Terme qui signifie anthologie, sélection ou panorama.',
     'exemples': [
-      'Ce texte est si florilège qu'il semble anthologie et sélection.',
+      'Ce texte est si florilège qu’il semble anthologie et sélection.',
       'Son discours florilège a laissé une impression de anthologie.'
     ],
     'synonymes': [
@@ -6317,7 +6317,7 @@ const words = [
     'mot': 'Fougueux',
     'definition': 'Terme qui signifie ardent, impétueux ou enthousiaste.',
     'exemples': [
-      'Ce texte est si fougueux qu'il semble ardent et impétueux.',
+      'Ce texte est si fougueux qu’il semble ardent et impétueux.',
       'Son discours fougueux a laissé une impression de ardent.'
     ],
     'synonymes': [
@@ -6373,7 +6373,7 @@ const words = [
     'mot': 'Hiératique',
     'definition': 'Terme qui signifie solennel, sacré ou majestueux.',
     'exemples': [
-      'Ce texte est si hiératique qu'il semble solennel et sacré.',
+      'Ce texte est si hiératique qu’il semble solennel et sacré.',
       'Son discours hiératique a laissé une impression de solennel.'
     ],
     'synonymes': [
@@ -6387,7 +6387,7 @@ const words = [
     'mot': 'Hirsute',
     'definition': 'Terme qui signifie ébouriffé, dépeigné ou emmêlé.',
     'exemples': [
-      'Ce texte est si hirsute qu'il semble ébouriffé et dépeigné.',
+      'Ce texte est si hirsute qu’il semble ébouriffé et dépeigné.',
       'Son discours hirsute a laissé une impression de ébouriffé.'
     ],
     'synonymes': [
@@ -6401,7 +6401,7 @@ const words = [
     'mot': 'Hydrique',
     'definition': 'Terme qui signifie aquatique, humide ou liquide.',
     'exemples': [
-      'Ce texte est si hydrique qu'il semble aquatique et humide.',
+      'Ce texte est si hydrique qu’il semble aquatique et humide.',
       'Son discours hydrique a laissé une impression de aquatique.'
     ],
     'synonymes': [
@@ -6415,7 +6415,7 @@ const words = [
     'mot': 'Hyperbolique',
     'definition': 'Terme qui signifie exagéré, excessif ou grandiloquent.',
     'exemples': [
-      'Ce texte est si hyperbolique qu'il semble exagéré et excessif.',
+      'Ce texte est si hyperbolique qu’il semble exagéré et excessif.',
       'Son discours hyperbolique a laissé une impression de exagéré.'
     ],
     'synonymes': [
@@ -6429,7 +6429,7 @@ const words = [
     'mot': 'Hypnagogique',
     'definition': 'Terme qui signifie pré‑sommeil, soporifique ou somnolent.',
     'exemples': [
-      'Ce texte est si hypnagogique qu'il semble pré‑sommeil et soporifique.',
+      'Ce texte est si hypnagogique qu’il semble pré‑sommeil et soporifique.',
       'Son discours hypnagogique a laissé une impression de pré‑sommeil.'
     ],
     'synonymes': [
@@ -6443,7 +6443,7 @@ const words = [
     'mot': 'Hypothétique',
     'definition': 'Terme qui signifie supposé, conjectural ou conditionnel.',
     'exemples': [
-      'Ce texte est si hypothétique qu'il semble supposé et conjectural.',
+      'Ce texte est si hypothétique qu’il semble supposé et conjectural.',
       'Son discours hypothétique a laissé une impression de supposé.'
     ],
     'synonymes': [
@@ -6471,7 +6471,7 @@ const words = [
     'mot': 'Inclinable',
     'definition': 'Terme qui signifie flexible, penchable ou réglable.',
     'exemples': [
-      'Ce texte est si inclinable qu'il semble flexible et penchable.',
+      'Ce texte est si inclinable qu’il semble flexible et penchable.',
       'Son discours inclinable a laissé une impression de flexible.'
     ],
     'synonymes': [
@@ -6485,7 +6485,7 @@ const words = [
     'mot': 'Incohérent',
     'definition': 'Terme qui signifie illogique, incongru ou désordonné.',
     'exemples': [
-      'Ce texte est si incohérent qu'il semble illogique et incongru.',
+      'Ce texte est si incohérent qu’il semble illogique et incongru.',
       'Son discours incohérent a laissé une impression de illogique.'
     ],
     'synonymes': [
@@ -6541,7 +6541,7 @@ const words = [
     'mot': 'Infatué',
     'definition': 'Terme qui signifie vaniteux, imbu de soi ou orgueilleux.',
     'exemples': [
-      'Ce texte est si infatué qu'il semble vaniteux et imbu de soi.',
+      'Ce texte est si infatué qu’il semble vaniteux et imbu de soi.',
       'Son discours infatué a laissé une impression de vaniteux.'
     ],
     'synonymes': [
@@ -6639,7 +6639,7 @@ const words = [
     'mot': 'Insatiable',
     'definition': 'Terme qui signifie inassouvi, vorace ou inextinguible.',
     'exemples': [
-      'Ce texte est si insatiable qu'il semble inassouvi et vorace.',
+      'Ce texte est si insatiable qu’il semble inassouvi et vorace.',
       'Son discours insatiable a laissé une impression de inassouvi.'
     ],
     'synonymes': [
@@ -6653,7 +6653,7 @@ const words = [
     'mot': 'Insigne',
     'definition': 'Terme qui signifie remarquable, éminent ou notable.',
     'exemples': [
-      'Ce texte est si insigne qu'il semble remarquable et éminent.',
+      'Ce texte est si insigne qu’il semble remarquable et éminent.',
       'Son discours insigne a laissé une impression de remarquable.'
     ],
     'synonymes': [
@@ -6681,7 +6681,7 @@ const words = [
     'mot': 'Insolite',
     'definition': 'Terme qui signifie inhabituel, étrange ou singulier.',
     'exemples': [
-      'Ce texte est si insolite qu'il semble inhabituel et étrange.',
+      'Ce texte est si insolite qu’il semble inhabituel et étrange.',
       'Son discours insolite a laissé une impression de inhabituel.'
     ],
     'synonymes': [
@@ -6695,7 +6695,7 @@ const words = [
     'mot': 'Insomniaque',
     'definition': 'Terme qui signifie qui ne dort pas, éveillé ou immanquable.',
     'exemples': [
-      'Ce texte est si insomniaque qu'il semble qui ne dort pas et éveillé.',
+      'Ce texte est si insomniaque qu’il semble qui ne dort pas et éveillé.',
       'Son discours insomniaque a laissé une impression de qui ne dort pas.'
     ],
     'synonymes': [
@@ -6709,7 +6709,7 @@ const words = [
     'mot': 'Insoumis',
     'definition': 'Terme qui signifie rebelle, indiscipliné ou récalcitrant.',
     'exemples': [
-      'Ce texte est si insoumis qu'il semble rebelle et indiscipliné.',
+      'Ce texte est si insoumis qu’il semble rebelle et indiscipliné.',
       'Son discours insoumis a laissé une impression de rebelle.'
     ],
     'synonymes': [
@@ -6737,7 +6737,7 @@ const words = [
     'mot': 'Intersidéral',
     'definition': 'Terme qui signifie cosmique, spatial ou galactique.',
     'exemples': [
-      'Ce texte est si intersidéral qu'il semble cosmique et spatial.',
+      'Ce texte est si intersidéral qu’il semble cosmique et spatial.',
       'Son discours intersidéral a laissé une impression de cosmique.'
     ],
     'synonymes': [
@@ -6751,7 +6751,7 @@ const words = [
     'mot': 'Interstitiel',
     'definition': 'Terme qui signifie intermédiaire, entre‑deux ou espace libre.',
     'exemples': [
-      'Ce texte est si interstitiel qu'il semble intermédiaire et entre‑deux.',
+      'Ce texte est si interstitiel qu’il semble intermédiaire et entre‑deux.',
       'Son discours interstitiel a laissé une impression de intermédiaire.'
     ],
     'synonymes': [
@@ -6765,7 +6765,7 @@ const words = [
     'mot': 'Intransigeant',
     'definition': 'Terme qui signifie rigide, inflexible ou strict.',
     'exemples': [
-      'Ce texte est si intransigeant qu'il semble rigide et inflexible.',
+      'Ce texte est si intransigeant qu’il semble rigide et inflexible.',
       'Son discours intransigeant a laissé une impression de rigide.'
     ],
     'synonymes': [
@@ -6779,7 +6779,7 @@ const words = [
     'mot': 'Introspectif',
     'definition': 'Terme qui signifie réfléchi, analytique ou réflexif.',
     'exemples': [
-      'Ce texte est si introspectif qu'il semble réfléchi et analytique.',
+      'Ce texte est si introspectif qu’il semble réfléchi et analytique.',
       'Son discours introspectif a laissé une impression de réfléchi.'
     ],
     'synonymes': [
@@ -6793,7 +6793,7 @@ const words = [
     'mot': 'Iridescent',
     'definition': 'Terme qui signifie chatoyant, nacré ou bigarré.',
     'exemples': [
-      'Ce texte est si iridescent qu'il semble chatoyant et nacré.',
+      'Ce texte est si iridescent qu’il semble chatoyant et nacré.',
       'Son discours iridescent a laissé une impression de chatoyant.'
     ],
     'synonymes': [
@@ -6807,7 +6807,7 @@ const words = [
     'mot': 'Ironique',
     'definition': 'Terme qui signifie sarcastique, moqueur ou caustique.',
     'exemples': [
-      'Ce texte est si ironique qu'il semble sarcastique et moqueur.',
+      'Ce texte est si ironique qu’il semble sarcastique et moqueur.',
       'Son discours ironique a laissé une impression de sarcastique.'
     ],
     'synonymes': [
@@ -6849,7 +6849,7 @@ const words = [
     'mot': 'Juvénile',
     'definition': 'Terme qui signifie adolescent, puéril ou enfantin.',
     'exemples': [
-      'Ce texte est si juvénile qu'il semble adolescent et puéril.',
+      'Ce texte est si juvénile qu’il semble adolescent et puéril.',
       'Son discours juvénile a laissé une impression de adolescent.'
     ],
     'synonymes': [
@@ -6877,7 +6877,7 @@ const words = [
     'mot': 'Labyrinthe',
     'definition': 'Terme qui signifie dédale, enchevêtrement ou maze.',
     'exemples': [
-      'Ce texte est si labyrinthe qu'il semble dédale et enchevêtrement.',
+      'Ce texte est si labyrinthe qu’il semble dédale et enchevêtrement.',
       'Son discours labyrinthe a laissé une impression de dédale.'
     ],
     'synonymes': [
@@ -6933,7 +6933,7 @@ const words = [
     'mot': 'Léthargique',
     'definition': 'Terme qui signifie somnolent, apathique ou assoupi.',
     'exemples': [
-      'Ce texte est si léthargique qu'il semble somnolent et apathique.',
+      'Ce texte est si léthargique qu’il semble somnolent et apathique.',
       'Son discours léthargique a laissé une impression de somnolent.'
     ],
     'synonymes': [
@@ -6947,7 +6947,7 @@ const words = [
     'mot': 'Limaçon',
     'definition': 'Terme qui signifie escargot, spirale ou hélice.',
     'exemples': [
-      'Ce texte est si limaçon qu'il semble escargot et spirale.',
+      'Ce texte est si limaçon qu’il semble escargot et spirale.',
       'Son discours limaçon a laissé une impression de escargot.'
     ],
     'synonymes': [
@@ -6975,7 +6975,7 @@ const words = [
     'mot': 'Logorrhée',
     'definition': 'Terme qui signifie bavardage, verbiage ou prolixité.',
     'exemples': [
-      'Ce texte est si logorrhée qu'il semble bavardage et verbiage.',
+      'Ce texte est si logorrhée qu’il semble bavardage et verbiage.',
       'Son discours logorrhée a laissé une impression de bavardage.'
     ],
     'synonymes': [
