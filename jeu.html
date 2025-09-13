@@ -49,11 +49,12 @@
   <body>
     <!-- Animation d'introduction : logo et titre apparaissent brièvement -->
     <div id="loader">
-      <div class="intro">
-        <img src="assets/logo.svg" alt="" class="intro-logo" />
-        <h1 class="intro-text">Jeu&nbsp;–&nbsp;Devinez&nbsp;le&nbsp;mot</h1>
-        <!-- Slogan apparaissant sous le titre pour rappeler l'objectif du jeu -->
-        <p class="intro-tagline">Enrichissez votre vocabulaire en jouant</p>
+      <!-- Animation d'introduction revue : un cercle s'affiche, puis une vague descend pour dévoiler la page -->
+      <div class="animation-container">
+        <div class="loader-circle"></div>
+        <svg class="loader-wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path d="M0,64L48,58.7C96,53,192,43,288,64C384,85,480,139,576,154.7C672,171,768,149,864,154.7C960,160,1056,192,1152,192C1248,192,1344,160,1392,144L1440,128V0H1392C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0H0Z"></path>
+        </svg>
       </div>
     </div>
 

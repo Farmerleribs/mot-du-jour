@@ -305,10 +305,18 @@
   });
 })();
 
-// Masquer l'animation d'introduction après un délai défini pour la page de jeu
+// Masquer l'animation d'introduction une fois que la vague a terminé de glisser
+// pour la page de jeu. Si aucun élément de vague n'est trouvé, utilise une
+// temporisation de secours.
 document.addEventListener('DOMContentLoaded', () => {
   const loader = document.getElementById('loader');
-  if (loader) {
+  if (!loader) return;
+  const wave = loader.querySelector('.loader-wave');
+  if (wave) {
+    wave.addEventListener('animationend', () => {
+      loader.classList.add('hidden');
+    });
+  } else {
     setTimeout(() => {
       loader.classList.add('hidden');
     }, 2000);

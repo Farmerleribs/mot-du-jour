@@ -65,12 +65,22 @@
   });
 })();
 
-// Masquer l'animation d'introduction après un délai défini, afin que l'effet
-// soit perçu comme une entrée en scène et non comme un simple temps de chargement.
+// Masquer l'animation d'introduction une fois que la vague a terminé sa
+// descente. La vague est la dernière partie de l'animation, son évènement
+// `animationend` indique que la page peut être dévoilée. Si pour une
+// quelconque raison la vague n'est pas trouvée (par exemple sur des
+// navigateurs très anciens), une temporisation de secours est utilisée.
 document.addEventListener('DOMContentLoaded', () => {
   const loader = document.getElementById('loader');
-  if (loader) {
-    // Attendre suffisamment longtemps pour laisser l'animation se dérouler
+  if (!loader) return;
+  const wave = loader.querySelector('.loader-wave');
+  if (wave) {
+    // Lorsque l'animation de la vague se termine, on masque le loader
+    wave.addEventListener('animationend', () => {
+      loader.classList.add('hidden');
+    });
+  } else {
+    // Fallback : au cas où la vague n'existerait pas, on masque après 2 secondes
     setTimeout(() => {
       loader.classList.add('hidden');
     }, 2000);
